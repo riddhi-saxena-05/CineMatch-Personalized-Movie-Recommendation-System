@@ -1,0 +1,4 @@
+method,RMSE,Precision@5
+user,0.8362,0.2177
+item,0.9533,0.2183
+svd,0.8698,0.2183

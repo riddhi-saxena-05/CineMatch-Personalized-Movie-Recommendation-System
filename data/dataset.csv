@@ -1,0 +1,2869 @@
+user_id,movie_title,genre,language,release_year,rating,timestamp
+496,Pink,Thriller,Tamil,2010,3.5,2025-09-06
+42,KGF,Action,Tamil,2020,4.0,2024-05-03
+80,Pink,Action,Hindi,2010,5.0,2025-06-11
+390,RRR,Comedy,Kannada,2015,3.0,2024-05-18
+75,Andhadhun,Thriller,Hindi,2010,4.0,2025-11-13
+318,Andhadhun,Romance,Hindi,2021,1.0,2024-01-07
+59,Baahubali,Action,Telugu,2018,3.0,2025-08-13
+482,Baahubali,Action,Hindi,2016,4.5,2024-01-16
+451,3 Idiots,Thriller,Tamil,2014,3.5,2024-05-03
+269,KGF,Sci-Fi,Tamil,2012,2.5,2025-10-04
+215,KGF,Action,Kannada,2020,3.0,2025-02-20
+49,3 Idiots,Action,Tamil,2020,4.0,2025-09-01
+489,Andhadhun,Romance,Kannada,2014,4.0,2025-09-12
+214,KGF,Drama,Tamil,2020,4.5,2024-09-11
+100,Drishyam,Action,Kannada,2019,3.0,2025-06-29
+298,KGF,Comedy,Kannada,2014,3.5,2025-10-27
+138,Andhadhun,Drama,Hindi,2023,4.5,2025-05-24
+454,Baahubali,Romance,Kannada,2017,3.0,2024-08-30
+149,Pink,Action,Hindi,2014,3.0,2025-09-18
+407,RRR,Comedy,Telugu,2018,2.0,2024-06-11
+298,Pink,Thriller,Telugu,2024,2.5,2025-05-30
+93,Andhadhun,Romance,Telugu,2019,3.5,2024-08-07
+157,Dangal,Drama,Kannada,2010,4.0,2025-04-30
+473,RRR,Romance,Hindi,2010,3.5,2025-06-08
+217,3 Idiots,Drama,Telugu,2016,3.5,2025-01-15
+94,Dangal,Comedy,Telugu,2019,4.5,2024-08-10
+268,Andhadhun,Comedy,Telugu,2013,4.0,2025-03-10
+202,Andhadhun,Romance,Hindi,2019,3.5,2024-01-02
+310,Drishyam,Thriller,Kannada,2024,3.0,2025-10-24
+287,Andhadhun,Action,Hindi,2018,3.5,2024-11-16
+181,3 Idiots,Action,Kannada,2015,2.5,2025-07-06
+171,Andhadhun,Sci-Fi,Telugu,2013,4.5,2025-09-19
+332,KGF,Action,Tamil,2012,2.0,2024-09-07
+474,Dangal,Sci-Fi,Hindi,2015,4.5,2025-02-24
+156,Drishyam,Drama,Tamil,2021,5.0,2024-05-01
+132,Drishyam,Sci-Fi,Tamil,2013,3.5,2024-06-06
+36,Andhadhun,Thriller,Telugu,2024,3.5,2025-07-25
+392,Pink,Thriller,Kannada,2022,2.5,2025-04-28
+12,Drishyam,Romance,Telugu,2011,2.5,2024-06-04
+490,RRR,Comedy,Hindi,2017,3.0,2025-01-25
+436,Pink,Thriller,Tamil,2013,3.5,2025-09-19
+440,3 Idiots,Comedy,Tamil,2018,3.5,2024-12-26
+334,RRR,Comedy,Hindi,2023,3.5,2024-11-22
+306,KGF,Sci-Fi,Kannada,2023,3.0,2025-04-30
+62,Baahubali,Romance,Telugu,2017,4.0,2024-06-01
+45,Baahubali,Comedy,Kannada,2010,4.5,2025-02-19
+166,Pink,Action,Telugu,2020,4.5,2025-01-10
+8,Andhadhun,Drama,Telugu,2015,4.0,2025-04-09
+221,KGF,Sci-Fi,Tamil,2023,3.5,2024-02-11
+269,3 Idiots,Comedy,Tamil,2019,5.0,2025-05-20
+290,Drishyam,Comedy,Tamil,2020,4.0,2025-07-12
+334,Dangal,Thriller,Telugu,2015,4.0,2025-11-01
+451,KGF,Comedy,Tamil,2012,4.0,2025-08-19
+401,3 Idiots,Comedy,Kannada,2018,4.0,2025-09-20
+2,Dangal,Thriller,Hindi,2017,5.0,2024-02-04
+451,RRR,Romance,Tamil,2024,3.0,2024-03-22
+373,Dangal,Thriller,Hindi,2018,4.5,2025-07-08
+255,Baahubali,Sci-Fi,Tamil,2017,5.0,2024-10-21
+2,Andhadhun,Comedy,Kannada,2022,3.0,2025-05-13
+494,Baahubali,Sci-Fi,Kannada,2018,3.5,2025-01-05
+200,Pink,Sci-Fi,Kannada,2021,5.0,2024-08-08
+441,Pink,Drama,Tamil,2023,3.0,2024-09-19
+43,RRR,Romance,Tamil,2023,4.0,2024-02-15
+158,Pink,Romance,Tamil,2023,5.0,2025-04-22
+344,Drishyam,Comedy,Tamil,2020,3.0,2024-04-10
+177,Dangal,Sci-Fi,Kannada,2019,2.5,2025-06-16
+477,Andhadhun,Sci-Fi,Telugu,2011,2.0,2024-09-24
+291,Pink,Comedy,Telugu,2024,4.0,2025-11-09
+78,Baahubali,Sci-Fi,Tamil,2022,3.0,2024-05-08
+445,RRR,Sci-Fi,Telugu,2013,4.0,2025-10-29
+218,Pink,Thriller,Tamil,2017,3.5,2025-04-23
+107,3 Idiots,Drama,Telugu,2014,3.5,2025-05-08
+370,KGF,Comedy,Tamil,2019,3.0,2025-06-02
+344,3 Idiots,Sci-Fi,Tamil,2015,4.5,2024-07-10
+42,Andhadhun,Action,Telugu,2017,5.0,2025-10-20
+355,Dangal,Comedy,Hindi,2019,3.5,2024-04-24
+193,Drishyam,Thriller,Kannada,2010,5.0,2024-10-10
+174,Baahubali,Drama,Kannada,2021,5.0,2024-05-17
+220,KGF,Action,Tamil,2013,3.5,2025-05-01
+292,KGF,Comedy,Telugu,2024,3.5,2024-04-12
+448,Baahubali,Action,Telugu,2012,4.5,2025-11-13
+485,KGF,Sci-Fi,Telugu,2017,5.0,2024-12-09
+409,Baahubali,Romance,Kannada,2023,2.5,2025-07-25
+131,RRR,Action,Hindi,2019,2.5,2025-05-22
+287,Pink,Action,Telugu,2015,3.5,2025-03-10
+14,Andhadhun,Sci-Fi,Hindi,2013,4.0,2024-12-06
+287,3 Idiots,Romance,Telugu,2012,5.0,2025-11-02
+113,Baahubali,Drama,Kannada,2011,5.0,2024-12-31
+335,Andhadhun,Romance,Telugu,2018,3.0,2025-10-02
+56,Andhadhun,Sci-Fi,Hindi,2022,3.5,2024-09-03
+196,Andhadhun,Drama,Hindi,2019,4.5,2024-08-30
+157,KGF,Romance,Hindi,2023,4.0,2024-06-09
+391,Baahubali,Sci-Fi,Kannada,2012,4.0,2025-11-04
+456,Baahubali,Comedy,Hindi,2016,3.5,2025-07-23
+283,Drishyam,Drama,Telugu,2020,4.0,2024-06-23
+485,3 Idiots,Sci-Fi,Tamil,2024,2.5,2024-02-10
+28,Pink,Thriller,Tamil,2017,3.5,2024-09-02
+422,Dangal,Romance,Hindi,2024,5.0,2024-03-11
+259,RRR,Thriller,Tamil,2010,4.0,2024-01-25
+385,Pink,Thriller,Telugu,2016,4.0,2024-04-02
+169,Drishyam,Romance,Tamil,2019,4.0,2025-10-25
+117,KGF,Comedy,Kannada,2020,4.5,2024-01-29
+452,Dangal,Sci-Fi,Telugu,2015,4.0,2024-08-14
+142,Baahubali,Action,Kannada,2016,5.0,2025-08-15
+169,Pink,Romance,Tamil,2020,5.0,2025-01-10
+161,RRR,Drama,Kannada,2021,4.0,2024-04-22
+211,KGF,Sci-Fi,Hindi,2018,4.5,2024-03-18
+229,Drishyam,Sci-Fi,Kannada,2022,3.5,2025-08-05
+103,Andhadhun,Romance,Tamil,2021,4.0,2024-03-14
+31,Andhadhun,Comedy,Kannada,2015,3.0,2025-05-07
+177,3 Idiots,Romance,Kannada,2015,4.0,2025-07-25
+40,3 Idiots,Romance,Kannada,2022,4.5,2025-07-01
+444,Dangal,Drama,Tamil,2016,3.5,2025-09-04
+331,RRR,Action,Telugu,2011,3.0,2025-01-17
+359,Dangal,Romance,Tamil,2018,5.0,2025-01-21
+199,Baahubali,Sci-Fi,Tamil,2022,3.0,2025-04-12
+31,KGF,Comedy,Telugu,2016,4.0,2024-05-23
+38,Baahubali,Action,Tamil,2010,3.0,2024-09-03
+242,3 Idiots,Action,Hindi,2023,4.0,2024-08-24
+157,Andhadhun,Action,Telugu,2012,4.5,2025-09-30
+109,3 Idiots,Action,Telugu,2023,2.5,2024-09-05
+146,KGF,Action,Kannada,2021,4.0,2024-09-04
+396,Baahubali,Romance,Telugu,2014,3.0,2024-11-11
+433,Andhadhun,Sci-Fi,Kannada,2016,3.5,2024-11-30
+437,Andhadhun,Action,Hindi,2014,2.5,2025-03-24
+445,Drishyam,Sci-Fi,Kannada,2016,4.0,2025-03-01
+33,Pink,Sci-Fi,Hindi,2012,2.5,2025-04-29
+405,KGF,Comedy,Hindi,2022,4.0,2025-03-01
+189,Drishyam,Sci-Fi,Tamil,2019,3.0,2024-10-07
+232,Drishyam,Thriller,Tamil,2022,3.0,2024-02-24
+482,Andhadhun,Sci-Fi,Kannada,2016,3.5,2025-06-02
+125,Drishyam,Comedy,Kannada,2021,5.0,2025-08-26
+383,Andhadhun,Comedy,Tamil,2021,4.5,2025-03-01
+306,Baahubali,Drama,Hindi,2018,4.5,2024-10-01
+414,Baahubali,Comedy,Kannada,2010,2.0,2024-07-15
+160,KGF,Romance,Hindi,2010,3.5,2024-06-14
+207,Drishyam,Comedy,Telugu,2014,4.0,2025-07-30
+140,Pink,Action,Telugu,2023,2.5,2025-04-01
+37,3 Idiots,Action,Kannada,2012,3.0,2024-09-30
+470,Drishyam,Action,Telugu,2014,3.0,2024-02-05
+442,3 Idiots,Thriller,Telugu,2016,1.5,2024-08-20
+130,Pink,Drama,Hindi,2011,3.0,2025-11-02
+408,Pink,Action,Tamil,2010,3.5,2025-09-25
+195,RRR,Romance,Kannada,2011,5.0,2024-09-12
+332,3 Idiots,Romance,Telugu,2024,3.5,2025-09-14
+52,Pink,Comedy,Telugu,2019,5.0,2024-12-23
+54,Andhadhun,Romance,Hindi,2013,4.5,2024-12-15
+122,Baahubali,Romance,Tamil,2024,4.5,2024-07-09
+409,Dangal,Sci-Fi,Kannada,2020,3.5,2025-10-08
+247,Pink,Thriller,Kannada,2016,5.0,2024-04-28
+322,Baahubali,Drama,Hindi,2017,3.5,2025-01-28
+396,Pink,Sci-Fi,Hindi,2024,4.0,2025-08-08
+169,Andhadhun,Action,Tamil,2016,4.5,2024-04-28
+341,RRR,Comedy,Kannada,2019,4.5,2024-01-13
+83,RRR,Sci-Fi,Kannada,2016,2.5,2024-10-12
+39,Drishyam,Romance,Kannada,2012,5.0,2024-06-02
+56,Pink,Sci-Fi,Hindi,2022,3.0,2024-12-17
+70,Andhadhun,Action,Telugu,2012,3.0,2025-09-17
+136,Andhadhun,Thriller,Kannada,2022,4.5,2025-09-27
+441,RRR,Thriller,Tamil,2017,2.5,2025-06-06
+26,RRR,Sci-Fi,Kannada,2022,2.0,2025-06-16
+449,KGF,Sci-Fi,Tamil,2020,4.0,2025-08-12
+292,Dangal,Comedy,Telugu,2021,3.0,2024-03-07
+386,Baahubali,Comedy,Kannada,2022,3.5,2024-01-02
+217,Drishyam,Sci-Fi,Tamil,2017,3.0,2024-01-03
+44,Drishyam,Action,Hindi,2013,3.0,2024-01-03
+348,Baahubali,Thriller,Tamil,2013,3.5,2024-01-03
+263,RRR,Romance,Telugu,2022,3.5,2024-01-04
+486,Drishyam,Drama,Kannada,2019,4.0,2024-01-05
+392,KGF,Drama,Hindi,2015,3.0,2024-01-07
+257,RRR,Action,Telugu,2013,4.5,2024-01-07
+250,Dangal,Comedy,Tamil,2021,4.0,2024-01-09
+462,Baahubali,Thriller,Hindi,2011,2.5,2024-01-10
+322,KGF,Sci-Fi,Tamil,2017,3.0,2024-01-10
+443,3 Idiots,Drama,Kannada,2023,3.5,2024-01-13
+428,Drishyam,Sci-Fi,Kannada,2016,3.0,2024-01-13
+350,Dangal,Action,Hindi,2023,4.0,2024-01-16
+338,KGF,Sci-Fi,Telugu,2013,3.5,2024-01-17
+388,RRR,Romance,Telugu,2013,4.5,2024-01-17
+233,Andhadhun,Comedy,Kannada,2014,3.0,2024-01-18
+249,Andhadhun,Thriller,Kannada,2017,4.0,2024-01-18
+23,Pink,Action,Telugu,2023,3.0,2024-01-19
+206,Pink,Sci-Fi,Hindi,2014,2.5,2024-01-20
+452,3 Idiots,Drama,Tamil,2019,2.5,2024-01-21
+39,Andhadhun,Romance,Telugu,2021,3.0,2024-01-21
+235,Drishyam,Thriller,Hindi,2023,3.0,2024-01-21
+343,3 Idiots,Drama,Hindi,2011,4.5,2024-01-23
+219,Pink,Drama,Kannada,2014,3.0,2024-01-25
+81,Baahubali,Comedy,Tamil,2021,3.0,2024-01-25
+350,RRR,Romance,Hindi,2012,3.5,2024-01-25
+383,Dangal,Thriller,Tamil,2017,3.0,2024-01-26
+218,3 Idiots,Drama,Telugu,2010,3.5,2024-01-26
+401,KGF,Thriller,Hindi,2024,5.0,2024-01-27
+194,Pink,Comedy,Hindi,2019,2.5,2024-01-27
+448,RRR,Drama,Telugu,2010,3.0,2024-01-28
+101,Baahubali,Comedy,Tamil,2023,2.5,2024-01-29
+402,3 Idiots,Drama,Hindi,2021,3.5,2024-01-29
+236,Drishyam,Comedy,Hindi,2020,5.0,2024-01-30
+352,3 Idiots,Romance,Hindi,2014,4.0,2024-01-30
+284,RRR,Comedy,Kannada,2016,5.0,2024-01-31
+20,3 Idiots,Sci-Fi,Hindi,2019,3.0,2024-01-31
+334,Pink,Drama,Tamil,2018,5.0,2024-02-01
+327,Pink,Sci-Fi,Hindi,2020,3.0,2024-02-02
+47,3 Idiots,Sci-Fi,Tamil,2012,3.5,2024-02-04
+279,KGF,Action,Telugu,2011,2.5,2024-02-04
+17,KGF,Comedy,Telugu,2012,4.5,2024-02-05
+139,Pink,Romance,Telugu,2021,4.0,2024-02-06
+495,Dangal,Romance,Kannada,2014,5.0,2024-02-06
+426,Drishyam,Romance,Telugu,2014,3.5,2024-02-07
+19,3 Idiots,Thriller,Kannada,2024,3.5,2024-02-07
+118,3 Idiots,Romance,Telugu,2024,3.5,2024-02-07
+410,KGF,Drama,Hindi,2020,3.5,2024-02-07
+427,Dangal,Comedy,Kannada,2021,3.0,2024-02-08
+217,Baahubali,Sci-Fi,Telugu,2017,2.5,2024-02-08
+330,3 Idiots,Action,Tamil,2019,4.0,2024-02-08
+64,Dangal,Action,Telugu,2024,3.5,2024-02-08
+278,Pink,Action,Tamil,2023,5.0,2024-02-08
+205,Andhadhun,Drama,Kannada,2017,4.5,2024-02-09
+203,Dangal,Action,Telugu,2024,2.5,2024-02-09
+13,Drishyam,Drama,Kannada,2020,3.0,2024-02-11
+46,3 Idiots,Action,Hindi,2011,3.5,2024-02-11
+385,Baahubali,Sci-Fi,Telugu,2024,3.5,2024-02-11
+348,Drishyam,Comedy,Hindi,2024,4.0,2024-02-12
+358,KGF,Comedy,Kannada,2016,5.0,2024-02-12
+249,Dangal,Drama,Telugu,2019,5.0,2024-02-13
+348,Pink,Drama,Kannada,2019,3.5,2024-02-13
+84,Dangal,Thriller,Tamil,2023,3.0,2024-02-14
+120,Andhadhun,Romance,Telugu,2010,3.5,2024-02-14
+151,RRR,Comedy,Kannada,2016,3.0,2024-02-14
+315,3 Idiots,Sci-Fi,Tamil,2023,3.0,2024-02-14
+45,Dangal,Action,Hindi,2019,3.0,2024-02-15
+60,Andhadhun,Action,Hindi,2011,3.0,2024-02-16
+184,RRR,Drama,Kannada,2018,5.0,2024-02-17
+248,RRR,Romance,Tamil,2020,4.0,2024-02-18
+349,Baahubali,Drama,Hindi,2023,5.0,2024-02-19
+132,Pink,Comedy,Kannada,2012,4.0,2024-02-19
+389,Dangal,Thriller,Hindi,2022,4.0,2024-02-20
+358,RRR,Romance,Tamil,2012,5.0,2024-02-21
+394,KGF,Drama,Telugu,2015,4.0,2024-02-22
+137,RRR,Drama,Telugu,2019,3.5,2024-02-23
+49,Dangal,Romance,Tamil,2012,3.5,2024-02-24
+228,Baahubali,Comedy,Tamil,2023,2.5,2024-02-25
+351,RRR,Comedy,Hindi,2019,3.0,2024-02-25
+102,Dangal,Thriller,Hindi,2011,5.0,2024-02-26
+273,Pink,Action,Kannada,2016,2.0,2024-02-27
+232,Andhadhun,Thriller,Telugu,2021,4.0,2024-02-27
+71,Drishyam,Romance,Hindi,2023,4.0,2024-02-29
+314,Drishyam,Action,Telugu,2023,2.5,2024-03-01
+378,Dangal,Action,Hindi,2024,3.5,2024-03-02
+95,Drishyam,Drama,Tamil,2024,5.0,2024-03-04
+330,Pink,Thriller,Kannada,2020,5.0,2024-03-04
+53,Drishyam,Romance,Hindi,2018,3.0,2024-03-05
+86,Andhadhun,Thriller,Kannada,2020,3.0,2024-03-06
+151,KGF,Romance,Telugu,2020,2.5,2024-03-06
+234,Drishyam,Drama,Hindi,2014,4.5,2024-03-09
+391,Drishyam,Comedy,Telugu,2022,4.5,2024-03-09
+34,Baahubali,Drama,Kannada,2013,2.5,2024-03-10
+139,Dangal,Romance,Telugu,2011,4.0,2024-03-10
+243,Dangal,Comedy,Hindi,2017,2.5,2024-03-10
+245,KGF,Romance,Telugu,2023,3.0,2024-03-10
+468,Dangal,Drama,Hindi,2015,3.5,2024-03-11
+237,Andhadhun,Thriller,Kannada,2019,3.5,2024-03-12
+424,Drishyam,Comedy,Telugu,2019,4.0,2024-03-13
+220,3 Idiots,Comedy,Tamil,2020,1.5,2024-03-13
+182,Dangal,Thriller,Hindi,2019,3.0,2024-03-15
+271,Pink,Romance,Telugu,2011,4.5,2024-03-16
+55,KGF,Sci-Fi,Telugu,2014,4.5,2024-03-18
+332,Dangal,Romance,Kannada,2019,4.0,2024-03-18
+364,KGF,Action,Tamil,2015,5.0,2024-03-18
+55,Dangal,Comedy,Kannada,2020,4.5,2024-03-19
+414,3 Idiots,Comedy,Tamil,2010,2.5,2024-03-21
+159,3 Idiots,Comedy,Hindi,2015,4.0,2024-03-22
+317,Baahubali,Sci-Fi,Tamil,2015,3.0,2024-03-22
+311,RRR,Action,Kannada,2015,2.0,2024-03-23
+257,KGF,Action,Telugu,2011,4.0,2024-03-23
+452,Pink,Drama,Tamil,2011,3.5,2024-03-24
+91,Drishyam,Comedy,Telugu,2015,3.0,2024-03-24
+83,Drishyam,Romance,Hindi,2010,2.0,2024-03-24
+150,Andhadhun,Drama,Tamil,2014,3.5,2024-03-25
+495,3 Idiots,Romance,Hindi,2018,3.5,2024-03-25
+374,Pink,Romance,Hindi,2012,4.5,2024-03-26
+113,Andhadhun,Drama,Hindi,2016,4.0,2024-03-27
+59,Pink,Action,Kannada,2012,2.0,2024-03-27
+259,Andhadhun,Thriller,Hindi,2019,4.5,2024-03-27
+235,3 Idiots,Comedy,Tamil,2022,4.0,2024-03-28
+385,Drishyam,Drama,Hindi,2020,2.5,2024-03-29
+168,Baahubali,Sci-Fi,Kannada,2023,5.0,2024-03-29
+442,Dangal,Comedy,Kannada,2015,2.5,2024-03-30
+132,3 Idiots,Comedy,Telugu,2015,2.5,2024-03-30
+467,Andhadhun,Drama,Tamil,2022,4.0,2024-03-31
+473,Drishyam,Romance,Hindi,2022,3.0,2024-03-31
+445,Baahubali,Action,Kannada,2011,4.0,2024-04-01
+91,RRR,Action,Hindi,2011,3.0,2024-04-02
+184,Dangal,Action,Tamil,2019,1.5,2024-04-02
+299,Baahubali,Romance,Telugu,2015,4.5,2024-04-02
+99,Baahubali,Action,Tamil,2015,3.0,2024-04-03
+141,RRR,Action,Tamil,2019,3.5,2024-04-03
+156,Baahubali,Drama,Kannada,2016,3.5,2024-04-03
+161,Baahubali,Thriller,Telugu,2017,5.0,2024-04-03
+250,Drishyam,Action,Telugu,2012,5.0,2024-04-04
+217,Andhadhun,Action,Tamil,2011,2.5,2024-04-04
+88,Baahubali,Drama,Kannada,2014,4.0,2024-04-05
+140,Andhadhun,Drama,Tamil,2020,4.5,2024-04-06
+338,Baahubali,Sci-Fi,Telugu,2020,5.0,2024-04-07
+483,Drishyam,Action,Telugu,2015,3.5,2024-04-07
+62,KGF,Comedy,Kannada,2017,3.0,2024-04-07
+253,Andhadhun,Romance,Telugu,2010,4.0,2024-04-08
+347,Andhadhun,Sci-Fi,Telugu,2012,3.5,2024-04-09
+382,Andhadhun,Action,Tamil,2022,3.0,2024-04-09
+290,Andhadhun,Drama,Kannada,2019,2.5,2024-04-09
+101,Andhadhun,Romance,Hindi,2016,3.5,2024-04-10
+14,RRR,Thriller,Tamil,2023,5.0,2024-04-11
+412,3 Idiots,Drama,Kannada,2014,5.0,2024-04-12
+283,3 Idiots,Comedy,Hindi,2011,4.0,2024-04-12
+199,Andhadhun,Drama,Telugu,2024,3.5,2024-04-13
+244,Drishyam,Sci-Fi,Tamil,2019,3.0,2024-04-15
+254,Baahubali,Action,Tamil,2010,2.5,2024-04-15
+331,3 Idiots,Thriller,Kannada,2011,3.0,2024-04-15
+157,Baahubali,Romance,Telugu,2021,3.0,2024-04-15
+476,KGF,Thriller,Telugu,2014,5.0,2024-04-15
+250,Pink,Romance,Hindi,2013,4.5,2024-04-16
+298,RRR,Drama,Hindi,2014,3.5,2024-04-17
+277,Andhadhun,Sci-Fi,Tamil,2019,3.5,2024-04-18
+75,Drishyam,Sci-Fi,Telugu,2017,4.0,2024-04-18
+419,3 Idiots,Romance,Tamil,2016,5.0,2024-04-18
+361,Drishyam,Sci-Fi,Telugu,2019,3.0,2024-04-19
+482,3 Idiots,Romance,Kannada,2022,3.0,2024-04-19
+298,Drishyam,Action,Telugu,2010,4.0,2024-04-20
+392,RRR,Romance,Hindi,2014,4.0,2024-04-22
+422,Baahubali,Romance,Tamil,2018,4.0,2024-04-22
+10,3 Idiots,Comedy,Telugu,2022,2.0,2024-04-22
+126,Dangal,Comedy,Kannada,2023,4.0,2024-04-22
+117,Andhadhun,Action,Kannada,2018,2.5,2024-04-23
+303,Dangal,Action,Telugu,2011,5.0,2024-04-24
+433,Baahubali,Comedy,Tamil,2014,4.5,2024-04-24
+58,3 Idiots,Sci-Fi,Kannada,2022,2.0,2024-04-26
+433,KGF,Drama,Telugu,2013,3.0,2024-04-26
+138,Drishyam,Sci-Fi,Telugu,2022,3.0,2024-04-26
+227,Baahubali,Romance,Telugu,2017,3.0,2024-04-26
+135,RRR,Action,Tamil,2021,4.0,2024-04-27
+372,Drishyam,Action,Tamil,2020,5.0,2024-04-27
+407,Pink,Romance,Hindi,2011,2.5,2024-04-27
+35,RRR,Drama,Telugu,2017,3.5,2024-04-28
+238,Baahubali,Thriller,Hindi,2014,5.0,2024-04-28
+297,Drishyam,Comedy,Hindi,2016,3.5,2024-04-28
+179,3 Idiots,Thriller,Tamil,2011,3.0,2024-04-29
+74,Baahubali,Thriller,Tamil,2024,4.5,2024-04-29
+97,Drishyam,Romance,Tamil,2011,5.0,2024-04-29
+156,Pink,Action,Hindi,2023,5.0,2024-04-30
+143,Pink,Romance,Telugu,2020,2.5,2024-05-01
+288,3 Idiots,Thriller,Telugu,2022,2.5,2024-05-01
+270,Drishyam,Drama,Kannada,2022,3.0,2024-05-02
+98,RRR,Action,Telugu,2017,5.0,2024-05-02
+415,Baahubali,Drama,Telugu,2014,3.5,2024-05-03
+28,Dangal,Thriller,Telugu,2019,3.0,2024-05-03
+215,Dangal,Drama,Tamil,2017,3.5,2024-05-03
+295,Pink,Romance,Tamil,2013,4.5,2024-05-04
+367,Pink,Romance,Telugu,2020,3.5,2024-05-06
+395,3 Idiots,Romance,Hindi,2021,4.5,2024-05-07
+23,Baahubali,Comedy,Tamil,2016,2.0,2024-05-08
+321,Andhadhun,Sci-Fi,Hindi,2024,4.5,2024-05-09
+473,Pink,Romance,Kannada,2011,5.0,2024-05-10
+187,RRR,Comedy,Tamil,2021,4.0,2024-05-11
+462,Andhadhun,Thriller,Tamil,2014,3.0,2024-05-11
+262,3 Idiots,Sci-Fi,Hindi,2019,3.0,2024-05-11
+446,Baahubali,Comedy,Hindi,2014,3.5,2024-05-11
+52,RRR,Sci-Fi,Hindi,2019,5.0,2024-05-11
+48,3 Idiots,Comedy,Hindi,2018,3.0,2024-05-11
+418,Pink,Romance,Telugu,2011,4.5,2024-05-12
+399,Baahubali,Sci-Fi,Kannada,2010,3.0,2024-05-13
+121,Andhadhun,Thriller,Telugu,2016,4.0,2024-05-14
+389,Andhadhun,Romance,Hindi,2023,4.0,2024-05-16
+68,Pink,Drama,Kannada,2012,3.0,2024-05-16
+412,RRR,Sci-Fi,Hindi,2020,3.5,2024-05-17
+416,Andhadhun,Sci-Fi,Kannada,2013,2.0,2024-05-19
+319,KGF,Romance,Telugu,2020,3.0,2024-05-20
+134,Dangal,Action,Kannada,2012,1.5,2024-05-21
+32,Drishyam,Thriller,Hindi,2024,3.5,2024-05-21
+84,KGF,Sci-Fi,Telugu,2015,5.0,2024-05-21
+209,3 Idiots,Action,Hindi,2019,4.0,2024-05-22
+302,KGF,Sci-Fi,Tamil,2023,4.5,2024-05-22
+117,3 Idiots,Romance,Tamil,2010,4.0,2024-05-22
+184,Andhadhun,Thriller,Hindi,2017,3.5,2024-05-22
+92,Dangal,Romance,Tamil,2015,3.5,2024-05-23
+119,KGF,Sci-Fi,Kannada,2019,3.5,2024-05-24
+395,KGF,Romance,Kannada,2010,4.0,2024-05-24
+165,KGF,Thriller,Hindi,2014,3.0,2024-05-26
+230,Drishyam,Sci-Fi,Tamil,2024,3.0,2024-05-26
+268,3 Idiots,Comedy,Hindi,2015,3.0,2024-05-27
+401,Drishyam,Sci-Fi,Tamil,2018,3.5,2024-05-29
+276,Pink,Sci-Fi,Tamil,2011,4.5,2024-05-29
+316,KGF,Drama,Kannada,2018,3.0,2024-05-29
+38,Drishyam,Drama,Tamil,2014,4.0,2024-05-30
+367,3 Idiots,Action,Kannada,2011,3.0,2024-05-30
+19,Dangal,Romance,Kannada,2017,3.0,2024-05-30
+307,KGF,Comedy,Telugu,2011,4.5,2024-06-01
+318,3 Idiots,Comedy,Telugu,2011,5.0,2024-06-02
+43,Dangal,Romance,Telugu,2016,4.5,2024-06-04
+262,Pink,Drama,Telugu,2012,3.0,2024-06-04
+297,KGF,Comedy,Kannada,2016,4.0,2024-06-06
+472,3 Idiots,Romance,Hindi,2015,4.5,2024-06-07
+127,Andhadhun,Drama,Telugu,2024,4.5,2024-06-08
+295,Baahubali,Comedy,Tamil,2022,3.5,2024-06-08
+49,Baahubali,Sci-Fi,Tamil,2019,4.0,2024-06-08
+308,Baahubali,Comedy,Tamil,2019,3.5,2024-06-09
+85,3 Idiots,Sci-Fi,Hindi,2022,5.0,2024-06-09
+87,Drishyam,Drama,Kannada,2024,3.0,2024-06-09
+66,Andhadhun,Thriller,Kannada,2014,2.0,2024-06-10
+5,3 Idiots,Action,Telugu,2015,4.0,2024-06-10
+233,Drishyam,Drama,Hindi,2011,4.0,2024-06-11
+459,3 Idiots,Thriller,Hindi,2010,4.0,2024-06-11
+399,Dangal,Romance,Hindi,2016,3.5,2024-06-12
+246,Pink,Romance,Tamil,2015,3.5,2024-06-12
+119,Dangal,Action,Telugu,2020,3.0,2024-06-12
+71,Andhadhun,Romance,Kannada,2021,3.0,2024-06-13
+61,Drishyam,Sci-Fi,Tamil,2016,5.0,2024-06-13
+360,RRR,Sci-Fi,Hindi,2021,3.0,2024-06-13
+328,Baahubali,Thriller,Kannada,2014,5.0,2024-06-14
+364,Dangal,Sci-Fi,Tamil,2013,3.5,2024-06-14
+460,KGF,Sci-Fi,Tamil,2014,5.0,2024-06-14
+105,KGF,Comedy,Hindi,2014,3.0,2024-06-14
+335,3 Idiots,Action,Tamil,2016,3.5,2024-06-15
+365,KGF,Comedy,Hindi,2022,3.5,2024-06-15
+408,Baahubali,Thriller,Kannada,2018,3.0,2024-06-16
+380,Baahubali,Thriller,Hindi,2010,5.0,2024-06-16
+183,Andhadhun,Action,Kannada,2013,3.0,2024-06-16
+157,Drishyam,Drama,Kannada,2010,5.0,2024-06-17
+192,KGF,Action,Kannada,2012,2.5,2024-06-18
+276,Drishyam,Sci-Fi,Hindi,2020,4.5,2024-06-19
+473,Baahubali,Romance,Kannada,2023,4.0,2024-06-19
+181,Pink,Action,Tamil,2010,5.0,2024-06-19
+492,RRR,Comedy,Tamil,2015,5.0,2024-06-21
+422,Pink,Romance,Telugu,2018,3.0,2024-06-21
+474,3 Idiots,Comedy,Telugu,2015,3.5,2024-06-21
+438,Baahubali,Romance,Hindi,2017,3.0,2024-06-22
+63,3 Idiots,Sci-Fi,Kannada,2021,3.5,2024-06-23
+62,3 Idiots,Romance,Hindi,2013,2.5,2024-06-23
+18,Dangal,Sci-Fi,Tamil,2011,5.0,2024-06-24
+342,KGF,Action,Telugu,2018,5.0,2024-06-25
+272,3 Idiots,Romance,Telugu,2021,4.5,2024-06-25
+227,Drishyam,Comedy,Kannada,2022,3.0,2024-06-26
+412,Andhadhun,Thriller,Hindi,2013,4.5,2024-06-26
+148,Drishyam,Comedy,Telugu,2011,3.0,2024-06-27
+158,Drishyam,Romance,Telugu,2015,2.5,2024-06-28
+56,3 Idiots,Comedy,Kannada,2010,4.5,2024-06-30
+196,3 Idiots,Action,Tamil,2010,3.0,2024-06-30
+497,Pink,Thriller,Tamil,2014,4.0,2024-06-30
+417,Andhadhun,Thriller,Tamil,2024,2.0,2024-06-30
+332,RRR,Thriller,Hindi,2016,4.0,2024-07-01
+332,Drishyam,Thriller,Hindi,2021,5.0,2024-07-01
+325,RRR,Comedy,Hindi,2012,4.0,2024-07-02
+431,Dangal,Romance,Hindi,2014,5.0,2024-07-04
+121,KGF,Action,Kannada,2010,3.5,2024-07-05
+227,RRR,Romance,Tamil,2023,4.0,2024-07-05
+73,Baahubali,Action,Telugu,2024,4.0,2024-07-06
+426,RRR,Sci-Fi,Kannada,2020,5.0,2024-07-06
+388,Pink,Comedy,Kannada,2014,5.0,2024-07-07
+403,3 Idiots,Romance,Telugu,2015,3.0,2024-07-07
+9,Dangal,Drama,Hindi,2013,3.5,2024-07-08
+453,Baahubali,Action,Tamil,2024,3.0,2024-07-09
+303,3 Idiots,Drama,Telugu,2024,3.0,2024-07-10
+145,RRR,Thriller,Telugu,2013,5.0,2024-07-11
+61,RRR,Drama,Telugu,2016,3.0,2024-07-12
+385,RRR,Sci-Fi,Hindi,2020,4.0,2024-07-13
+348,Dangal,Action,Tamil,2016,5.0,2024-07-14
+409,3 Idiots,Comedy,Tamil,2014,3.5,2024-07-15
+418,RRR,Drama,Telugu,2014,3.0,2024-07-15
+64,Andhadhun,Romance,Kannada,2010,4.0,2024-07-17
+270,Dangal,Thriller,Tamil,2021,2.0,2024-07-18
+315,Drishyam,Action,Kannada,2024,2.5,2024-07-19
+44,Andhadhun,Sci-Fi,Tamil,2017,5.0,2024-07-19
+136,Pink,Comedy,Kannada,2011,3.5,2024-07-21
+354,3 Idiots,Thriller,Telugu,2010,3.0,2024-07-22
+261,Drishyam,Comedy,Kannada,2012,4.0,2024-07-22
+305,Dangal,Comedy,Hindi,2011,3.0,2024-07-22
+255,RRR,Romance,Tamil,2019,3.5,2024-07-22
+29,RRR,Sci-Fi,Kannada,2016,4.0,2024-07-22
+36,Baahubali,Comedy,Hindi,2020,3.5,2024-07-23
+4,KGF,Action,Hindi,2012,3.5,2024-07-24
+23,Dangal,Comedy,Kannada,2015,3.5,2024-07-24
+110,Pink,Sci-Fi,Kannada,2012,4.5,2024-07-24
+230,3 Idiots,Comedy,Telugu,2024,3.0,2024-07-24
+88,KGF,Action,Telugu,2023,3.0,2024-07-25
+47,Pink,Sci-Fi,Kannada,2019,4.5,2024-07-26
+93,Drishyam,Thriller,Telugu,2010,4.5,2024-07-26
+296,Dangal,Romance,Hindi,2019,3.0,2024-07-27
+229,RRR,Sci-Fi,Hindi,2012,3.5,2024-07-27
+271,KGF,Action,Tamil,2010,3.0,2024-07-27
+128,KGF,Drama,Tamil,2011,4.5,2024-07-27
+435,Drishyam,Thriller,Telugu,2018,4.5,2024-07-28
+223,RRR,Thriller,Tamil,2019,1.5,2024-07-28
+209,KGF,Thriller,Tamil,2022,3.5,2024-07-30
+289,Andhadhun,Thriller,Tamil,2019,3.0,2024-07-30
+269,Drishyam,Thriller,Tamil,2010,3.5,2024-07-30
+324,3 Idiots,Action,Telugu,2021,4.0,2024-07-31
+222,KGF,Romance,Telugu,2011,3.0,2024-07-31
+469,KGF,Action,Tamil,2016,1.5,2024-08-01
+80,RRR,Sci-Fi,Hindi,2019,5.0,2024-08-01
+231,3 Idiots,Comedy,Hindi,2023,4.5,2024-08-01
+254,Pink,Comedy,Hindi,2015,4.0,2024-08-02
+456,Dangal,Sci-Fi,Hindi,2019,3.5,2024-08-03
+66,RRR,Comedy,Hindi,2013,4.5,2024-08-03
+485,Dangal,Comedy,Hindi,2011,4.0,2024-08-04
+68,KGF,Action,Hindi,2014,3.5,2024-08-04
+48,RRR,Romance,Kannada,2019,3.0,2024-08-05
+153,Drishyam,Sci-Fi,Telugu,2016,5.0,2024-08-05
+214,RRR,Drama,Kannada,2017,4.0,2024-08-06
+392,Drishyam,Sci-Fi,Telugu,2019,4.5,2024-08-06
+317,KGF,Sci-Fi,Tamil,2016,4.0,2024-08-07
+206,KGF,Drama,Hindi,2015,3.0,2024-08-08
+419,Baahubali,Sci-Fi,Telugu,2015,3.5,2024-08-09
+473,3 Idiots,Comedy,Tamil,2016,3.5,2024-08-09
+459,Pink,Action,Kannada,2010,5.0,2024-08-10
+19,Pink,Sci-Fi,Telugu,2020,4.5,2024-08-10
+239,RRR,Romance,Telugu,2015,4.0,2024-08-11
+286,3 Idiots,Comedy,Tamil,2019,3.0,2024-08-12
+283,Andhadhun,Romance,Telugu,2022,3.0,2024-08-12
+350,KGF,Sci-Fi,Kannada,2011,3.5,2024-08-12
+324,KGF,Comedy,Hindi,2011,3.0,2024-08-13
+293,3 Idiots,Action,Kannada,2011,3.5,2024-08-14
+326,KGF,Sci-Fi,Kannada,2015,4.5,2024-08-14
+308,Drishyam,Action,Telugu,2017,3.0,2024-08-14
+124,Pink,Romance,Kannada,2012,4.0,2024-08-15
+393,Pink,Sci-Fi,Kannada,2019,3.5,2024-08-16
+274,Dangal,Sci-Fi,Hindi,2024,3.0,2024-08-16
+99,Drishyam,Action,Tamil,2011,3.5,2024-08-16
+216,Pink,Thriller,Kannada,2011,3.5,2024-08-16
+403,Drishyam,Thriller,Hindi,2013,3.5,2024-08-17
+279,Pink,Thriller,Kannada,2012,3.0,2024-08-17
+65,KGF,Sci-Fi,Hindi,2018,2.0,2024-08-18
+459,Baahubali,Thriller,Kannada,2021,3.0,2024-08-18
+260,KGF,Drama,Kannada,2016,4.0,2024-08-19
+135,KGF,Comedy,Tamil,2011,4.5,2024-08-20
+192,3 Idiots,Action,Tamil,2014,4.5,2024-08-21
+247,Baahubali,Comedy,Hindi,2014,4.5,2024-08-22
+22,Drishyam,Thriller,Hindi,2015,3.0,2024-08-22
+29,Drishyam,Romance,Kannada,2014,3.0,2024-08-23
+37,Dangal,Romance,Hindi,2024,4.0,2024-08-23
+433,RRR,Romance,Tamil,2015,5.0,2024-08-24
+420,RRR,Thriller,Hindi,2016,3.0,2024-08-24
+410,RRR,Drama,Telugu,2013,3.0,2024-08-24
+29,Baahubali,Sci-Fi,Tamil,2020,4.0,2024-08-24
+141,Dangal,Thriller,Telugu,2013,5.0,2024-08-24
+244,RRR,Action,Hindi,2016,5.0,2024-08-25
+87,KGF,Comedy,Kannada,2014,3.5,2024-08-25
+158,KGF,Comedy,Tamil,2021,3.0,2024-08-25
+371,Dangal,Thriller,Hindi,2024,4.5,2024-08-26
+9,Andhadhun,Action,Kannada,2014,4.5,2024-08-26
+352,Pink,Action,Telugu,2018,4.0,2024-08-26
+427,RRR,Sci-Fi,Telugu,2021,4.0,2024-08-26
+187,Andhadhun,Sci-Fi,Telugu,2011,3.0,2024-08-27
+354,Andhadhun,Drama,Telugu,2014,4.0,2024-08-27
+300,Andhadhun,Thriller,Hindi,2015,3.0,2024-08-29
+254,Drishyam,Comedy,Hindi,2019,5.0,2024-08-30
+478,Drishyam,Sci-Fi,Tamil,2019,2.5,2024-08-30
+225,KGF,Action,Tamil,2020,3.0,2024-08-31
+384,Drishyam,Romance,Kannada,2019,3.5,2024-09-02
+343,Drishyam,Drama,Tamil,2017,3.0,2024-09-03
+73,Dangal,Drama,Hindi,2019,4.0,2024-09-03
+462,RRR,Sci-Fi,Kannada,2017,3.0,2024-09-03
+320,KGF,Drama,Telugu,2016,4.0,2024-09-04
+337,KGF,Drama,Tamil,2012,4.5,2024-09-04
+262,Baahubali,Comedy,Tamil,2023,3.5,2024-09-05
+355,Andhadhun,Action,Telugu,2018,3.0,2024-09-05
+84,Baahubali,Romance,Hindi,2013,4.0,2024-09-06
+278,3 Idiots,Drama,Tamil,2020,4.0,2024-09-07
+101,Pink,Drama,Hindi,2016,2.5,2024-09-07
+419,Pink,Comedy,Tamil,2013,3.0,2024-09-07
+400,Dangal,Comedy,Hindi,2015,4.0,2024-09-07
+494,Drishyam,Action,Tamil,2015,3.5,2024-09-07
+72,Dangal,Comedy,Telugu,2012,3.5,2024-09-07
+224,Baahubali,Comedy,Kannada,2019,4.0,2024-09-08
+41,RRR,Comedy,Tamil,2019,2.0,2024-09-08
+377,Dangal,Comedy,Hindi,2011,4.0,2024-09-09
+240,KGF,Sci-Fi,Kannada,2019,3.5,2024-09-09
+24,RRR,Action,Kannada,2019,1.5,2024-09-11
+117,Pink,Romance,Telugu,2012,3.0,2024-09-11
+147,Dangal,Sci-Fi,Telugu,2019,4.5,2024-09-12
+98,Pink,Action,Kannada,2014,4.5,2024-09-13
+496,RRR,Romance,Kannada,2017,3.0,2024-09-13
+361,KGF,Drama,Telugu,2024,4.0,2024-09-14
+8,Drishyam,Romance,Kannada,2022,3.5,2024-09-14
+43,KGF,Romance,Hindi,2018,3.5,2024-09-15
+419,Andhadhun,Sci-Fi,Hindi,2014,4.0,2024-09-15
+421,Andhadhun,Romance,Hindi,2020,5.0,2024-09-16
+426,KGF,Drama,Hindi,2015,4.0,2024-09-16
+318,Drishyam,Action,Kannada,2012,3.0,2024-09-16
+324,Drishyam,Thriller,Hindi,2016,3.5,2024-09-16
+396,Drishyam,Comedy,Kannada,2018,3.0,2024-09-17
+381,Dangal,Drama,Tamil,2012,4.5,2024-09-17
+30,RRR,Comedy,Tamil,2011,4.0,2024-09-18
+362,Dangal,Comedy,Hindi,2017,4.0,2024-09-19
+184,Drishyam,Comedy,Telugu,2021,2.0,2024-09-19
+170,RRR,Thriller,Telugu,2014,4.0,2024-09-19
+166,RRR,Comedy,Hindi,2017,4.0,2024-09-20
+384,KGF,Romance,Tamil,2023,3.0,2024-09-21
+425,RRR,Comedy,Telugu,2013,5.0,2024-09-21
+252,Baahubali,Drama,Kannada,2020,3.5,2024-09-21
+293,Baahubali,Romance,Telugu,2014,3.5,2024-09-22
+424,3 Idiots,Action,Hindi,2024,4.5,2024-09-23
+291,RRR,Thriller,Telugu,2010,5.0,2024-09-24
+249,KGF,Romance,Kannada,2021,4.5,2024-09-24
+258,Pink,Thriller,Telugu,2018,5.0,2024-09-25
+12,Dangal,Thriller,Kannada,2014,4.0,2024-09-25
+200,Baahubali,Romance,Hindi,2011,3.0,2024-09-25
+498,KGF,Thriller,Telugu,2020,4.0,2024-09-26
+457,Baahubali,Sci-Fi,Hindi,2013,3.5,2024-09-26
+315,Pink,Sci-Fi,Tamil,2019,3.5,2024-09-26
+6,3 Idiots,Action,Hindi,2023,3.5,2024-09-27
+170,Dangal,Comedy,Hindi,2023,4.5,2024-09-27
+159,KGF,Romance,Telugu,2013,4.0,2024-09-27
+97,Baahubali,Sci-Fi,Kannada,2022,3.0,2024-09-27
+14,Baahubali,Drama,Tamil,2018,5.0,2024-09-28
+345,Drishyam,Romance,Hindi,2023,2.0,2024-09-29
+224,3 Idiots,Romance,Kannada,2022,4.0,2024-09-29
+154,Dangal,Comedy,Tamil,2010,3.0,2024-09-29
+72,Pink,Comedy,Hindi,2020,4.5,2024-09-29
+5,Dangal,Drama,Tamil,2010,4.0,2024-09-30
+140,3 Idiots,Comedy,Telugu,2020,3.0,2024-09-30
+351,Pink,Sci-Fi,Hindi,2015,3.0,2024-09-30
+263,Baahubali,Drama,Tamil,2012,3.5,2024-09-30
+310,Baahubali,Thriller,Tamil,2023,3.0,2024-10-01
+450,Baahubali,Drama,Kannada,2024,4.5,2024-10-02
+311,Andhadhun,Romance,Kannada,2010,2.5,2024-10-04
+390,Baahubali,Comedy,Tamil,2022,3.5,2024-10-04
+324,Andhadhun,Drama,Telugu,2010,5.0,2024-10-05
+209,Dangal,Action,Telugu,2023,1.0,2024-10-06
+55,Baahubali,Action,Telugu,2021,3.5,2024-10-07
+366,RRR,Thriller,Telugu,2011,4.0,2024-10-09
+63,RRR,Thriller,Tamil,2011,3.5,2024-10-11
+149,3 Idiots,Drama,Kannada,2021,4.0,2024-10-11
+22,Andhadhun,Thriller,Hindi,2024,2.0,2024-10-11
+388,KGF,Thriller,Hindi,2017,5.0,2024-10-12
+480,Baahubali,Romance,Tamil,2022,4.5,2024-10-12
+233,RRR,Sci-Fi,Tamil,2015,4.5,2024-10-12
+122,Andhadhun,Drama,Telugu,2013,4.0,2024-10-13
+206,Dangal,Thriller,Hindi,2014,3.0,2024-10-13
+38,KGF,Comedy,Hindi,2011,2.5,2024-10-13
+324,RRR,Action,Telugu,2019,2.5,2024-10-14
+44,Dangal,Drama,Hindi,2023,5.0,2024-10-15
+112,Andhadhun,Sci-Fi,Telugu,2024,4.0,2024-10-15
+278,Baahubali,Action,Tamil,2022,3.0,2024-10-15
+134,Drishyam,Thriller,Hindi,2023,4.5,2024-10-16
+410,Drishyam,Comedy,Telugu,2023,3.0,2024-10-17
+187,3 Idiots,Drama,Tamil,2010,2.0,2024-10-17
+475,Dangal,Comedy,Hindi,2023,3.5,2024-10-17
+185,Dangal,Comedy,Tamil,2023,4.0,2024-10-18
+56,Baahubali,Comedy,Telugu,2015,5.0,2024-10-18
+356,Andhadhun,Sci-Fi,Hindi,2023,4.5,2024-10-18
+432,Andhadhun,Drama,Hindi,2023,4.5,2024-10-19
+191,RRR,Romance,Tamil,2023,2.0,2024-10-20
+453,3 Idiots,Sci-Fi,Tamil,2012,2.0,2024-10-21
+118,Dangal,Sci-Fi,Telugu,2020,4.0,2024-10-21
+311,Pink,Action,Telugu,2010,3.0,2024-10-21
+4,3 Idiots,Sci-Fi,Telugu,2013,2.0,2024-10-23
+257,Andhadhun,Comedy,Telugu,2018,3.5,2024-10-23
+338,Drishyam,Thriller,Hindi,2010,3.0,2024-10-25
+201,Dangal,Action,Tamil,2016,3.0,2024-10-26
+447,Dangal,Drama,Tamil,2024,4.5,2024-10-26
+128,Andhadhun,Drama,Hindi,2014,4.5,2024-10-26
+120,Drishyam,Comedy,Tamil,2011,4.5,2024-10-27
+208,Dangal,Drama,Telugu,2015,4.0,2024-10-28
+174,Andhadhun,Comedy,Tamil,2018,3.0,2024-10-29
+389,Drishyam,Sci-Fi,Telugu,2012,3.0,2024-10-29
+354,Baahubali,Romance,Tamil,2010,4.5,2024-10-29
+295,Andhadhun,Sci-Fi,Tamil,2020,2.5,2024-10-30
+199,Pink,Thriller,Tamil,2019,3.5,2024-10-30
+58,RRR,Sci-Fi,Telugu,2011,4.5,2024-10-30
+442,Andhadhun,Sci-Fi,Hindi,2012,2.5,2024-10-31
+339,Baahubali,Romance,Tamil,2024,3.0,2024-10-31
+171,KGF,Thriller,Tamil,2017,3.5,2024-11-01
+267,Drishyam,Romance,Telugu,2019,1.5,2024-11-01
+498,Baahubali,Action,Tamil,2010,3.5,2024-11-02
+267,Baahubali,Comedy,Telugu,2013,2.5,2024-11-03
+497,Drishyam,Thriller,Telugu,2023,3.5,2024-11-04
+367,Drishyam,Sci-Fi,Telugu,2021,4.5,2024-11-05
+197,KGF,Romance,Kannada,2013,3.5,2024-11-05
+111,Drishyam,Drama,Hindi,2022,5.0,2024-11-06
+176,Dangal,Thriller,Hindi,2021,2.5,2024-11-09
+102,Drishyam,Action,Telugu,2017,5.0,2024-11-09
+277,Dangal,Romance,Hindi,2012,5.0,2024-11-10
+10,RRR,Thriller,Kannada,2011,1.0,2024-11-10
+152,Pink,Drama,Telugu,2019,3.0,2024-11-10
+317,Drishyam,Action,Kannada,2013,3.5,2024-11-10
+439,Dangal,Comedy,Telugu,2018,3.0,2024-11-11
+443,RRR,Thriller,Kannada,2024,3.0,2024-11-13
+478,Dangal,Comedy,Telugu,2023,4.0,2024-11-13
+252,RRR,Drama,Tamil,2012,2.5,2024-11-14
+174,Dangal,Action,Kannada,2013,5.0,2024-11-15
+163,3 Idiots,Romance,Kannada,2021,3.5,2024-11-17
+14,3 Idiots,Action,Hindi,2021,3.0,2024-11-19
+426,Pink,Sci-Fi,Hindi,2023,4.0,2024-11-20
+150,Pink,Drama,Hindi,2019,3.5,2024-11-21
+436,Andhadhun,Comedy,Telugu,2019,4.0,2024-11-22
+2,Baahubali,Comedy,Kannada,2014,4.5,2024-11-23
+126,Drishyam,Comedy,Telugu,2017,5.0,2024-11-23
+395,RRR,Comedy,Telugu,2011,4.0,2024-11-23
+391,Andhadhun,Drama,Tamil,2020,5.0,2024-11-25
+317,3 Idiots,Drama,Hindi,2011,3.0,2024-11-26
+219,KGF,Thriller,Telugu,2020,5.0,2024-11-26
+429,Pink,Comedy,Tamil,2020,3.0,2024-11-26
+474,Pink,Thriller,Tamil,2015,4.0,2024-11-26
+496,Dangal,Drama,Kannada,2011,3.0,2024-11-26
+337,Pink,Sci-Fi,Telugu,2016,4.0,2024-11-26
+335,Pink,Drama,Hindi,2016,3.5,2024-11-27
+134,Pink,Sci-Fi,Hindi,2010,3.5,2024-11-27
+235,RRR,Comedy,Kannada,2014,3.5,2024-11-27
+326,Drishyam,Sci-Fi,Tamil,2022,5.0,2024-11-28
+476,Pink,Action,Telugu,2023,3.5,2024-11-28
+256,Dangal,Action,Telugu,2024,2.0,2024-11-29
+466,KGF,Romance,Kannada,2012,3.5,2024-11-29
+217,Dangal,Thriller,Tamil,2016,4.5,2024-11-29
+468,Pink,Drama,Telugu,2010,4.5,2024-11-29
+369,KGF,Sci-Fi,Kannada,2014,3.5,2024-11-30
+147,Drishyam,Romance,Telugu,2019,5.0,2024-11-30
+286,KGF,Comedy,Tamil,2013,4.5,2024-12-01
+228,RRR,Comedy,Hindi,2011,2.5,2024-12-01
+258,RRR,Thriller,Hindi,2013,3.0,2024-12-02
+394,Baahubali,Sci-Fi,Telugu,2014,4.5,2024-12-03
+425,Baahubali,Comedy,Hindi,2015,4.5,2024-12-05
+193,Baahubali,Drama,Telugu,2011,4.5,2024-12-06
+487,Baahubali,Comedy,Hindi,2023,4.0,2024-12-07
+152,Baahubali,Romance,Hindi,2020,2.0,2024-12-07
+245,Drishyam,Drama,Kannada,2016,4.5,2024-12-09
+77,Drishyam,Comedy,Kannada,2016,3.0,2024-12-10
+2,Drishyam,Comedy,Hindi,2021,4.0,2024-12-10
+208,3 Idiots,Thriller,Kannada,2022,3.5,2024-12-11
+430,Drishyam,Romance,Kannada,2011,3.5,2024-12-11
+254,Andhadhun,Comedy,Telugu,2024,2.5,2024-12-11
+245,3 Idiots,Thriller,Hindi,2011,4.5,2024-12-12
+167,Andhadhun,Comedy,Telugu,2012,3.0,2024-12-12
+205,KGF,Thriller,Kannada,2019,3.0,2024-12-12
+216,RRR,Romance,Hindi,2011,5.0,2024-12-12
+275,3 Idiots,Romance,Kannada,2019,4.0,2024-12-13
+265,KGF,Sci-Fi,Kannada,2021,3.0,2024-12-14
+131,Andhadhun,Romance,Hindi,2014,3.0,2024-12-14
+298,Andhadhun,Drama,Kannada,2021,4.0,2024-12-14
+341,3 Idiots,Drama,Tamil,2019,2.5,2024-12-15
+115,Pink,Romance,Telugu,2011,3.5,2024-12-15
+371,KGF,Action,Tamil,2015,3.0,2024-12-16
+26,Pink,Comedy,Tamil,2011,3.5,2024-12-17
+231,Dangal,Comedy,Hindi,2013,4.5,2024-12-17
+431,Drishyam,Sci-Fi,Telugu,2019,4.0,2024-12-18
+160,RRR,Sci-Fi,Tamil,2020,3.5,2024-12-20
+70,KGF,Action,Hindi,2016,3.5,2024-12-21
+12,RRR,Thriller,Tamil,2016,2.5,2024-12-21
+458,Drishyam,Comedy,Kannada,2017,4.0,2024-12-21
+6,Baahubali,Drama,Telugu,2011,4.0,2024-12-22
+465,Drishyam,Sci-Fi,Telugu,2011,3.5,2024-12-22
+407,Dangal,Romance,Telugu,2017,4.0,2024-12-23
+17,Drishyam,Romance,Tamil,2013,4.5,2024-12-23
+78,Drishyam,Sci-Fi,Telugu,2010,4.0,2024-12-24
+310,RRR,Comedy,Tamil,2014,3.5,2024-12-24
+116,Dangal,Drama,Hindi,2017,3.5,2024-12-27
+295,RRR,Sci-Fi,Telugu,2010,3.5,2024-12-28
+343,RRR,Drama,Kannada,2020,4.5,2024-12-28
+424,Baahubali,Comedy,Hindi,2017,3.0,2024-12-28
+247,Andhadhun,Romance,Telugu,2014,4.0,2024-12-28
+141,KGF,Drama,Kannada,2022,3.0,2024-12-29
+426,3 Idiots,Sci-Fi,Telugu,2023,3.5,2024-12-29
+229,KGF,Action,Telugu,2014,3.0,2024-12-29
+82,3 Idiots,Romance,Hindi,2019,3.0,2024-12-29
+447,RRR,Drama,Kannada,2012,3.5,2024-12-29
+427,Baahubali,Thriller,Tamil,2011,4.0,2024-12-30
+146,Dangal,Thriller,Telugu,2014,5.0,2024-12-30
+125,Dangal,Romance,Hindi,2017,2.5,2025-01-01
+458,KGF,Comedy,Tamil,2017,3.0,2025-01-01
+278,Andhadhun,Comedy,Hindi,2016,3.5,2025-01-01
+227,Pink,Sci-Fi,Tamil,2018,2.5,2025-01-01
+41,Baahubali,Romance,Hindi,2023,4.5,2025-01-02
+181,Dangal,Sci-Fi,Tamil,2015,3.5,2025-01-02
+406,KGF,Thriller,Telugu,2019,3.0,2025-01-03
+75,RRR,Thriller,Telugu,2013,4.0,2025-01-03
+160,Dangal,Comedy,Kannada,2011,5.0,2025-01-03
+58,Drishyam,Action,Telugu,2024,5.0,2025-01-04
+149,Andhadhun,Romance,Tamil,2017,4.0,2025-01-04
+109,Dangal,Drama,Tamil,2017,2.5,2025-01-04
+258,Andhadhun,Romance,Hindi,2022,1.5,2025-01-05
+317,Pink,Comedy,Tamil,2016,3.5,2025-01-06
+411,RRR,Action,Kannada,2011,4.0,2025-01-06
+40,KGF,Romance,Tamil,2020,4.5,2025-01-06
+430,Baahubali,Sci-Fi,Tamil,2024,5.0,2025-01-06
+367,RRR,Romance,Telugu,2016,4.5,2025-01-06
+174,RRR,Drama,Tamil,2020,4.5,2025-01-07
+192,RRR,Drama,Kannada,2017,3.5,2025-01-07
+11,Dangal,Comedy,Hindi,2023,5.0,2025-01-07
+159,Pink,Comedy,Hindi,2016,4.0,2025-01-08
+75,Baahubali,Drama,Hindi,2019,3.0,2025-01-09
+297,Andhadhun,Romance,Hindi,2017,3.0,2025-01-09
+119,RRR,Thriller,Kannada,2014,4.5,2025-01-09
+64,KGF,Romance,Telugu,2014,3.5,2025-01-09
+73,KGF,Thriller,Kannada,2014,5.0,2025-01-10
+335,RRR,Sci-Fi,Hindi,2018,4.5,2025-01-10
+346,Pink,Comedy,Hindi,2024,4.0,2025-01-10
+87,Pink,Thriller,Kannada,2016,4.0,2025-01-11
+396,Dangal,Romance,Tamil,2010,3.5,2025-01-11
+133,Pink,Sci-Fi,Kannada,2016,3.5,2025-01-12
+277,Drishyam,Drama,Tamil,2010,4.5,2025-01-14
+289,KGF,Action,Kannada,2021,2.0,2025-01-14
+194,KGF,Sci-Fi,Telugu,2018,4.5,2025-01-15
+286,RRR,Sci-Fi,Hindi,2011,3.5,2025-01-15
+47,RRR,Romance,Tamil,2013,3.5,2025-01-15
+208,Drishyam,Romance,Kannada,2019,2.5,2025-01-16
+268,KGF,Sci-Fi,Kannada,2020,2.5,2025-01-17
+92,Drishyam,Sci-Fi,Kannada,2010,3.0,2025-01-17
+224,Andhadhun,Sci-Fi,Tamil,2016,4.5,2025-01-18
+297,Dangal,Drama,Hindi,2012,4.0,2025-01-18
+148,Dangal,Sci-Fi,Telugu,2018,3.5,2025-01-19
+331,Andhadhun,Action,Telugu,2024,3.5,2025-01-20
+487,KGF,Thriller,Kannada,2014,4.0,2025-01-20
+417,3 Idiots,Action,Tamil,2023,4.0,2025-01-20
+96,3 Idiots,Sci-Fi,Hindi,2016,5.0,2025-01-20
+298,Dangal,Action,Kannada,2022,3.0,2025-01-21
+79,Pink,Thriller,Hindi,2020,1.5,2025-01-21
+116,RRR,Action,Kannada,2016,3.5,2025-01-21
+436,Baahubali,Action,Telugu,2013,3.0,2025-01-21
+94,Baahubali,Drama,Tamil,2018,4.5,2025-01-23
+277,Pink,Comedy,Kannada,2020,3.5,2025-01-23
+263,Andhadhun,Romance,Hindi,2018,3.0,2025-01-23
+266,RRR,Comedy,Tamil,2022,4.5,2025-01-24
+378,Drishyam,Thriller,Hindi,2018,3.0,2025-01-25
+358,3 Idiots,Comedy,Kannada,2015,3.0,2025-01-26
+76,Dangal,Action,Telugu,2012,4.0,2025-01-27
+210,Baahubali,Comedy,Hindi,2013,4.5,2025-01-27
+461,3 Idiots,Thriller,Hindi,2014,4.5,2025-01-27
+470,Dangal,Romance,Telugu,2021,4.5,2025-01-27
+8,Dangal,Romance,Telugu,2020,5.0,2025-01-28
+397,KGF,Drama,Telugu,2019,3.5,2025-01-28
+180,Andhadhun,Action,Kannada,2019,3.0,2025-01-28
+214,Pink,Sci-Fi,Tamil,2022,4.5,2025-01-28
+444,3 Idiots,Comedy,Tamil,2023,3.5,2025-01-30
+198,Dangal,Sci-Fi,Kannada,2023,2.5,2025-01-30
+341,Baahubali,Romance,Tamil,2016,5.0,2025-01-30
+234,3 Idiots,Sci-Fi,Tamil,2019,5.0,2025-01-31
+76,KGF,Drama,Tamil,2010,3.0,2025-01-31
+180,Baahubali,Romance,Tamil,2012,2.5,2025-02-01
+90,Drishyam,Romance,Hindi,2019,3.5,2025-02-02
+340,Drishyam,Romance,Hindi,2013,5.0,2025-02-02
+428,Dangal,Romance,Tamil,2014,4.0,2025-02-04
+490,Drishyam,Thriller,Tamil,2019,3.0,2025-02-05
+107,Andhadhun,Sci-Fi,Kannada,2019,3.5,2025-02-06
+190,3 Idiots,Sci-Fi,Hindi,2012,3.5,2025-02-08
+46,Drishyam,Sci-Fi,Hindi,2020,4.0,2025-02-08
+365,3 Idiots,Romance,Kannada,2020,3.0,2025-02-09
+267,KGF,Comedy,Hindi,2019,5.0,2025-02-09
+391,3 Idiots,Comedy,Hindi,2010,4.5,2025-02-09
+474,KGF,Action,Telugu,2024,3.0,2025-02-10
+389,KGF,Romance,Hindi,2023,5.0,2025-02-12
+432,3 Idiots,Sci-Fi,Telugu,2023,4.5,2025-02-13
+251,3 Idiots,Thriller,Kannada,2010,4.0,2025-02-13
+51,Andhadhun,Romance,Hindi,2016,3.5,2025-02-14
+3,Drishyam,Action,Telugu,2016,4.5,2025-02-14
+103,Drishyam,Drama,Hindi,2011,3.5,2025-02-14
+216,Drishyam,Comedy,Tamil,2019,2.5,2025-02-15
+13,Pink,Thriller,Hindi,2023,5.0,2025-02-16
+493,KGF,Romance,Kannada,2024,2.5,2025-02-16
+359,3 Idiots,Romance,Telugu,2015,4.0,2025-02-17
+314,Baahubali,Romance,Kannada,2021,3.5,2025-02-18
+160,3 Idiots,Comedy,Telugu,2010,3.0,2025-02-18
+175,Andhadhun,Drama,Telugu,2024,4.0,2025-02-19
+304,3 Idiots,Comedy,Tamil,2019,3.5,2025-02-19
+290,Dangal,Thriller,Tamil,2014,4.0,2025-02-19
+193,3 Idiots,Comedy,Tamil,2010,3.5,2025-02-20
+7,Drishyam,Sci-Fi,Kannada,2023,4.0,2025-02-20
+301,KGF,Thriller,Hindi,2020,4.0,2025-02-20
+288,Dangal,Sci-Fi,Hindi,2017,2.5,2025-02-21
+35,KGF,Sci-Fi,Tamil,2021,4.0,2025-02-21
+99,RRR,Romance,Hindi,2011,2.0,2025-02-22
+189,3 Idiots,Comedy,Tamil,2024,4.0,2025-02-22
+167,RRR,Action,Tamil,2020,3.5,2025-02-23
+154,Andhadhun,Action,Hindi,2017,2.5,2025-02-23
+25,Andhadhun,Drama,Hindi,2022,3.5,2025-02-23
+476,Dangal,Thriller,Hindi,2021,3.0,2025-02-23
+363,KGF,Action,Hindi,2011,3.0,2025-02-24
+51,Baahubali,Thriller,Telugu,2018,3.0,2025-02-25
+376,Baahubali,Comedy,Kannada,2018,2.5,2025-02-25
+439,RRR,Romance,Tamil,2023,1.5,2025-02-25
+140,Drishyam,Thriller,Telugu,2018,3.0,2025-02-26
+486,3 Idiots,Action,Telugu,2010,3.0,2025-02-27
+94,3 Idiots,Sci-Fi,Telugu,2023,3.0,2025-02-27
+261,RRR,Drama,Hindi,2012,5.0,2025-02-27
+30,Drishyam,Drama,Hindi,2018,5.0,2025-02-27
+130,Andhadhun,Action,Tamil,2010,3.5,2025-02-28
+24,Baahubali,Romance,Hindi,2017,4.0,2025-02-28
+6,Pink,Drama,Hindi,2011,4.0,2025-02-28
+46,Andhadhun,Comedy,Tamil,2011,3.0,2025-02-28
+478,Baahubali,Thriller,Telugu,2014,3.5,2025-02-28
+123,Drishyam,Comedy,Tamil,2023,3.0,2025-02-28
+326,RRR,Comedy,Kannada,2016,4.0,2025-03-01
+336,3 Idiots,Thriller,Telugu,2020,2.5,2025-03-01
+248,Dangal,Comedy,Kannada,2011,5.0,2025-03-02
+441,KGF,Sci-Fi,Tamil,2014,3.5,2025-03-02
+57,Baahubali,Comedy,Hindi,2011,5.0,2025-03-02
+118,Pink,Thriller,Kannada,2019,3.0,2025-03-02
+69,Drishyam,Drama,Hindi,2023,3.5,2025-03-03
+148,3 Idiots,Action,Telugu,2016,4.0,2025-03-04
+157,Pink,Drama,Telugu,2018,3.5,2025-03-04
+382,RRR,Thriller,Hindi,2014,3.0,2025-03-04
+437,3 Idiots,Sci-Fi,Hindi,2020,4.5,2025-03-04
+54,RRR,Romance,Tamil,2023,5.0,2025-03-05
+491,Dangal,Comedy,Kannada,2023,3.0,2025-03-05
+490,Andhadhun,Romance,Kannada,2015,2.5,2025-03-05
+178,Pink,Drama,Tamil,2011,3.5,2025-03-06
+294,RRR,Sci-Fi,Tamil,2012,5.0,2025-03-06
+70,Drishyam,Comedy,Telugu,2015,4.0,2025-03-07
+469,Dangal,Romance,Tamil,2014,2.5,2025-03-07
+153,Dangal,Sci-Fi,Hindi,2011,4.5,2025-03-07
+112,KGF,Sci-Fi,Kannada,2014,2.0,2025-03-08
+276,3 Idiots,Drama,Kannada,2017,4.5,2025-03-08
+213,KGF,Sci-Fi,Tamil,2011,2.5,2025-03-08
+371,3 Idiots,Romance,Tamil,2018,2.5,2025-03-10
+260,RRR,Sci-Fi,Kannada,2017,3.0,2025-03-12
+84,Drishyam,Sci-Fi,Tamil,2014,3.0,2025-03-12
+42,Pink,Sci-Fi,Hindi,2021,4.0,2025-03-13
+425,KGF,Sci-Fi,Telugu,2015,3.5,2025-03-14
+188,RRR,Comedy,Kannada,2013,3.5,2025-03-14
+292,RRR,Action,Tamil,2024,4.0,2025-03-14
+262,Drishyam,Comedy,Kannada,2022,4.5,2025-03-14
+423,Baahubali,Drama,Hindi,2024,3.0,2025-03-15
+186,Andhadhun,Romance,Hindi,2023,4.0,2025-03-16
+203,Pink,Drama,Kannada,2012,4.0,2025-03-16
+57,Dangal,Drama,Telugu,2020,2.5,2025-03-17
+16,Pink,Romance,Telugu,2015,2.0,2025-03-17
+385,Andhadhun,Action,Telugu,2019,3.5,2025-03-17
+104,Baahubali,Drama,Telugu,2021,4.0,2025-03-17
+61,3 Idiots,Romance,Hindi,2012,4.0,2025-03-18
+447,Andhadhun,Thriller,Telugu,2023,3.5,2025-03-18
+363,Baahubali,Sci-Fi,Telugu,2016,4.0,2025-03-18
+51,Drishyam,Thriller,Hindi,2018,4.5,2025-03-19
+193,RRR,Sci-Fi,Telugu,2019,3.5,2025-03-19
+90,Andhadhun,Romance,Tamil,2014,3.0,2025-03-19
+422,Andhadhun,Drama,Tamil,2021,4.0,2025-03-19
+32,RRR,Sci-Fi,Tamil,2020,3.0,2025-03-20
+94,Pink,Comedy,Telugu,2023,4.5,2025-03-21
+438,KGF,Romance,Hindi,2014,3.5,2025-03-21
+287,KGF,Drama,Kannada,2021,3.5,2025-03-23
+170,Andhadhun,Drama,Hindi,2012,3.5,2025-03-24
+267,3 Idiots,Comedy,Telugu,2013,4.0,2025-03-24
+265,Dangal,Thriller,Kannada,2024,5.0,2025-03-24
+359,Andhadhun,Thriller,Tamil,2016,2.0,2025-03-24
+167,Dangal,Comedy,Kannada,2019,2.5,2025-03-25
+149,Drishyam,Romance,Tamil,2017,5.0,2025-03-25
+20,Andhadhun,Drama,Kannada,2023,3.0,2025-03-26
+469,3 Idiots,Sci-Fi,Hindi,2023,3.5,2025-03-26
+38,Dangal,Comedy,Hindi,2012,3.0,2025-03-26
+443,Pink,Comedy,Hindi,2011,3.0,2025-03-27
+3,Baahubali,Thriller,Kannada,2015,2.0,2025-03-27
+259,3 Idiots,Drama,Telugu,2012,4.5,2025-03-28
+142,KGF,Sci-Fi,Hindi,2019,5.0,2025-03-29
+245,Andhadhun,Drama,Tamil,2024,5.0,2025-03-29
+226,Dangal,Drama,Tamil,2012,4.5,2025-03-29
+265,Andhadhun,Thriller,Hindi,2010,4.5,2025-03-29
+268,RRR,Comedy,Hindi,2015,3.0,2025-03-30
+67,Dangal,Action,Hindi,2021,5.0,2025-03-31
+46,RRR,Romance,Tamil,2014,2.5,2025-04-02
+241,KGF,Drama,Kannada,2015,5.0,2025-04-02
+416,RRR,Action,Hindi,2015,3.0,2025-04-02
+475,Andhadhun,Thriller,Hindi,2016,3.5,2025-04-02
+74,Drishyam,Comedy,Telugu,2017,4.5,2025-04-03
+83,Baahubali,Romance,Tamil,2023,4.0,2025-04-03
+187,KGF,Action,Hindi,2021,5.0,2025-04-03
+277,KGF,Comedy,Hindi,2020,5.0,2025-04-03
+105,Andhadhun,Action,Telugu,2023,4.5,2025-04-04
+83,KGF,Sci-Fi,Tamil,2014,4.0,2025-04-04
+127,RRR,Comedy,Kannada,2018,3.5,2025-04-04
+436,Dangal,Romance,Hindi,2016,2.5,2025-04-04
+61,Dangal,Sci-Fi,Tamil,2015,3.0,2025-04-05
+456,3 Idiots,Comedy,Kannada,2011,5.0,2025-04-06
+304,Baahubali,Sci-Fi,Hindi,2023,3.5,2025-04-06
+233,Dangal,Comedy,Hindi,2024,3.5,2025-04-07
+484,RRR,Sci-Fi,Tamil,2023,3.5,2025-04-07
+264,3 Idiots,Romance,Tamil,2019,3.0,2025-04-07
+330,Andhadhun,Romance,Telugu,2015,4.0,2025-04-08
+419,RRR,Action,Telugu,2018,5.0,2025-04-08
+493,Pink,Romance,Tamil,2023,4.0,2025-04-09
+72,Andhadhun,Action,Tamil,2017,4.5,2025-04-09
+408,KGF,Action,Tamil,2016,4.0,2025-04-09
+370,3 Idiots,Romance,Hindi,2021,3.5,2025-04-10
+186,RRR,Comedy,Kannada,2023,3.0,2025-04-10
+77,RRR,Romance,Tamil,2012,3.0,2025-04-11
+340,Pink,Action,Telugu,2019,3.0,2025-04-11
+279,3 Idiots,Sci-Fi,Telugu,2019,3.0,2025-04-12
+26,Baahubali,Thriller,Tamil,2012,4.5,2025-04-12
+465,Dangal,Thriller,Telugu,2011,3.0,2025-04-12
+30,Dangal,Romance,Hindi,2014,2.5,2025-04-13
+311,KGF,Sci-Fi,Telugu,2018,4.0,2025-04-14
+28,RRR,Comedy,Telugu,2019,2.5,2025-04-14
+375,Baahubali,Sci-Fi,Telugu,2016,5.0,2025-04-15
+413,Pink,Sci-Fi,Hindi,2014,4.0,2025-04-16
+106,Dangal,Action,Hindi,2011,3.0,2025-04-16
+219,Baahubali,Drama,Tamil,2018,2.5,2025-04-16
+144,Andhadhun,Romance,Kannada,2020,1.0,2025-04-16
+3,3 Idiots,Sci-Fi,Kannada,2018,3.0,2025-04-16
+276,Baahubali,Drama,Kannada,2022,2.0,2025-04-17
+495,KGF,Thriller,Hindi,2016,4.5,2025-04-17
+32,3 Idiots,Sci-Fi,Hindi,2014,4.5,2025-04-18
+229,Dangal,Action,Hindi,2020,4.0,2025-04-18
+398,Baahubali,Romance,Telugu,2014,5.0,2025-04-18
+77,Andhadhun,Romance,Telugu,2022,4.0,2025-04-19
+393,Drishyam,Sci-Fi,Hindi,2016,3.5,2025-04-19
+460,Baahubali,Drama,Tamil,2013,2.0,2025-04-20
+323,RRR,Sci-Fi,Hindi,2013,3.0,2025-04-21
+329,Andhadhun,Thriller,Telugu,2012,2.5,2025-04-22
+329,Baahubali,Drama,Kannada,2017,4.0,2025-04-22
+300,Baahubali,Action,Hindi,2012,5.0,2025-04-22
+38,3 Idiots,Drama,Telugu,2024,5.0,2025-04-22
+172,RRR,Comedy,Telugu,2021,3.0,2025-04-24
+278,KGF,Drama,Tamil,2020,2.5,2025-04-25
+90,Pink,Romance,Hindi,2011,3.0,2025-04-25
+47,Dangal,Thriller,Kannada,2019,5.0,2025-04-25
+339,KGF,Comedy,Hindi,2013,3.5,2025-04-25
+22,3 Idiots,Drama,Kannada,2019,5.0,2025-04-26
+493,Drishyam,Comedy,Telugu,2023,3.0,2025-04-26
+445,KGF,Action,Telugu,2011,4.0,2025-04-27
+374,Dangal,Action,Hindi,2013,5.0,2025-04-28
+140,Baahubali,Drama,Hindi,2015,4.0,2025-04-28
+227,Andhadhun,Sci-Fi,Tamil,2019,3.5,2025-04-28
+266,Dangal,Drama,Hindi,2018,3.0,2025-04-29
+330,RRR,Sci-Fi,Telugu,2023,2.5,2025-04-29
+87,Andhadhun,Romance,Telugu,2021,4.0,2025-04-29
+181,Drishyam,Romance,Kannada,2011,4.5,2025-04-30
+357,KGF,Action,Telugu,2023,3.5,2025-04-30
+184,KGF,Sci-Fi,Hindi,2023,3.5,2025-04-30
+367,Dangal,Romance,Kannada,2023,3.0,2025-04-30
+369,Pink,Action,Hindi,2014,4.0,2025-04-30
+197,Drishyam,Thriller,Hindi,2016,3.0,2025-04-30
+446,Dangal,Action,Telugu,2022,4.5,2025-05-01
+281,Baahubali,Thriller,Telugu,2011,3.0,2025-05-02
+76,3 Idiots,Drama,Hindi,2013,4.5,2025-05-02
+295,KGF,Thriller,Hindi,2015,4.0,2025-05-02
+362,Drishyam,Thriller,Tamil,2010,4.0,2025-05-03
+210,Andhadhun,Thriller,Hindi,2014,4.0,2025-05-03
+202,Dangal,Drama,Kannada,2021,4.0,2025-05-03
+348,3 Idiots,Thriller,Telugu,2015,3.0,2025-05-04
+204,Dangal,Thriller,Telugu,2020,2.0,2025-05-04
+130,Baahubali,Romance,Hindi,2011,5.0,2025-05-05
+413,KGF,Romance,Hindi,2011,3.0,2025-05-05
+163,KGF,Romance,Tamil,2011,4.0,2025-05-06
+327,KGF,Romance,Tamil,2023,4.0,2025-05-06
+331,KGF,Action,Kannada,2022,3.5,2025-05-07
+11,Baahubali,Drama,Hindi,2019,3.5,2025-05-07
+443,KGF,Romance,Hindi,2020,3.5,2025-05-07
+100,3 Idiots,Drama,Hindi,2023,1.5,2025-05-08
+388,Drishyam,Drama,Kannada,2016,4.5,2025-05-08
+469,Baahubali,Action,Kannada,2013,5.0,2025-05-08
+124,Baahubali,Thriller,Telugu,2023,3.0,2025-05-09
+333,KGF,Romance,Kannada,2011,3.5,2025-05-09
+87,RRR,Romance,Telugu,2020,4.0,2025-05-09
+382,Drishyam,Thriller,Hindi,2023,3.5,2025-05-11
+141,Andhadhun,Comedy,Tamil,2016,4.5,2025-05-11
+142,RRR,Comedy,Hindi,2013,3.5,2025-05-12
+141,3 Idiots,Comedy,Hindi,2012,4.5,2025-05-12
+337,Dangal,Sci-Fi,Hindi,2016,3.0,2025-05-12
+456,RRR,Action,Tamil,2010,2.5,2025-05-12
+454,Drishyam,Drama,Kannada,2019,1.5,2025-05-13
+370,RRR,Romance,Tamil,2014,3.5,2025-05-13
+350,Andhadhun,Drama,Telugu,2018,3.0,2025-05-14
+475,KGF,Thriller,Tamil,2016,3.5,2025-05-14
+305,3 Idiots,Action,Telugu,2019,2.0,2025-05-15
+372,Dangal,Romance,Kannada,2014,2.5,2025-05-15
+128,3 Idiots,Comedy,Kannada,2010,2.5,2025-05-15
+312,3 Idiots,Drama,Telugu,2019,4.5,2025-05-16
+33,Drishyam,Romance,Kannada,2017,4.5,2025-05-16
+358,Dangal,Action,Hindi,2011,3.5,2025-05-16
+487,Pink,Thriller,Tamil,2015,4.0,2025-05-17
+200,Andhadhun,Romance,Hindi,2019,4.0,2025-05-17
+342,Drishyam,Romance,Tamil,2016,4.0,2025-05-17
+200,Dangal,Romance,Kannada,2015,3.5,2025-05-18
+350,3 Idiots,Action,Kannada,2011,2.0,2025-05-18
+480,Dangal,Action,Kannada,2010,3.0,2025-05-18
+305,RRR,Comedy,Hindi,2016,5.0,2025-05-18
+182,Pink,Sci-Fi,Hindi,2012,4.0,2025-05-18
+423,3 Idiots,Comedy,Telugu,2019,3.5,2025-05-19
+427,KGF,Action,Tamil,2014,2.5,2025-05-20
+272,Pink,Comedy,Telugu,2014,2.5,2025-05-20
+352,Andhadhun,Thriller,Hindi,2010,4.5,2025-05-20
+245,Dangal,Comedy,Tamil,2010,2.5,2025-05-20
+222,Drishyam,Sci-Fi,Hindi,2015,5.0,2025-05-20
+406,Baahubali,Sci-Fi,Hindi,2022,4.5,2025-05-21
+404,Pink,Comedy,Kannada,2016,4.5,2025-05-21
+123,KGF,Sci-Fi,Hindi,2023,4.0,2025-05-22
+455,3 Idiots,Sci-Fi,Tamil,2011,4.0,2025-05-22
+461,Baahubali,Comedy,Tamil,2016,4.0,2025-05-22
+159,Dangal,Sci-Fi,Kannada,2017,4.0,2025-05-22
+467,KGF,Thriller,Hindi,2020,5.0,2025-05-23
+488,Andhadhun,Action,Telugu,2022,3.5,2025-05-24
+372,3 Idiots,Action,Kannada,2010,2.0,2025-05-24
+382,3 Idiots,Comedy,Telugu,2010,4.0,2025-05-24
+117,Dangal,Sci-Fi,Tamil,2015,4.5,2025-05-24
+313,3 Idiots,Comedy,Hindi,2017,2.5,2025-05-25
+228,KGF,Comedy,Kannada,2014,5.0,2025-05-25
+349,Pink,Drama,Kannada,2023,2.5,2025-05-25
+303,Baahubali,Romance,Tamil,2018,3.5,2025-05-26
+316,Dangal,Action,Kannada,2012,3.0,2025-05-27
+293,Pink,Thriller,Hindi,2010,3.0,2025-05-27
+182,KGF,Romance,Kannada,2014,2.5,2025-05-27
+205,Pink,Romance,Hindi,2015,4.0,2025-05-27
+144,Baahubali,Romance,Tamil,2011,3.5,2025-05-28
+110,Drishyam,Action,Kannada,2011,2.5,2025-05-28
+328,KGF,Action,Tamil,2015,4.0,2025-05-28
+407,Andhadhun,Drama,Tamil,2020,4.0,2025-05-28
+146,Pink,Romance,Kannada,2019,2.5,2025-05-28
+429,Andhadhun,Action,Hindi,2016,4.0,2025-05-29
+285,Dangal,Sci-Fi,Kannada,2021,3.0,2025-05-29
+183,Baahubali,Comedy,Tamil,2013,3.0,2025-05-29
+5,Drishyam,Sci-Fi,Telugu,2019,5.0,2025-05-30
+398,Pink,Comedy,Telugu,2020,4.0,2025-06-01
+419,Dangal,Drama,Kannada,2019,4.5,2025-06-01
+70,Baahubali,Drama,Tamil,2021,2.5,2025-06-01
+349,Andhadhun,Comedy,Hindi,2014,2.5,2025-06-02
+302,Pink,Drama,Telugu,2010,5.0,2025-06-02
+59,Drishyam,Drama,Tamil,2012,2.5,2025-06-02
+225,3 Idiots,Sci-Fi,Hindi,2010,3.0,2025-06-02
+498,RRR,Comedy,Telugu,2014,3.5,2025-06-03
+144,Drishyam,Thriller,Hindi,2024,2.5,2025-06-03
+97,3 Idiots,Sci-Fi,Hindi,2010,3.5,2025-06-03
+15,RRR,Action,Hindi,2019,3.5,2025-06-04
+309,RRR,Romance,Telugu,2019,2.5,2025-06-04
+438,Dangal,Romance,Tamil,2016,4.0,2025-06-05
+465,3 Idiots,Thriller,Telugu,2018,3.5,2025-06-05
+468,Baahubali,Drama,Tamil,2018,3.0,2025-06-05
+70,3 Idiots,Action,Hindi,2015,3.5,2025-06-05
+125,Baahubali,Comedy,Tamil,2014,3.0,2025-06-06
+113,Dangal,Thriller,Hindi,2015,3.0,2025-06-08
+57,KGF,Comedy,Tamil,2022,4.0,2025-06-08
+415,Pink,Thriller,Tamil,2012,4.0,2025-06-08
+79,Baahubali,Thriller,Hindi,2012,3.5,2025-06-09
+212,Baahubali,Drama,Telugu,2011,3.0,2025-06-09
+253,KGF,Thriller,Kannada,2010,2.5,2025-06-10
+123,Dangal,Sci-Fi,Telugu,2012,2.0,2025-06-10
+250,Andhadhun,Romance,Hindi,2011,4.5,2025-06-11
+343,Andhadhun,Drama,Telugu,2011,4.0,2025-06-12
+397,Andhadhun,Romance,Hindi,2019,4.0,2025-06-12
+13,Dangal,Sci-Fi,Tamil,2021,2.5,2025-06-13
+498,Andhadhun,Drama,Tamil,2015,3.5,2025-06-14
+341,Andhadhun,Drama,Tamil,2021,3.5,2025-06-14
+363,Pink,Sci-Fi,Hindi,2020,3.5,2025-06-14
+60,Baahubali,Action,Tamil,2012,4.5,2025-06-14
+160,Andhadhun,Thriller,Kannada,2023,4.5,2025-06-15
+231,Baahubali,Sci-Fi,Hindi,2024,5.0,2025-06-16
+90,RRR,Action,Hindi,2010,4.0,2025-06-16
+213,Dangal,Sci-Fi,Hindi,2012,3.0,2025-06-16
+381,Baahubali,Comedy,Kannada,2018,5.0,2025-06-17
+177,Pink,Thriller,Hindi,2018,2.0,2025-06-17
+340,Andhadhun,Sci-Fi,Telugu,2015,5.0,2025-06-19
+415,KGF,Comedy,Tamil,2023,2.5,2025-06-19
+452,RRR,Thriller,Telugu,2011,4.0,2025-06-19
+209,Pink,Romance,Kannada,2018,4.0,2025-06-20
+118,Drishyam,Comedy,Hindi,2019,4.5,2025-06-21
+357,Pink,Comedy,Hindi,2014,3.5,2025-06-21
+400,Pink,Romance,Kannada,2016,3.0,2025-06-22
+85,Drishyam,Comedy,Kannada,2024,5.0,2025-06-22
+112,RRR,Thriller,Tamil,2023,3.0,2025-06-22
+445,Pink,Sci-Fi,Tamil,2023,3.5,2025-06-23
+73,RRR,Drama,Kannada,2013,5.0,2025-06-23
+285,KGF,Thriller,Hindi,2023,4.5,2025-06-23
+438,RRR,Action,Kannada,2015,3.0,2025-06-23
+457,3 Idiots,Action,Kannada,2023,5.0,2025-06-24
+49,RRR,Thriller,Hindi,2016,3.5,2025-06-24
+163,Baahubali,Drama,Telugu,2018,3.0,2025-06-24
+78,RRR,Thriller,Kannada,2011,2.5,2025-06-25
+267,RRR,Action,Telugu,2020,4.0,2025-06-25
+141,Drishyam,Thriller,Hindi,2019,2.0,2025-06-25
+35,3 Idiots,Thriller,Hindi,2011,3.0,2025-06-26
+28,Baahubali,Action,Tamil,2017,5.0,2025-06-26
+2,RRR,Drama,Telugu,2020,4.5,2025-06-27
+45,RRR,Comedy,Tamil,2013,3.0,2025-06-27
+424,Dangal,Drama,Tamil,2015,3.5,2025-06-27
+386,Dangal,Comedy,Kannada,2022,4.0,2025-06-27
+51,Pink,Comedy,Tamil,2016,4.0,2025-06-27
+326,Pink,Drama,Telugu,2023,4.5,2025-06-28
+373,Baahubali,Action,Telugu,2024,3.5,2025-06-28
+411,3 Idiots,Romance,Kannada,2016,4.5,2025-06-28
+172,Baahubali,Action,Tamil,2017,3.5,2025-06-28
+74,KGF,Comedy,Tamil,2022,4.0,2025-06-28
+429,Baahubali,Comedy,Tamil,2023,3.0,2025-06-29
+135,Baahubali,Romance,Telugu,2022,3.5,2025-06-29
+276,RRR,Romance,Telugu,2011,2.5,2025-06-29
+409,Drishyam,Action,Kannada,2010,4.5,2025-06-30
+23,RRR,Sci-Fi,Telugu,2012,5.0,2025-06-30
+48,Drishyam,Sci-Fi,Telugu,2018,4.5,2025-06-30
+198,Andhadhun,Sci-Fi,Telugu,2015,4.5,2025-06-30
+273,RRR,Romance,Telugu,2013,5.0,2025-06-30
+368,3 Idiots,Comedy,Hindi,2011,5.0,2025-06-30
+294,3 Idiots,Comedy,Kannada,2020,2.5,2025-06-30
+129,Drishyam,Drama,Tamil,2014,4.0,2025-06-30
+375,3 Idiots,Sci-Fi,Kannada,2014,5.0,2025-07-01
+252,Andhadhun,Thriller,Telugu,2022,3.5,2025-07-01
+357,Drishyam,Sci-Fi,Tamil,2014,3.0,2025-07-02
+232,RRR,Action,Hindi,2015,3.5,2025-07-02
+184,Pink,Action,Telugu,2013,5.0,2025-07-02
+206,Baahubali,Comedy,Hindi,2012,3.0,2025-07-02
+110,3 Idiots,Sci-Fi,Kannada,2024,3.0,2025-07-02
+312,KGF,Action,Tamil,2016,3.5,2025-07-03
+105,Drishyam,Comedy,Tamil,2015,5.0,2025-07-03
+324,Baahubali,Thriller,Kannada,2010,4.0,2025-07-03
+375,Pink,Comedy,Tamil,2012,3.5,2025-07-03
+480,RRR,Sci-Fi,Telugu,2010,2.0,2025-07-04
+61,Andhadhun,Sci-Fi,Telugu,2023,3.5,2025-07-04
+379,Pink,Sci-Fi,Kannada,2012,4.5,2025-07-04
+169,3 Idiots,Romance,Hindi,2013,4.5,2025-07-05
+82,Andhadhun,Drama,Hindi,2014,2.0,2025-07-05
+89,Andhadhun,Action,Telugu,2017,2.5,2025-07-05
+23,3 Idiots,Drama,Telugu,2010,4.0,2025-07-05
+411,Drishyam,Thriller,Telugu,2010,4.0,2025-07-05
+32,Dangal,Thriller,Kannada,2013,3.5,2025-07-06
+200,Drishyam,Comedy,Kannada,2016,4.5,2025-07-06
+349,KGF,Thriller,Hindi,2021,4.5,2025-07-06
+494,Dangal,Thriller,Telugu,2015,4.5,2025-07-06
+426,Baahubali,Comedy,Telugu,2021,4.0,2025-07-06
+70,Pink,Drama,Tamil,2014,3.5,2025-07-06
+225,Andhadhun,Action,Kannada,2020,3.0,2025-07-08
+458,Pink,Sci-Fi,Kannada,2010,4.0,2025-07-08
+197,Pink,Drama,Hindi,2022,4.0,2025-07-08
+436,KGF,Drama,Hindi,2011,3.5,2025-07-09
+486,RRR,Drama,Hindi,2013,2.5,2025-07-09
+476,3 Idiots,Comedy,Kannada,2010,3.0,2025-07-09
+227,3 Idiots,Sci-Fi,Hindi,2016,4.0,2025-07-09
+97,KGF,Thriller,Telugu,2010,4.5,2025-07-09
+308,Andhadhun,Comedy,Tamil,2024,3.0,2025-07-09
+111,KGF,Drama,Hindi,2015,3.5,2025-07-09
+237,Pink,Romance,Hindi,2017,4.5,2025-07-09
+328,Drishyam,Action,Kannada,2019,3.0,2025-07-10
+145,3 Idiots,Sci-Fi,Kannada,2017,4.5,2025-07-10
+367,Andhadhun,Romance,Tamil,2010,5.0,2025-07-10
+5,Baahubali,Comedy,Kannada,2019,3.0,2025-07-11
+283,Baahubali,Comedy,Tamil,2014,3.5,2025-07-12
+275,KGF,Thriller,Tamil,2021,3.5,2025-07-12
+192,Andhadhun,Sci-Fi,Tamil,2010,5.0,2025-07-12
+413,Baahubali,Thriller,Hindi,2020,3.5,2025-07-12
+186,Drishyam,Sci-Fi,Kannada,2011,5.0,2025-07-12
+15,3 Idiots,Sci-Fi,Hindi,2015,3.0,2025-07-13
+26,Drishyam,Thriller,Telugu,2018,3.5,2025-07-13
+300,KGF,Drama,Tamil,2015,4.0,2025-07-14
+243,Andhadhun,Sci-Fi,Tamil,2024,3.5,2025-07-14
+309,Baahubali,Drama,Telugu,2017,2.5,2025-07-15
+210,Pink,Comedy,Telugu,2015,3.0,2025-07-15
+378,Pink,Drama,Kannada,2024,3.5,2025-07-15
+53,KGF,Romance,Hindi,2010,1.5,2025-07-15
+280,3 Idiots,Thriller,Kannada,2014,3.0,2025-07-16
+80,KGF,Sci-Fi,Tamil,2012,4.5,2025-07-16
+193,KGF,Sci-Fi,Tamil,2020,4.0,2025-07-16
+136,Baahubali,Romance,Hindi,2020,3.5,2025-07-16
+67,Drishyam,Sci-Fi,Hindi,2016,4.5,2025-07-16
+261,KGF,Romance,Hindi,2024,3.5,2025-07-17
+82,RRR,Sci-Fi,Hindi,2013,4.5,2025-07-17
+282,Pink,Thriller,Hindi,2015,3.5,2025-07-18
+338,Andhadhun,Drama,Tamil,2010,3.0,2025-07-18
+421,Baahubali,Action,Tamil,2016,4.5,2025-07-19
+34,RRR,Drama,Tamil,2019,3.5,2025-07-19
+182,Andhadhun,Sci-Fi,Hindi,2017,5.0,2025-07-19
+2,3 Idiots,Comedy,Telugu,2014,2.5,2025-07-20
+107,Baahubali,Comedy,Hindi,2017,4.5,2025-07-20
+299,Andhadhun,Sci-Fi,Hindi,2023,5.0,2025-07-21
+323,Andhadhun,Comedy,Tamil,2014,3.5,2025-07-21
+388,Dangal,Comedy,Hindi,2020,3.0,2025-07-21
+419,Drishyam,Romance,Kannada,2024,4.5,2025-07-22
+444,Andhadhun,Thriller,Tamil,2019,4.0,2025-07-22
+49,Pink,Sci-Fi,Hindi,2021,3.5,2025-07-23
+235,Pink,Comedy,Telugu,2020,4.5,2025-07-23
+419,KGF,Drama,Hindi,2020,5.0,2025-07-24
+466,Andhadhun,Sci-Fi,Tamil,2021,4.0,2025-07-24
+237,3 Idiots,Comedy,Kannada,2013,4.0,2025-07-24
+31,Pink,Action,Hindi,2018,3.0,2025-07-24
+237,Dangal,Romance,Kannada,2017,4.5,2025-07-25
+293,Drishyam,Romance,Tamil,2024,4.0,2025-07-27
+339,Dangal,Thriller,Hindi,2011,4.5,2025-07-27
+15,Andhadhun,Action,Telugu,2012,3.0,2025-07-28
+445,Andhadhun,Thriller,Telugu,2013,3.5,2025-07-28
+104,Dangal,Drama,Telugu,2024,3.0,2025-07-29
+212,Pink,Action,Kannada,2012,3.5,2025-07-29
+40,Dangal,Action,Hindi,2017,4.5,2025-07-30
+68,Andhadhun,Sci-Fi,Kannada,2022,4.0,2025-07-30
+325,Pink,Romance,Telugu,2019,3.0,2025-07-31
+429,Drishyam,Action,Tamil,2014,3.0,2025-07-31
+91,Pink,Drama,Tamil,2021,2.5,2025-07-31
+181,RRR,Comedy,Kannada,2021,5.0,2025-08-01
+123,RRR,Comedy,Tamil,2020,4.5,2025-08-02
+179,Dangal,Thriller,Telugu,2012,4.0,2025-08-02
+172,3 Idiots,Comedy,Telugu,2024,4.5,2025-08-03
+133,3 Idiots,Sci-Fi,Telugu,2018,3.5,2025-08-03
+463,Baahubali,Romance,Telugu,2020,5.0,2025-08-03
+305,Pink,Comedy,Telugu,2020,4.5,2025-08-04
+210,KGF,Comedy,Telugu,2021,2.5,2025-08-04
+104,KGF,Drama,Kannada,2022,5.0,2025-08-04
+18,Baahubali,Drama,Hindi,2017,4.0,2025-08-05
+349,3 Idiots,Comedy,Telugu,2019,3.0,2025-08-05
+376,Pink,Drama,Kannada,2019,3.5,2025-08-05
+55,Andhadhun,Action,Hindi,2010,5.0,2025-08-06
+27,Drishyam,Action,Tamil,2012,3.0,2025-08-06
+62,Drishyam,Sci-Fi,Tamil,2011,3.5,2025-08-07
+100,Andhadhun,Thriller,Tamil,2017,4.0,2025-08-07
+425,Andhadhun,Romance,Telugu,2019,5.0,2025-08-07
+480,Drishyam,Drama,Tamil,2018,2.5,2025-08-07
+376,Andhadhun,Action,Tamil,2013,4.0,2025-08-08
+53,Andhadhun,Romance,Telugu,2021,4.0,2025-08-08
+409,Pink,Action,Telugu,2016,1.5,2025-08-08
+345,RRR,Sci-Fi,Telugu,2020,5.0,2025-08-09
+263,Dangal,Action,Tamil,2019,2.5,2025-08-09
+73,3 Idiots,Thriller,Tamil,2010,3.0,2025-08-09
+497,RRR,Thriller,Tamil,2017,4.0,2025-08-10
+23,Andhadhun,Action,Tamil,2017,1.0,2025-08-10
+106,KGF,Thriller,Telugu,2024,5.0,2025-08-11
+162,KGF,Romance,Tamil,2019,5.0,2025-08-12
+44,Pink,Comedy,Hindi,2021,5.0,2025-08-13
+288,RRR,Thriller,Telugu,2017,2.5,2025-08-14
+457,Pink,Thriller,Tamil,2010,4.0,2025-08-14
+402,Drishyam,Thriller,Kannada,2016,2.0,2025-08-14
+461,Drishyam,Sci-Fi,Telugu,2013,4.0,2025-08-14
+488,Baahubali,Romance,Telugu,2010,5.0,2025-08-15
+164,Pink,Thriller,Telugu,2013,4.0,2025-08-15
+249,RRR,Drama,Hindi,2021,4.0,2025-08-15
+247,RRR,Romance,Telugu,2022,4.5,2025-08-15
+477,Pink,Drama,Tamil,2020,4.5,2025-08-15
+402,Pink,Romance,Hindi,2017,3.0,2025-08-16
+199,3 Idiots,Sci-Fi,Telugu,2019,3.5,2025-08-16
+292,Andhadhun,Thriller,Tamil,2015,4.0,2025-08-17
+235,Baahubali,Drama,Hindi,2017,1.0,2025-08-17
+327,Andhadhun,Action,Tamil,2010,3.0,2025-08-19
+161,3 Idiots,Comedy,Kannada,2010,4.0,2025-08-19
+98,Andhadhun,Drama,Telugu,2013,3.5,2025-08-20
+398,Andhadhun,Action,Hindi,2016,5.0,2025-08-21
+432,Dangal,Thriller,Tamil,2018,3.5,2025-08-21
+17,Andhadhun,Comedy,Telugu,2022,3.0,2025-08-22
+294,Dangal,Drama,Kannada,2012,4.0,2025-08-22
+288,Andhadhun,Comedy,Hindi,2015,4.5,2025-08-22
+333,Andhadhun,Comedy,Telugu,2013,3.5,2025-08-23
+316,Andhadhun,Comedy,Kannada,2010,3.5,2025-08-24
+462,Dangal,Romance,Kannada,2015,3.5,2025-08-24
+400,RRR,Action,Kannada,2011,3.0,2025-08-25
+365,RRR,Romance,Tamil,2021,3.0,2025-08-25
+386,Andhadhun,Sci-Fi,Hindi,2015,4.0,2025-08-25
+165,Andhadhun,Sci-Fi,Telugu,2013,4.5,2025-08-25
+136,3 Idiots,Sci-Fi,Tamil,2014,2.5,2025-08-25
+483,Baahubali,Romance,Tamil,2024,4.0,2025-08-26
+284,Drishyam,Drama,Hindi,2011,3.5,2025-08-26
+231,Pink,Romance,Hindi,2014,2.0,2025-08-26
+146,RRR,Comedy,Tamil,2011,3.0,2025-08-27
+176,Pink,Drama,Telugu,2015,3.5,2025-08-27
+185,KGF,Sci-Fi,Kannada,2012,3.5,2025-08-28
+173,3 Idiots,Comedy,Tamil,2016,3.5,2025-08-28
+153,Andhadhun,Drama,Telugu,2013,3.0,2025-08-30
+84,Pink,Drama,Hindi,2020,4.0,2025-08-30
+361,RRR,Action,Hindi,2017,3.5,2025-08-30
+483,3 Idiots,Drama,Kannada,2018,4.0,2025-08-31
+431,3 Idiots,Action,Tamil,2011,4.5,2025-08-31
+108,RRR,Sci-Fi,Tamil,2023,4.0,2025-09-01
+389,Baahubali,Comedy,Tamil,2022,3.0,2025-09-01
+377,Drishyam,Comedy,Telugu,2022,2.5,2025-09-01
+129,Dangal,Drama,Tamil,2014,2.0,2025-09-02
+412,Pink,Romance,Kannada,2011,4.0,2025-09-03
+462,Drishyam,Sci-Fi,Kannada,2013,4.0,2025-09-03
+92,Pink,Drama,Tamil,2023,3.5,2025-09-03
+298,Baahubali,Sci-Fi,Tamil,2017,4.0,2025-09-04
+495,Pink,Drama,Telugu,2015,3.5,2025-09-05
+28,3 Idiots,Action,Kannada,2021,4.5,2025-09-05
+328,Andhadhun,Action,Hindi,2019,2.0,2025-09-05
+423,Andhadhun,Thriller,Tamil,2011,4.5,2025-09-06
+197,3 Idiots,Romance,Tamil,2020,1.5,2025-09-06
+53,RRR,Drama,Kannada,2016,4.0,2025-09-06
+461,Dangal,Thriller,Kannada,2018,5.0,2025-09-06
+459,Dangal,Drama,Telugu,2014,3.0,2025-09-06
+289,Dangal,Comedy,Tamil,2018,4.5,2025-09-07
+488,3 Idiots,Thriller,Hindi,2022,4.5,2025-09-07
+308,Pink,Comedy,Kannada,2012,5.0,2025-09-07
+21,Pink,Romance,Tamil,2011,3.0,2025-09-07
+340,Dangal,Sci-Fi,Hindi,2015,2.5,2025-09-08
+281,Pink,Thriller,Tamil,2017,2.5,2025-09-08
+15,Baahubali,Sci-Fi,Telugu,2018,3.5,2025-09-09
+371,RRR,Action,Kannada,2021,5.0,2025-09-09
+248,Pink,Action,Kannada,2018,5.0,2025-09-10
+102,Andhadhun,Sci-Fi,Kannada,2016,4.0,2025-09-10
+233,Pink,Comedy,Tamil,2017,2.5,2025-09-10
+226,RRR,Action,Hindi,2010,4.5,2025-09-10
+4,Andhadhun,Drama,Telugu,2018,4.0,2025-09-10
+467,Drishyam,Action,Tamil,2022,2.5,2025-09-11
+166,Baahubali,Drama,Telugu,2019,4.0,2025-09-11
+439,Andhadhun,Drama,Tamil,2023,3.5,2025-09-11
+438,Pink,Drama,Telugu,2019,5.0,2025-09-12
+493,3 Idiots,Sci-Fi,Telugu,2018,3.0,2025-09-13
+187,Baahubali,Sci-Fi,Tamil,2017,4.5,2025-09-13
+424,RRR,Drama,Hindi,2020,3.5,2025-09-13
+30,Baahubali,Sci-Fi,Tamil,2014,4.0,2025-09-13
+336,RRR,Drama,Tamil,2022,4.0,2025-09-13
+81,3 Idiots,Drama,Tamil,2022,4.5,2025-09-13
+387,Andhadhun,Comedy,Hindi,2015,2.5,2025-09-13
+76,Pink,Comedy,Kannada,2012,3.0,2025-09-13
+248,Drishyam,Thriller,Hindi,2018,4.5,2025-09-14
+121,RRR,Sci-Fi,Hindi,2013,3.5,2025-09-15
+40,Drishyam,Sci-Fi,Tamil,2017,3.5,2025-09-15
+480,Andhadhun,Thriller,Kannada,2023,4.5,2025-09-15
+395,Pink,Romance,Telugu,2010,4.0,2025-09-15
+425,Pink,Drama,Tamil,2023,3.5,2025-09-15
+297,Pink,Action,Tamil,2014,2.0,2025-09-15
+480,3 Idiots,Romance,Tamil,2010,2.5,2025-09-15
+438,Andhadhun,Sci-Fi,Tamil,2020,3.5,2025-09-16
+188,Pink,Action,Telugu,2010,3.5,2025-09-16
+52,Dangal,Comedy,Telugu,2012,5.0,2025-09-16
+241,3 Idiots,Sci-Fi,Tamil,2023,2.0,2025-09-17
+123,Pink,Comedy,Kannada,2021,3.5,2025-09-18
+282,RRR,Action,Tamil,2021,5.0,2025-09-19
+319,Dangal,Sci-Fi,Telugu,2013,4.5,2025-09-19
+454,Dangal,Drama,Telugu,2013,3.5,2025-09-19
+213,Drishyam,Comedy,Hindi,2014,4.5,2025-09-20
+466,Dangal,Action,Hindi,2018,4.5,2025-09-20
+185,Baahubali,Comedy,Kannada,2021,4.0,2025-09-20
+209,Baahubali,Sci-Fi,Hindi,2011,4.0,2025-09-21
+439,3 Idiots,Thriller,Kannada,2011,4.5,2025-09-21
+396,RRR,Comedy,Kannada,2017,5.0,2025-09-21
+111,3 Idiots,Action,Kannada,2013,3.5,2025-09-22
+418,Drishyam,Drama,Kannada,2020,2.0,2025-09-22
+143,3 Idiots,Romance,Telugu,2011,3.0,2025-09-23
+352,Baahubali,Comedy,Hindi,2022,4.5,2025-09-23
+152,3 Idiots,Romance,Tamil,2023,3.5,2025-09-23
+365,Pink,Drama,Telugu,2020,3.5,2025-09-23
+436,RRR,Thriller,Hindi,2014,4.5,2025-09-24
+34,3 Idiots,Thriller,Kannada,2016,4.0,2025-09-24
+469,Andhadhun,Comedy,Kannada,2011,5.0,2025-09-24
+260,3 Idiots,Romance,Tamil,2014,5.0,2025-09-25
+253,3 Idiots,Thriller,Kannada,2018,3.5,2025-09-25
+232,KGF,Comedy,Kannada,2020,4.0,2025-09-25
+344,Pink,Drama,Telugu,2016,4.5,2025-09-25
+83,Dangal,Comedy,Kannada,2013,4.0,2025-09-26
+58,Pink,Romance,Hindi,2015,2.5,2025-09-27
+189,Baahubali,Romance,Tamil,2024,4.0,2025-09-27
+394,Dangal,Comedy,Hindi,2015,3.0,2025-09-27
+69,Andhadhun,Sci-Fi,Hindi,2010,3.5,2025-09-28
+21,3 Idiots,Action,Kannada,2010,4.5,2025-09-28
+290,Baahubali,Comedy,Kannada,2020,5.0,2025-09-28
+231,Drishyam,Action,Kannada,2010,2.5,2025-09-28
+479,Drishyam,Thriller,Telugu,2022,5.0,2025-09-28
+261,3 Idiots,Comedy,Tamil,2023,4.0,2025-09-28
+108,3 Idiots,Drama,Telugu,2017,4.0,2025-09-29
+71,Pink,Comedy,Tamil,2013,3.5,2025-09-30
+287,Dangal,Drama,Hindi,2017,4.5,2025-09-30
+95,3 Idiots,Sci-Fi,Kannada,2015,2.5,2025-09-30
+50,Baahubali,Thriller,Hindi,2017,3.5,2025-10-01
+256,RRR,Thriller,Telugu,2022,4.5,2025-10-01
+472,Pink,Drama,Tamil,2012,3.0,2025-10-02
+203,3 Idiots,Romance,Hindi,2012,2.5,2025-10-02
+404,Andhadhun,Romance,Tamil,2015,3.5,2025-10-02
+123,3 Idiots,Drama,Telugu,2012,3.0,2025-10-03
+42,RRR,Drama,Telugu,2018,2.5,2025-10-03
+325,3 Idiots,Comedy,Hindi,2019,3.0,2025-10-03
+494,KGF,Drama,Hindi,2017,4.0,2025-10-03
+441,Baahubali,Drama,Kannada,2019,4.0,2025-10-03
+180,RRR,Action,Kannada,2012,2.5,2025-10-03
+216,Dangal,Sci-Fi,Tamil,2019,2.0,2025-10-04
+183,3 Idiots,Comedy,Kannada,2015,3.0,2025-10-05
+19,RRR,Action,Kannada,2021,3.0,2025-10-06
+103,3 Idiots,Romance,Kannada,2020,3.0,2025-10-06
+267,Pink,Thriller,Tamil,2020,4.0,2025-10-06
+495,Andhadhun,Comedy,Tamil,2023,3.0,2025-10-07
+478,Andhadhun,Romance,Kannada,2020,4.5,2025-10-08
+103,Baahubali,Romance,Telugu,2020,3.5,2025-10-08
+352,Dangal,Sci-Fi,Tamil,2022,3.5,2025-10-09
+272,Dangal,Romance,Telugu,2010,5.0,2025-10-09
+261,Andhadhun,Sci-Fi,Telugu,2011,5.0,2025-10-09
+450,Pink,Romance,Telugu,2011,4.5,2025-10-09
+195,Dangal,Action,Telugu,2011,3.0,2025-10-10
+156,KGF,Sci-Fi,Tamil,2023,4.0,2025-10-10
+467,Baahubali,Drama,Telugu,2019,4.5,2025-10-10
+380,KGF,Thriller,Hindi,2021,3.5,2025-10-10
+418,Dangal,Sci-Fi,Tamil,2023,3.5,2025-10-11
+60,3 Idiots,Comedy,Telugu,2017,3.5,2025-10-12
+142,Drishyam,Thriller,Kannada,2013,3.0,2025-10-12
+4,Drishyam,Drama,Kannada,2010,2.5,2025-10-12
+79,3 Idiots,Thriller,Kannada,2012,2.0,2025-10-13
+267,Andhadhun,Sci-Fi,Kannada,2017,3.5,2025-10-13
+36,3 Idiots,Drama,Kannada,2013,3.5,2025-10-13
+457,Drishyam,Comedy,Tamil,2023,3.0,2025-10-14
+284,Baahubali,Drama,Kannada,2014,3.0,2025-10-14
+353,3 Idiots,Sci-Fi,Tamil,2023,5.0,2025-10-14
+199,Drishyam,Romance,Hindi,2017,3.0,2025-10-14
+493,Dangal,Drama,Kannada,2021,2.5,2025-10-16
+87,Baahubali,Romance,Tamil,2016,3.0,2025-10-16
+483,Pink,Romance,Hindi,2020,2.5,2025-10-16
+156,Dangal,Drama,Tamil,2023,4.0,2025-10-17
+395,Dangal,Sci-Fi,Hindi,2016,3.0,2025-10-17
+100,Pink,Romance,Telugu,2019,3.0,2025-10-18
+481,3 Idiots,Drama,Tamil,2011,4.0,2025-10-18
+336,Dangal,Comedy,Kannada,2013,4.0,2025-10-19
+433,Pink,Action,Telugu,2017,4.5,2025-10-20
+65,Pink,Romance,Telugu,2017,3.5,2025-10-20
+353,Andhadhun,Drama,Telugu,2018,5.0,2025-10-20
+270,Pink,Romance,Telugu,2013,2.5,2025-10-20
+487,Andhadhun,Action,Telugu,2014,3.5,2025-10-20
+309,Drishyam,Romance,Tamil,2013,2.0,2025-10-20
+470,3 Idiots,Drama,Tamil,2017,2.5,2025-10-21
+460,3 Idiots,Action,Tamil,2012,3.0,2025-10-21
+397,Dangal,Romance,Hindi,2011,3.0,2025-10-22
+273,KGF,Action,Tamil,2019,4.5,2025-10-22
+194,Drishyam,Action,Telugu,2016,2.0,2025-10-23
+272,Andhadhun,Action,Tamil,2020,3.5,2025-10-23
+448,Andhadhun,Sci-Fi,Hindi,2024,3.0,2025-10-24
+484,Pink,Romance,Hindi,2019,3.5,2025-10-24
+381,Pink,Thriller,Kannada,2010,4.5,2025-10-25
+242,Pink,Drama,Telugu,2010,4.0,2025-10-25
+430,RRR,Romance,Kannada,2011,3.5,2025-10-26
+194,RRR,Comedy,Hindi,2021,3.0,2025-10-26
+141,Baahubali,Action,Kannada,2018,4.0,2025-10-26
+98,Dangal,Sci-Fi,Hindi,2010,4.0,2025-10-26
+58,KGF,Drama,Kannada,2015,4.0,2025-10-27
+361,Baahubali,Romance,Kannada,2019,4.0,2025-10-28
+40,Andhadhun,Thriller,Tamil,2020,4.0,2025-10-28
+362,Andhadhun,Thriller,Tamil,2016,3.5,2025-10-29
+223,Baahubali,Comedy,Telugu,2013,2.0,2025-10-29
+98,3 Idiots,Thriller,Kannada,2012,3.5,2025-10-29
+464,Dangal,Drama,Tamil,2012,4.5,2025-10-29
+417,RRR,Drama,Tamil,2021,2.5,2025-10-30
+306,Drishyam,Comedy,Hindi,2020,3.0,2025-10-30
+45,KGF,Romance,Tamil,2020,3.5,2025-10-30
+19,Drishyam,Sci-Fi,Hindi,2012,4.0,2025-10-30
+158,Dangal,Romance,Kannada,2014,4.0,2025-10-31
+80,Baahubali,Romance,Hindi,2018,2.0,2025-10-31
+429,KGF,Drama,Telugu,2018,2.5,2025-11-01
+142,Dangal,Romance,Tamil,2015,4.0,2025-11-01
+110,Dangal,Action,Telugu,2017,3.5,2025-11-02
+258,KGF,Drama,Kannada,2014,4.0,2025-11-02
+332,Andhadhun,Comedy,Tamil,2014,3.5,2025-11-02
+434,Drishyam,Thriller,Kannada,2017,2.5,2025-11-03
+487,Drishyam,Drama,Tamil,2024,3.0,2025-11-03
+22,Pink,Action,Kannada,2024,3.5,2025-11-03
+281,3 Idiots,Comedy,Kannada,2015,4.5,2025-11-04
+26,Andhadhun,Comedy,Telugu,2020,1.5,2025-11-04
+78,Andhadhun,Romance,Tamil,2019,3.0,2025-11-05
+33,KGF,Action,Kannada,2021,3.5,2025-11-06
+75,3 Idiots,Drama,Hindi,2010,5.0,2025-11-06
+98,Baahubali,Comedy,Kannada,2018,3.5,2025-11-06
+75,Dangal,Action,Tamil,2013,4.5,2025-11-06
+183,Pink,Thriller,Telugu,2012,4.0,2025-11-06
+455,Drishyam,Romance,Kannada,2012,2.5,2025-11-06
+131,Pink,Thriller,Telugu,2023,3.0,2025-11-06
+268,Baahubali,Sci-Fi,Kannada,2012,4.5,2025-11-07
+330,Drishyam,Sci-Fi,Tamil,2016,4.0,2025-11-07
+313,Andhadhun,Sci-Fi,Kannada,2015,4.5,2025-11-07
+397,Drishyam,Comedy,Telugu,2015,3.0,2025-11-08
+102,Pink,Sci-Fi,Kannada,2023,4.5,2025-11-08
+254,RRR,Action,Tamil,2014,3.5,2025-11-08
+399,KGF,Action,Tamil,2024,2.0,2025-11-08
+430,Andhadhun,Romance,Kannada,2020,1.5,2025-11-08
+309,3 Idiots,Drama,Hindi,2017,4.0,2025-11-08
+431,KGF,Action,Kannada,2018,2.5,2025-11-09
+312,Pink,Sci-Fi,Telugu,2010,3.0,2025-11-09
+174,Pink,Sci-Fi,Kannada,2024,3.5,2025-11-10
+57,Drishyam,Comedy,Tamil,2021,4.0,2025-11-10
+47,Drishyam,Action,Telugu,2020,3.5,2025-11-11
+204,RRR,Romance,Hindi,2019,3.5,2025-11-12
+219,RRR,Action,Tamil,2016,2.5,2025-11-12
+310,Pink,Thriller,Telugu,2012,4.0,2025-11-13
+472,RRR,Thriller,Telugu,2014,3.0,2025-11-13
+190,Pink,Thriller,Kannada,2023,3.5,2025-11-13
+163,RRR,Comedy,Kannada,2017,4.0,2025-11-13
+63,Baahubali,Thriller,Telugu,2015,2.5,2025-11-13
+270,KGF,Sci-Fi,Telugu,2018,3.0,2025-11-13
+212,3 Idiots,Sci-Fi,Hindi,2023,3.5,2025-11-13
+92,KGF,Romance,Tamil,2010,5.0,2025-11-15
+308,3 Idiots,Drama,Telugu,2022,3.5,2025-11-15
+94,Andhadhun,Sci-Fi,Tamil,2019,4.5,2025-11-15
+326,Dangal,Sci-Fi,Hindi,2013,3.5,2025-11-16
+336,Pink,Romance,Kannada,2023,4.5,2025-11-16
+218,RRR,Comedy,Tamil,2010,4.0,2025-11-17
+403,KGF,Romance,Kannada,2019,4.0,2025-11-17
+115,Baahubali,Romance,Hindi,2014,4.5,2025-11-18
+360,Dangal,Thriller,Tamil,2016,4.0,2025-11-18
+450,Drishyam,Romance,Telugu,2010,2.5,2025-11-18
+85,Dangal,Romance,Kannada,2015,3.5,2025-11-18
+410,Baahubali,Sci-Fi,Kannada,2022,4.0,2025-11-19
+55,Drishyam,Comedy,Kannada,2013,3.0,2025-11-19
+294,Andhadhun,Sci-Fi,Hindi,2016,3.5,2025-11-19
+249,Pink,Sci-Fi,Tamil,2021,3.0,2025-11-20
+254,3 Idiots,Romance,Kannada,2014,5.0,2025-11-21
+467,3 Idiots,Thriller,Kannada,2024,3.5,2025-11-21
+219,Andhadhun,Comedy,Telugu,2021,3.5,2025-11-21
+496,KGF,Romance,Hindi,2010,3.5,2025-11-22
+51,KGF,Action,Telugu,2010,4.0,2025-11-23
+243,Drishyam,Thriller,Kannada,2012,4.0,2025-11-23
+239,KGF,Drama,Hindi,2021,4.5,2025-11-23
+211,3 Idiots,Sci-Fi,Telugu,2016,5.0,2025-11-23
+485,Drishyam,Thriller,Hindi,2024,3.0,2025-11-24
+296,Andhadhun,Sci-Fi,Tamil,2010,3.0,2025-11-25
+121,Pink,Comedy,Kannada,2021,3.5,2025-11-25
+115,KGF,Romance,Telugu,2013,4.0,2025-11-25
+359,Pink,Action,Telugu,2012,4.0,2025-11-25
+318,KGF,Romance,Hindi,2014,3.0,2025-11-25
+305,KGF,Action,Tamil,2016,4.5,2025-11-25
+27,Dangal,Thriller,Tamil,2017,3.5,2025-11-25
+299,KGF,Sci-Fi,Kannada,2022,3.0,2025-11-25
+489,KGF,Comedy,Kannada,2015,4.0,2025-11-25
+235,Andhadhun,Action,Kannada,2019,3.0,2025-11-26
+447,KGF,Comedy,Tamil,2019,4.5,2025-11-27
+142,3 Idiots,Drama,Kannada,2021,4.0,2025-11-27
+238,3 Idiots,Thriller,Tamil,2012,4.5,2025-11-28
+410,Andhadhun,Romance,Hindi,2013,5.0,2025-11-29
+359,RRR,Romance,Hindi,2014,4.5,2025-11-29
+324,Dangal,Drama,Tamil,2018,5.0,2025-11-29
+450,Andhadhun,Drama,Telugu,2012,3.5,2025-11-30
+214,Dangal,Drama,Hindi,2010,3.0,2025-12-01
+315,RRR,Action,Telugu,2019,2.5,2025-12-02
+151,Andhadhun,Drama,Telugu,2010,2.5,2025-12-02
+331,Baahubali,Romance,Tamil,2017,2.5,2025-12-02
+388,Andhadhun,Thriller,Telugu,2016,5.0,2025-12-02
+335,KGF,Thriller,Hindi,2014,4.5,2025-12-02
+464,3 Idiots,Comedy,Telugu,2024,3.5,2025-12-03
+479,Baahubali,Romance,Hindi,2022,4.0,2025-12-03
+299,Dangal,Action,Hindi,2012,4.0,2025-12-03
+213,Andhadhun,Sci-Fi,Tamil,2015,4.0,2025-12-04
+405,3 Idiots,Comedy,Kannada,2019,4.5,2025-12-04
+185,RRR,Thriller,Telugu,2018,3.0,2025-12-05
+368,Drishyam,Comedy,Hindi,2011,4.0,2025-12-05
+245,Pink,Sci-Fi,Telugu,2019,5.0,2025-12-05
+230,KGF,Sci-Fi,Telugu,2018,5.0,2025-12-05
+299,Drishyam,Drama,Telugu,2016,3.0,2025-12-06
+372,Andhadhun,Romance,Telugu,2014,4.0,2025-12-06
+175,Drishyam,Comedy,Kannada,2024,1.5,2025-12-06
+194,Baahubali,Action,Kannada,2023,2.5,2025-12-07
+100,Baahubali,Sci-Fi,Kannada,2010,3.0,2025-12-07
+313,RRR,Romance,Telugu,2010,3.5,2025-12-08
+58,Dangal,Romance,Telugu,2016,4.5,2025-12-08
+446,RRR,Action,Tamil,2020,5.0,2025-12-09
+366,Drishyam,Romance,Tamil,2014,3.0,2025-12-09
+281,Drishyam,Drama,Telugu,2020,3.0,2025-12-09
+51,3 Idiots,Sci-Fi,Telugu,2014,3.0,2025-12-10
+477,KGF,Drama,Hindi,2010,1.5,2025-12-10
+400,Baahubali,Comedy,Telugu,2010,3.5,2025-12-10
+142,Pink,Comedy,Tamil,2023,3.0,2025-12-10
+100,Dangal,Thriller,Tamil,2020,4.5,2025-12-11
+146,Andhadhun,Romance,Tamil,2015,4.0,2025-12-11
+165,Baahubali,Romance,Telugu,2024,5.0,2025-12-11
+265,RRR,Romance,Kannada,2016,3.0,2025-12-11
+363,Drishyam,Romance,Hindi,2020,2.5,2025-12-12
+379,3 Idiots,Comedy,Tamil,2021,3.5,2025-12-12
+86,3 Idiots,Romance,Hindi,2021,2.0,2025-12-12
+353,KGF,Sci-Fi,Telugu,2010,2.5,2025-12-13
+417,Dangal,Romance,Kannada,2012,4.0,2025-12-13
+89,Dangal,Drama,Telugu,2010,3.5,2025-12-13
+179,Pink,Action,Tamil,2019,3.0,2025-12-14
+393,KGF,Comedy,Kannada,2012,5.0,2025-12-14
+239,Dangal,Thriller,Tamil,2023,4.0,2025-12-14
+75,Pink,Romance,Kannada,2024,4.0,2025-12-14
+195,3 Idiots,Sci-Fi,Tamil,2015,3.0,2025-12-14
+137,Pink,Action,Tamil,2013,2.5,2025-12-14
+155,3 Idiots,Comedy,Hindi,2017,4.0,2025-12-15
+65,Dangal,Romance,Tamil,2019,2.0,2025-12-15
+353,Pink,Thriller,Kannada,2014,2.5,2025-12-15
+275,Andhadhun,Romance,Hindi,2022,5.0,2025-12-16
+414,KGF,Romance,Telugu,2015,3.0,2025-12-16
+352,Drishyam,Romance,Telugu,2010,2.5,2025-12-16
+36,Pink,Thriller,Telugu,2012,2.0,2025-12-16
+212,KGF,Action,Telugu,2013,4.5,2025-12-17
+241,Dangal,Thriller,Telugu,2015,4.0,2025-12-17
+121,Baahubali,Sci-Fi,Kannada,2022,2.0,2025-12-17
+291,3 Idiots,Sci-Fi,Tamil,2014,2.5,2025-12-17
+373,3 Idiots,Romance,Telugu,2013,3.5,2025-12-18
+56,Dangal,Thriller,Tamil,2013,4.5,2025-12-18
+407,Drishyam,Sci-Fi,Hindi,2022,4.0,2025-12-18
+104,Andhadhun,Sci-Fi,Kannada,2014,3.0,2025-12-18
+220,Baahubali,Action,Hindi,2015,2.5,2025-12-18
+139,3 Idiots,Drama,Hindi,2017,3.5,2025-12-19
+121,3 Idiots,Action,Hindi,2024,4.0,2025-12-19
+170,Pink,Action,Hindi,2010,3.5,2025-12-19
+181,Baahubali,Romance,Hindi,2018,3.0,2025-12-19
+92,RRR,Romance,Tamil,2019,3.0,2025-12-19
+89,RRR,Sci-Fi,Kannada,2015,3.0,2025-12-19
+116,Baahubali,Action,Tamil,2023,3.5,2025-12-19
+234,Pink,Thriller,Tamil,2015,4.5,2025-12-20
+172,Pink,Drama,Telugu,2015,5.0,2025-12-21
+196,KGF,Comedy,Tamil,2020,3.0,2025-12-21
+359,Baahubali,Romance,Tamil,2018,3.5,2025-12-21
+121,Dangal,Drama,Tamil,2012,3.5,2025-12-21
+454,Pink,Comedy,Tamil,2023,3.5,2025-12-21
+375,KGF,Sci-Fi,Tamil,2017,3.0,2025-12-22
+157,RRR,Sci-Fi,Kannada,2023,4.5,2025-12-23
+93,RRR,Comedy,Kannada,2014,3.5,2025-12-23
+137,3 Idiots,Romance,Kannada,2012,3.0,2025-12-24
+67,RRR,Drama,Telugu,2019,4.5,2025-12-24
+9,RRR,Comedy,Telugu,2021,3.5,2025-12-24
+220,RRR,Romance,Hindi,2015,3.0,2025-12-25
+350,Drishyam,Romance,Kannada,2014,5.0,2025-12-25
+185,Andhadhun,Drama,Kannada,2013,4.5,2025-12-26
+449,Pink,Sci-Fi,Hindi,2019,2.5,2025-12-26
+270,RRR,Romance,Hindi,2020,4.0,2025-12-26
+31,3 Idiots,Romance,Kannada,2015,3.0,2025-12-27
+464,Drishyam,Thriller,Telugu,2019,4.0,2025-12-27
+183,Drishyam,Romance,Hindi,2014,3.0,2025-12-28
+249,Drishyam,Sci-Fi,Kannada,2020,5.0,2025-12-29
+314,Andhadhun,Romance,Kannada,2014,4.5,2025-12-30
+321,Baahubali,Action,Kannada,2020,2.5,2025-12-30
+432,Pink,Thriller,Kannada,2019,4.0,2025-12-30
+498,Drishyam,Action,Tamil,2019,5.0,2026-01-01
+306,Dangal,Comedy,Hindi,2011,4.5,2026-01-01
+444,RRR,Comedy,Tamil,2019,3.0,2026-01-02
+453,RRR,Thriller,Telugu,2016,2.5,2026-01-02
+395,Baahubali,Comedy,Tamil,2010,3.5,2026-01-03
+180,3 Idiots,Comedy,Telugu,2019,5.0,2026-01-03
+379,Baahubali,Drama,Telugu,2015,3.0,2026-01-03
+42,3 Idiots,Comedy,Hindi,2012,4.0,2026-01-03
+355,3 Idiots,Comedy,Hindi,2019,5.0,2026-01-04
+9,Baahubali,Thriller,Telugu,2022,4.5,2026-01-04
+290,KGF,Action,Telugu,2017,4.5,2026-01-04
+239,3 Idiots,Action,Tamil,2017,3.5,2026-01-05
+247,Drishyam,Thriller,Hindi,2022,5.0,2026-01-05
+246,Dangal,Drama,Telugu,2012,2.0,2026-01-06
+204,Pink,Sci-Fi,Tamil,2018,5.0,2026-01-06
+284,Andhadhun,Thriller,Kannada,2016,2.5,2026-01-06
+276,Andhadhun,Action,Hindi,2021,3.5,2026-01-07
+321,Pink,Drama,Telugu,2012,3.5,2026-01-07
+417,Pink,Action,Hindi,2020,3.5,2026-01-08
+493,RRR,Drama,Hindi,2020,5.0,2026-01-08
+56,KGF,Thriller,Telugu,2012,4.0,2026-01-08
+356,RRR,Comedy,Hindi,2018,3.0,2026-01-08
+396,3 Idiots,Sci-Fi,Telugu,2014,4.5,2026-01-10
+36,Dangal,Drama,Kannada,2023,4.5,2026-01-10
+333,3 Idiots,Comedy,Tamil,2012,4.0,2026-01-10
+435,Baahubali,Thriller,Telugu,2013,4.0,2026-01-11
+60,Pink,Romance,Tamil,2010,4.0,2026-01-11
+444,Baahubali,Drama,Hindi,2020,2.5,2026-01-11
+81,Pink,Thriller,Hindi,2023,4.0,2026-01-11
+201,Andhadhun,Comedy,Telugu,2011,3.5,2026-01-11
+374,KGF,Drama,Kannada,2017,5.0,2026-01-11
+135,Drishyam,Sci-Fi,Telugu,2014,3.0,2026-01-11
+410,3 Idiots,Romance,Tamil,2018,4.0,2026-01-11
+303,Pink,Thriller,Hindi,2020,3.5,2026-01-11
+314,Pink,Comedy,Kannada,2023,4.0,2026-01-11
+468,Andhadhun,Sci-Fi,Telugu,2017,4.0,2026-01-11
+216,Baahubali,Drama,Tamil,2021,3.0,2026-01-11
+173,KGF,Romance,Kannada,2016,2.5,2026-01-12
+496,Drishyam,Romance,Hindi,2010,3.5,2026-01-12
+278,RRR,Thriller,Tamil,2023,3.5,2026-01-12
+149,Baahubali,Romance,Hindi,2019,3.0,2026-01-13
+109,Drishyam,Action,Tamil,2013,1.5,2026-01-13
+373,RRR,Sci-Fi,Kannada,2023,2.5,2026-01-14
+30,Andhadhun,Comedy,Kannada,2020,4.0,2026-01-14
+314,RRR,Thriller,Hindi,2020,5.0,2026-01-14
+473,KGF,Comedy,Kannada,2014,3.5,2026-01-14
+382,Baahubali,Comedy,Hindi,2010,3.5,2026-01-15
+202,3 Idiots,Comedy,Telugu,2018,3.5,2026-01-15
+31,Drishyam,Action,Tamil,2017,2.0,2026-01-15
+416,3 Idiots,Drama,Telugu,2010,3.5,2026-01-15
+3,KGF,Thriller,Hindi,2015,2.0,2026-01-15
+340,Baahubali,Comedy,Telugu,2024,4.0,2026-01-15
+97,RRR,Drama,Hindi,2015,3.0,2026-01-16
+369,Drishyam,Comedy,Telugu,2011,3.5,2026-01-16
+89,Pink,Romance,Tamil,2014,3.5,2026-01-16
+405,Pink,Comedy,Telugu,2024,3.5,2026-01-16
+133,Andhadhun,Sci-Fi,Telugu,2010,2.5,2026-01-16
+459,KGF,Romance,Kannada,2024,5.0,2026-01-16
+455,Dangal,Thriller,Kannada,2012,3.5,2026-01-17
+384,RRR,Action,Hindi,2018,3.5,2026-01-17
+150,Drishyam,Drama,Telugu,2017,4.0,2026-01-18
+406,RRR,Romance,Tamil,2016,3.0,2026-01-20
+210,3 Idiots,Sci-Fi,Telugu,2021,3.5,2026-01-20
+118,KGF,Comedy,Tamil,2017,3.0,2026-01-20
+479,RRR,Sci-Fi,Telugu,2021,3.0,2026-01-20
+139,KGF,Sci-Fi,Telugu,2011,4.5,2026-01-20
+172,KGF,Romance,Telugu,2021,4.5,2026-01-20
+481,RRR,Thriller,Hindi,2013,3.0,2026-01-21
+281,KGF,Romance,Kannada,2011,3.5,2026-01-21
+133,Baahubali,Romance,Telugu,2011,3.5,2026-01-21
+4,Baahubali,Comedy,Hindi,2014,4.5,2026-01-22
+215,3 Idiots,Drama,Hindi,2016,3.0,2026-01-22
+492,Dangal,Romance,Tamil,2013,4.0,2026-01-22
+216,KGF,Sci-Fi,Kannada,2019,5.0,2026-01-22
+349,Dangal,Action,Tamil,2023,3.5,2026-01-22
+127,KGF,Romance,Hindi,2020,2.5,2026-01-22
+387,Drishyam,Thriller,Hindi,2014,4.0,2026-01-22
+387,3 Idiots,Comedy,Hindi,2020,3.5,2026-01-23
+289,3 Idiots,Drama,Tamil,2017,4.5,2026-01-23
+190,Andhadhun,Action,Kannada,2013,4.5,2026-01-23
+368,Dangal,Romance,Hindi,2011,4.0,2026-01-23
+417,Drishyam,Romance,Tamil,2013,4.0,2026-01-24
+4,Pink,Drama,Tamil,2017,4.5,2026-01-26
+285,Drishyam,Thriller,Telugu,2016,3.0,2026-01-28
+182,Baahubali,Action,Hindi,2021,4.5,2026-01-28
+496,3 Idiots,Action,Kannada,2019,4.0,2026-01-28
+440,Andhadhun,Comedy,Tamil,2011,5.0,2026-01-29
+21,RRR,Comedy,Hindi,2023,3.5,2026-01-29
+105,Pink,Comedy,Kannada,2014,4.0,2026-01-29
+105,RRR,Comedy,Telugu,2016,2.5,2026-01-29
+448,3 Idiots,Comedy,Kannada,2015,3.0,2026-01-29
+259,Pink,Romance,Kannada,2016,4.0,2026-01-30
+383,Drishyam,Comedy,Kannada,2015,5.0,2026-01-30
+46,Pink,Romance,Hindi,2020,2.0,2026-01-30
+198,3 Idiots,Sci-Fi,Kannada,2014,3.5,2026-01-30
+170,3 Idiots,Action,Hindi,2024,3.5,2026-01-30
+373,Andhadhun,Action,Kannada,2021,5.0,2026-01-31
+186,Dangal,Romance,Kannada,2021,4.0,2026-02-01
+119,Baahubali,Comedy,Telugu,2020,3.5,2026-02-01
+87,3 Idiots,Sci-Fi,Kannada,2022,3.5,2026-02-02
+282,Baahubali,Romance,Telugu,2014,2.5,2026-02-02
+370,Andhadhun,Romance,Telugu,2020,4.5,2026-02-03
+430,Pink,Romance,Telugu,2010,3.0,2026-02-04
+263,KGF,Thriller,Telugu,2021,5.0,2026-02-04
+321,Drishyam,Romance,Telugu,2019,3.5,2026-02-04
+369,3 Idiots,Drama,Telugu,2019,5.0,2026-02-04
+345,3 Idiots,Action,Hindi,2021,4.5,2026-02-04
+68,3 Idiots,Comedy,Hindi,2023,4.0,2026-02-05
+490,Dangal,Action,Telugu,2024,4.0,2026-02-05
+83,Andhadhun,Romance,Tamil,2020,4.0,2026-02-05
+206,3 Idiots,Comedy,Tamil,2014,3.5,2026-02-06
+202,RRR,Thriller,Kannada,2011,4.0,2026-02-06
+122,Pink,Comedy,Kannada,2019,4.0,2026-02-06
+460,Drishyam,Romance,Telugu,2018,2.5,2026-02-06
+37,Pink,Thriller,Kannada,2019,2.5,2026-02-07
+124,3 Idiots,Romance,Kannada,2019,4.0,2026-02-07
+364,Baahubali,Drama,Hindi,2013,2.0,2026-02-09
+45,Pink,Drama,Hindi,2010,5.0,2026-02-09
+377,Baahubali,Action,Hindi,2010,2.5,2026-02-09
+50,Pink,Romance,Tamil,2017,3.5,2026-02-10
+67,Pink,Thriller,Tamil,2011,1.5,2026-02-11
+101,Dangal,Drama,Kannada,2013,1.5,2026-02-11
+88,Pink,Sci-Fi,Kannada,2018,4.0,2026-02-11
+232,Dangal,Sci-Fi,Kannada,2017,5.0,2026-02-11
+120,Dangal,Drama,Telugu,2022,3.0,2026-02-11
+145,Dangal,Drama,Kannada,2010,3.0,2026-02-12
+97,Dangal,Comedy,Hindi,2017,4.0,2026-02-12
+397,Pink,Sci-Fi,Telugu,2010,4.0,2026-02-12
+107,Drishyam,Drama,Tamil,2014,4.0,2026-02-12
+453,Dangal,Sci-Fi,Hindi,2014,4.0,2026-02-13
+269,RRR,Thriller,Hindi,2019,2.5,2026-02-14
+400,Andhadhun,Drama,Hindi,2018,4.0,2026-02-14
+318,Pink,Romance,Tamil,2022,4.5,2026-02-14
+134,KGF,Romance,Hindi,2022,3.5,2026-02-14
+138,3 Idiots,Sci-Fi,Kannada,2020,4.0,2026-02-14
+60,RRR,Action,Telugu,2011,3.5,2026-02-14
+69,Pink,Sci-Fi,Kannada,2012,3.5,2026-02-15
+13,RRR,Action,Hindi,2020,3.0,2026-02-16
+257,Drishyam,Thriller,Tamil,2015,3.0,2026-02-17
+464,KGF,Action,Kannada,2019,4.0,2026-02-17
+202,Drishyam,Drama,Telugu,2014,3.0,2026-02-18
+422,3 Idiots,Thriller,Telugu,2018,2.5,2026-02-18
+316,RRR,Sci-Fi,Telugu,2020,3.5,2026-02-18
+200,3 Idiots,Thriller,Hindi,2019,5.0,2026-02-18
+19,Baahubali,Romance,Kannada,2023,3.5,2026-02-18
+44,3 Idiots,Sci-Fi,Kannada,2017,3.0,2026-02-18
+82,KGF,Thriller,Tamil,2014,2.5,2026-02-19
+392,Andhadhun,Comedy,Hindi,2021,4.5,2026-02-19
+217,Pink,Romance,Tamil,2019,5.0,2026-02-19
+391,KGF,Action,Hindi,2010,4.5,2026-02-19
+81,Drishyam,Drama,Telugu,2010,3.5,2026-02-20
+106,RRR,Romance,Hindi,2012,3.0,2026-02-20
+197,Baahubali,Action,Hindi,2011,3.5,2026-02-20
+457,RRR,Action,Tamil,2015,4.0,2026-02-20
+125,Pink,Romance,Tamil,2022,3.5,2026-02-20
+115,Drishyam,Action,Tamil,2022,4.5,2026-02-21
+27,Pink,Action,Tamil,2014,4.0,2026-02-22
+428,Andhadhun,Romance,Telugu,2016,2.5,2026-02-22
+433,Dangal,Sci-Fi,Tamil,2012,4.0,2026-02-22
+153,Baahubali,Romance,Kannada,2018,3.0,2026-02-24
+309,KGF,Drama,Kannada,2014,4.0,2026-02-24
+269,Dangal,Thriller,Hindi,2019,4.5,2026-02-25
+379,Dangal,Drama,Telugu,2020,2.5,2026-02-25
+301,Drishyam,Romance,Hindi,2013,3.0,2026-02-25
+65,Andhadhun,Thriller,Tamil,2014,5.0,2026-02-25
+62,Dangal,Romance,Telugu,2011,4.0,2026-02-26
+390,Andhadhun,Comedy,Telugu,2016,4.5,2026-02-26
+81,Dangal,Thriller,Telugu,2018,4.0,2026-02-26
+54,Drishyam,Thriller,Telugu,2012,2.0,2026-02-27
+364,Drishyam,Action,Kannada,2011,3.5,2026-02-27
+486,Dangal,Drama,Kannada,2021,3.5,2026-02-27
+221,Dangal,Comedy,Kannada,2016,4.5,2026-02-28
+30,KGF,Comedy,Hindi,2024,5.0,2026-02-28
+437,Dangal,Thriller,Telugu,2012,4.0,2026-02-28
+95,Andhadhun,Thriller,Telugu,2022,2.5,2026-02-28
+264,RRR,Comedy,Kannada,2020,3.5,2026-03-01
+491,KGF,Comedy,Hindi,2011,4.5,2026-03-01
+372,RRR,Comedy,Tamil,2010,3.0,2026-03-01
+25,Pink,Comedy,Tamil,2023,4.5,2026-03-01
+409,RRR,Thriller,Tamil,2013,4.5,2026-03-01
+82,Dangal,Romance,Kannada,2011,4.5,2026-03-01
+310,Andhadhun,Thriller,Tamil,2021,4.0,2026-03-01
+145,Baahubali,Sci-Fi,Telugu,2019,4.0,2026-03-01
+212,Dangal,Sci-Fi,Tamil,2016,2.5,2026-03-02
+60,KGF,Comedy,Hindi,2017,3.5,2026-03-02
+492,Andhadhun,Romance,Telugu,2018,3.0,2026-03-02
+120,Pink,Comedy,Telugu,2014,3.0,2026-03-02
+251,Dangal,Romance,Telugu,2021,4.5,2026-03-03
+336,KGF,Romance,Kannada,2024,3.0,2026-03-03
+253,Dangal,Comedy,Hindi,2011,3.5,2026-03-04
+291,Baahubali,Thriller,Telugu,2024,4.5,2026-03-04
+428,KGF,Romance,Telugu,2012,3.5,2026-03-04
+198,Pink,Comedy,Tamil,2019,3.5,2026-03-04
+393,3 Idiots,Romance,Hindi,2022,5.0,2026-03-05
+124,RRR,Comedy,Telugu,2010,2.0,2026-03-06
+386,3 Idiots,Action,Telugu,2019,4.0,2026-03-06
+368,RRR,Drama,Telugu,2012,4.5,2026-03-06
+145,KGF,Comedy,Tamil,2014,5.0,2026-03-06
+338,Dangal,Romance,Kannada,2014,4.0,2026-03-07
+127,Pink,Romance,Telugu,2016,3.5,2026-03-07
+261,Baahubali,Action,Telugu,2017,3.5,2026-03-07
+397,Baahubali,Comedy,Telugu,2024,4.0,2026-03-07
+95,Pink,Romance,Telugu,2017,5.0,2026-03-08
+397,3 Idiots,Thriller,Kannada,2020,5.0,2026-03-08
+227,Dangal,Romance,Tamil,2014,3.5,2026-03-08
+479,KGF,Romance,Kannada,2012,4.0,2026-03-08
+5,Andhadhun,Sci-Fi,Kannada,2012,5.0,2026-03-09
+406,Drishyam,Sci-Fi,Telugu,2022,4.0,2026-03-09
+458,Andhadhun,Thriller,Hindi,2023,3.5,2026-03-09
+196,Pink,Comedy,Hindi,2016,4.0,2026-03-10
+176,3 Idiots,Comedy,Hindi,2018,2.5,2026-03-10
+178,Drishyam,Sci-Fi,Kannada,2023,4.0,2026-03-10
+319,Baahubali,Action,Tamil,2017,4.0,2026-03-10
+329,KGF,Comedy,Tamil,2018,4.0,2026-03-10
+237,RRR,Action,Hindi,2012,4.5,2026-03-10
+37,Andhadhun,Romance,Telugu,2015,3.0,2026-03-11
+492,KGF,Drama,Tamil,2016,3.5,2026-03-11
+112,Dangal,Comedy,Kannada,2023,4.5,2026-03-11
+48,KGF,Sci-Fi,Tamil,2011,3.0,2026-03-11
+298,3 Idiots,Romance,Hindi,2022,4.0,2026-03-11
+307,3 Idiots,Thriller,Hindi,2024,4.5,2026-03-12
+437,Drishyam,Action,Kannada,2015,3.0,2026-03-12
+50,RRR,Thriller,Hindi,2014,3.5,2026-03-12
+258,Dangal,Sci-Fi,Tamil,2016,3.5,2026-03-12
+393,Baahubali,Comedy,Hindi,2018,3.0,2026-03-12
+300,Pink,Thriller,Telugu,2013,3.0,2026-03-12
+192,Dangal,Romance,Tamil,2018,3.0,2026-03-12
+305,Andhadhun,Comedy,Kannada,2022,4.5,2026-03-12
+489,Drishyam,Drama,Hindi,2017,5.0,2026-03-12
+240,3 Idiots,Romance,Telugu,2014,2.5,2026-03-12
+441,Dangal,Action,Telugu,2020,3.5,2026-03-13
+389,RRR,Comedy,Hindi,2013,3.5,2026-03-13
+151,Pink,Drama,Telugu,2019,3.5,2026-03-13
+126,Baahubali,Thriller,Kannada,2012,2.5,2026-03-13
+105,3 Idiots,Comedy,Kannada,2016,5.0,2026-03-13
+118,Andhadhun,Romance,Tamil,2019,4.5,2026-03-13
+303,KGF,Romance,Kannada,2021,4.0,2026-03-13
+329,3 Idiots,Comedy,Telugu,2022,2.5,2026-03-14
+466,Baahubali,Comedy,Kannada,2022,4.0,2026-03-14
+414,Drishyam,Comedy,Kannada,2022,4.5,2026-03-14
+473,Dangal,Thriller,Kannada,2019,3.0,2026-03-14
+14,KGF,Romance,Hindi,2015,2.0,2026-03-15
+228,Dangal,Comedy,Telugu,2021,3.5,2026-03-15
+111,Baahubali,Sci-Fi,Hindi,2010,5.0,2026-03-15
+458,RRR,Romance,Kannada,2016,4.0,2026-03-15
+355,Pink,Thriller,Telugu,2022,3.0,2026-03-16
+161,KGF,Romance,Hindi,2011,2.5,2026-03-16
+282,Drishyam,Drama,Kannada,2024,3.0,2026-03-17
+248,KGF,Action,Telugu,2016,3.5,2026-03-17
+237,Baahubali,Drama,Kannada,2023,4.0,2026-03-17
+29,KGF,Action,Telugu,2018,4.0,2026-03-17
+226,KGF,Sci-Fi,Telugu,2021,4.5,2026-03-18
+175,RRR,Sci-Fi,Hindi,2020,3.5,2026-03-18
+408,Dangal,Drama,Hindi,2014,4.0,2026-03-18
+431,Andhadhun,Drama,Hindi,2024,4.0,2026-03-18
+374,Drishyam,Sci-Fi,Tamil,2022,4.0,2026-03-18
+17,Baahubali,Comedy,Tamil,2011,2.5,2026-03-18
+420,KGF,Comedy,Telugu,2017,3.5,2026-03-19
+199,Dangal,Comedy,Telugu,2024,4.5,2026-03-19
+471,Dangal,Sci-Fi,Telugu,2024,3.5,2026-03-19
+433,Drishyam,Romance,Kannada,2011,4.5,2026-03-19
+374,3 Idiots,Drama,Hindi,2020,4.0,2026-03-20
+262,KGF,Romance,Hindi,2013,5.0,2026-03-20
+432,KGF,Drama,Tamil,2019,3.5,2026-03-21
+372,KGF,Action,Hindi,2012,3.5,2026-03-21
+367,KGF,Drama,Telugu,2011,2.5,2026-03-21
+442,Drishyam,Drama,Telugu,2010,5.0,2026-03-21
+150,Baahubali,Action,Hindi,2023,4.5,2026-03-22
+109,Baahubali,Action,Telugu,2013,3.0,2026-03-22
+274,RRR,Action,Telugu,2024,2.5,2026-03-22
+266,Pink,Romance,Hindi,2013,4.5,2026-03-22
+205,Drishyam,Romance,Kannada,2015,3.5,2026-03-23
+389,Pink,Comedy,Tamil,2010,4.0,2026-03-23
+399,Pink,Sci-Fi,Telugu,2019,4.0,2026-03-23
+124,Drishyam,Action,Hindi,2011,2.5,2026-03-23
+116,Drishyam,Comedy,Telugu,2018,3.5,2026-03-24
+204,3 Idiots,Action,Telugu,2017,4.0,2026-03-24
+15,Drishyam,Comedy,Tamil,2011,5.0,2026-03-24
+171,Dangal,Action,Telugu,2014,3.5,2026-03-24
+478,RRR,Romance,Tamil,2010,3.5,2026-03-24
+221,Drishyam,Comedy,Tamil,2019,3.5,2026-03-24
+354,Pink,Sci-Fi,Kannada,2011,5.0,2026-03-24
+317,RRR,Romance,Tamil,2023,2.5,2026-03-25
+186,Baahubali,Comedy,Kannada,2022,4.0,2026-03-25
+371,Drishyam,Comedy,Telugu,2016,4.0,2026-03-25
+266,KGF,Action,Kannada,2016,4.0,2026-03-26
+53,3 Idiots,Romance,Tamil,2022,4.0,2026-03-26
+238,Drishyam,Sci-Fi,Tamil,2018,3.0,2026-03-26
+63,Drishyam,Romance,Kannada,2015,3.0,2026-03-26
+225,Drishyam,Thriller,Kannada,2016,3.0,2026-03-26
+32,KGF,Action,Hindi,2014,3.5,2026-03-26
+320,Pink,Thriller,Tamil,2014,4.0,2026-03-26
+156,RRR,Thriller,Tamil,2019,5.0,2026-03-26
+10,KGF,Drama,Kannada,2023,3.5,2026-03-27
+418,3 Idiots,Thriller,Tamil,2016,2.0,2026-03-27
+405,Andhadhun,Sci-Fi,Kannada,2019,3.5,2026-03-27
+30,3 Idiots,Comedy,Hindi,2024,3.0,2026-03-28
+65,RRR,Romance,Telugu,2022,3.0,2026-03-29
+72,Drishyam,Comedy,Hindi,2015,5.0,2026-03-29
+132,Andhadhun,Comedy,Hindi,2020,3.5,2026-03-29
+485,Andhadhun,Sci-Fi,Kannada,2013,4.5,2026-03-29
+450,Dangal,Comedy,Tamil,2010,3.0,2026-03-30
+338,Pink,Action,Hindi,2011,4.0,2026-03-30
+460,RRR,Comedy,Tamil,2013,3.0,2026-03-31
+412,Baahubali,Drama,Tamil,2023,3.0,2026-03-31
+167,Baahubali,Action,Telugu,2010,4.0,2026-03-31
+413,3 Idiots,Drama,Tamil,2023,4.0,2026-03-31
+86,Dangal,Comedy,Tamil,2024,3.0,2026-03-31
+107,KGF,Romance,Hindi,2012,3.5,2026-03-31
+68,RRR,Action,Kannada,2023,3.0,2026-04-01
+46,Dangal,Sci-Fi,Hindi,2017,4.0,2026-04-01
+95,RRR,Romance,Kannada,2018,5.0,2026-04-01
+61,KGF,Thriller,Hindi,2023,3.0,2026-04-01
+191,Drishyam,Drama,Telugu,2018,3.5,2026-04-01
+37,Drishyam,Action,Telugu,2020,3.0,2026-04-01
+32,Andhadhun,Sci-Fi,Telugu,2019,3.0,2026-04-02
+493,Baahubali,Thriller,Kannada,2012,5.0,2026-04-02
+16,Baahubali,Thriller,Kannada,2023,3.5,2026-04-02
+67,Baahubali,Thriller,Kannada,2020,3.0,2026-04-03
+413,Andhadhun,Romance,Telugu,2021,4.5,2026-04-03
+367,Baahubali,Comedy,Kannada,2014,3.0,2026-04-03
+290,RRR,Action,Kannada,2023,4.5,2026-04-03
+44,KGF,Action,Kannada,2017,3.5,2026-04-04
+386,KGF,Comedy,Kannada,2010,3.0,2026-04-04
+315,Dangal,Drama,Telugu,2010,1.0,2026-04-04
+205,Dangal,Action,Tamil,2016,3.0,2026-04-05
+440,Drishyam,Sci-Fi,Hindi,2023,4.5,2026-04-05
+220,Andhadhun,Comedy,Hindi,2015,4.5,2026-04-06
+261,Dangal,Drama,Telugu,2021,3.5,2026-04-06
+468,RRR,Drama,Tamil,2012,4.0,2026-04-06
+356,Dangal,Sci-Fi,Hindi,2020,4.5,2026-04-06
+208,Andhadhun,Thriller,Telugu,2013,4.0,2026-04-06
+224,RRR,Drama,Telugu,2019,3.5,2026-04-07
+352,RRR,Sci-Fi,Tamil,2019,4.5,2026-04-07
+173,Baahubali,Romance,Hindi,2014,2.5,2026-04-07
+85,KGF,Drama,Telugu,2017,4.0,2026-04-07
+234,RRR,Romance,Hindi,2013,4.5,2026-04-07
+86,KGF,Sci-Fi,Tamil,2014,4.5,2026-04-08
+397,RRR,Thriller,Hindi,2022,3.0,2026-04-09
+390,Dangal,Action,Hindi,2024,3.0,2026-04-09
+211,Pink,Comedy,Telugu,2012,3.5,2026-04-09
+78,3 Idiots,Sci-Fi,Kannada,2013,2.5,2026-04-09
+377,Pink,Thriller,Telugu,2015,3.5,2026-04-10
+420,Baahubali,Sci-Fi,Telugu,2014,2.0,2026-04-10
+166,3 Idiots,Drama,Kannada,2016,3.5,2026-04-11
+475,Pink,Comedy,Tamil,2010,3.5,2026-04-11
+342,3 Idiots,Romance,Kannada,2010,4.5,2026-04-11
+322,RRR,Comedy,Kannada,2014,3.0,2026-04-11
+440,Dangal,Comedy,Tamil,2023,5.0,2026-04-12
+40,Baahubali,Thriller,Kannada,2016,4.5,2026-04-12
+440,RRR,Sci-Fi,Tamil,2010,3.0,2026-04-12
+382,Pink,Action,Telugu,2019,2.5,2026-04-12
+154,RRR,Romance,Hindi,2020,3.0,2026-04-13
+376,Dangal,Romance,Kannada,2023,5.0,2026-04-13
+109,KGF,Thriller,Tamil,2021,3.0,2026-04-13
+344,Andhadhun,Thriller,Tamil,2024,4.0,2026-04-13
+325,Andhadhun,Comedy,Telugu,2022,2.5,2026-04-14
+454,3 Idiots,Action,Hindi,2019,1.5,2026-04-14
+57,Pink,Action,Hindi,2024,3.5,2026-04-14
+148,Pink,Thriller,Tamil,2024,5.0,2026-04-14
+284,Dangal,Thriller,Telugu,2024,3.0,2026-04-14
+125,Andhadhun,Sci-Fi,Hindi,2024,4.5,2026-04-15
+146,Drishyam,Action,Hindi,2022,3.0,2026-04-15
+170,Drishyam,Sci-Fi,Hindi,2017,4.0,2026-04-15
+277,3 Idiots,Drama,Tamil,2012,2.5,2026-04-15
+143,KGF,Comedy,Hindi,2018,3.0,2026-04-15
+311,Baahubali,Action,Hindi,2016,3.5,2026-04-16
+223,Drishyam,Comedy,Telugu,2012,3.5,2026-04-16
+305,Baahubali,Sci-Fi,Telugu,2019,3.5,2026-04-16
+79,KGF,Drama,Telugu,2016,4.0,2026-04-16
+311,3 Idiots,Action,Tamil,2015,2.5,2026-04-16
+461,KGF,Sci-Fi,Kannada,2020,5.0,2026-04-17
+69,Baahubali,Drama,Telugu,2021,5.0,2026-04-17
+164,Dangal,Sci-Fi,Telugu,2014,3.5,2026-04-17
+346,Andhadhun,Drama,Hindi,2024,3.5,2026-04-17
+308,Dangal,Drama,Hindi,2024,4.5,2026-04-18
+341,KGF,Sci-Fi,Telugu,2011,2.0,2026-04-18
+304,RRR,Comedy,Tamil,2016,4.5,2026-04-18
+375,RRR,Romance,Hindi,2018,3.5,2026-04-18
+224,Pink,Comedy,Hindi,2024,3.5,2026-04-18
+27,Baahubali,Action,Tamil,2022,4.0,2026-04-19
+205,RRR,Sci-Fi,Hindi,2020,3.5,2026-04-19
+45,3 Idiots,Thriller,Tamil,2018,4.5,2026-04-19
+497,Dangal,Comedy,Telugu,2011,3.0,2026-04-19
+112,Pink,Romance,Kannada,2012,3.5,2026-04-20
+166,KGF,Romance,Kannada,2018,5.0,2026-04-20
+221,3 Idiots,Comedy,Telugu,2010,4.5,2026-04-20
+415,3 Idiots,Action,Tamil,2013,2.5,2026-04-20
+371,Andhadhun,Action,Telugu,2019,3.5,2026-04-20
+385,Dangal,Drama,Kannada,2010,2.5,2026-04-20
+119,3 Idiots,Comedy,Tamil,2024,3.0,2026-04-20
+414,Pink,Romance,Kannada,2017,3.0,2026-04-21
+232,Pink,Drama,Hindi,2014,3.5,2026-04-21
+273,3 Idiots,Drama,Kannada,2023,4.0,2026-04-21
+20,Baahubali,Romance,Hindi,2022,4.0,2026-04-21
+479,Andhadhun,Action,Kannada,2011,2.5,2026-04-22
+236,KGF,Comedy,Telugu,2010,2.0,2026-04-22
+270,3 Idiots,Drama,Telugu,2020,3.5,2026-04-23
+250,3 Idiots,Drama,Kannada,2013,2.0,2026-04-23
+43,Baahubali,Romance,Kannada,2017,5.0,2026-04-23
+360,Drishyam,Drama,Kannada,2012,3.0,2026-04-24
+463,Dangal,Thriller,Tamil,2016,3.5,2026-04-24
+464,Andhadhun,Drama,Hindi,2022,1.5,2026-04-25
+246,Baahubali,Drama,Kannada,2016,2.0,2026-04-25
+478,KGF,Drama,Tamil,2022,5.0,2026-04-25
+264,Baahubali,Sci-Fi,Kannada,2012,3.0,2026-04-25
+321,KGF,Romance,Hindi,2011,5.0,2026-04-25
+301,Baahubali,Sci-Fi,Hindi,2021,2.5,2026-04-26
+498,Dangal,Thriller,Hindi,2020,5.0,2026-04-26
+368,KGF,Action,Telugu,2012,3.5,2026-04-26
+61,Baahubali,Thriller,Kannada,2018,3.0,2026-04-26
+37,KGF,Romance,Tamil,2017,5.0,2026-04-26
+205,3 Idiots,Sci-Fi,Hindi,2010,3.5,2026-04-27
+258,Baahubali,Drama,Tamil,2022,3.0,2026-04-27
+334,Andhadhun,Comedy,Tamil,2023,5.0,2026-04-27
+241,Baahubali,Comedy,Telugu,2015,5.0,2026-04-28
+257,Dangal,Action,Telugu,2023,5.0,2026-04-29
+460,Dangal,Drama,Hindi,2024,3.0,2026-04-29
+279,Drishyam,Sci-Fi,Hindi,2021,3.0,2026-04-29
+234,KGF,Romance,Tamil,2024,5.0,2026-04-29
+483,Dangal,Romance,Telugu,2010,5.0,2026-04-29
+480,Pink,Sci-Fi,Tamil,2021,3.0,2026-04-29
+257,3 Idiots,Comedy,Hindi,2020,4.0,2026-04-29
+294,Baahubali,Sci-Fi,Kannada,2010,4.5,2026-04-30
+91,Baahubali,Romance,Hindi,2011,4.5,2026-04-30
+73,Andhadhun,Romance,Tamil,2015,3.0,2026-05-01
+49,KGF,Romance,Kannada,2016,3.5,2026-05-02
+293,RRR,Sci-Fi,Tamil,2014,4.0,2026-05-02
+2,Pink,Comedy,Hindi,2010,4.0,2026-05-02
+323,Dangal,Drama,Hindi,2017,4.0,2026-05-02
+216,3 Idiots,Sci-Fi,Telugu,2017,4.5,2026-05-02
+384,Baahubali,Action,Kannada,2022,4.5,2026-05-03
+269,Baahubali,Sci-Fi,Tamil,2018,3.0,2026-05-03
+366,KGF,Drama,Tamil,2013,4.0,2026-05-03
+354,Drishyam,Romance,Tamil,2022,2.5,2026-05-04
+109,Pink,Comedy,Kannada,2011,2.5,2026-05-04
+285,3 Idiots,Sci-Fi,Hindi,2010,4.5,2026-05-04
+78,Dangal,Thriller,Hindi,2019,3.5,2026-05-05
+54,3 Idiots,Comedy,Telugu,2012,2.0,2026-05-05
+469,Pink,Thriller,Hindi,2023,5.0,2026-05-05
+482,RRR,Thriller,Kannada,2021,4.5,2026-05-05
+85,Baahubali,Sci-Fi,Hindi,2015,3.0,2026-05-06
+201,RRR,Comedy,Telugu,2010,2.5,2026-05-06
+313,Dangal,Comedy,Kannada,2015,2.5,2026-05-06
+99,3 Idiots,Thriller,Telugu,2021,5.0,2026-05-07
+164,Baahubali,Drama,Hindi,2022,1.5,2026-05-07
+198,KGF,Sci-Fi,Kannada,2017,2.5,2026-05-07
+320,3 Idiots,Romance,Tamil,2020,2.5,2026-05-07
+155,KGF,Action,Hindi,2017,5.0,2026-05-08
+206,RRR,Romance,Tamil,2013,3.0,2026-05-08
+145,Pink,Romance,Kannada,2018,4.5,2026-05-08
+379,RRR,Comedy,Tamil,2012,4.0,2026-05-08
+116,Andhadhun,Thriller,Telugu,2010,2.5,2026-05-08
+126,Andhadhun,Action,Tamil,2018,3.5,2026-05-08
+452,KGF,Comedy,Tamil,2014,3.0,2026-05-08
+471,Andhadhun,Comedy,Telugu,2018,2.0,2026-05-09
+250,RRR,Action,Tamil,2016,4.5,2026-05-09
+377,KGF,Romance,Tamil,2018,1.5,2026-05-09
+246,RRR,Sci-Fi,Kannada,2020,4.5,2026-05-09
+424,Pink,Drama,Tamil,2017,3.0,2026-05-10
+180,KGF,Thriller,Hindi,2014,3.5,2026-05-10
+498,3 Idiots,Drama,Hindi,2011,3.5,2026-05-10
+403,Andhadhun,Romance,Hindi,2022,3.0,2026-05-10
+113,Pink,Drama,Kannada,2014,3.0,2026-05-10
+362,RRR,Comedy,Telugu,2022,3.0,2026-05-10
+144,3 Idiots,Thriller,Telugu,2013,4.0,2026-05-10
+175,Baahubali,Comedy,Kannada,2014,3.0,2026-05-10
+126,Pink,Comedy,Tamil,2011,3.5,2026-05-10
+341,Dangal,Sci-Fi,Kannada,2024,3.0,2026-05-10
+132,Baahubali,Comedy,Kannada,2021,3.0,2026-05-11
+319,Pink,Comedy,Telugu,2022,5.0,2026-05-11
+291,KGF,Drama,Telugu,2014,5.0,2026-05-11
+375,Dangal,Action,Tamil,2020,4.0,2026-05-12
+495,Drishyam,Action,Kannada,2011,4.5,2026-05-12
+6,Drishyam,Sci-Fi,Hindi,2021,3.5,2026-05-12
+494,3 Idiots,Romance,Telugu,2013,3.0,2026-05-12
+56,RRR,Sci-Fi,Tamil,2024,4.0,2026-05-12
+171,3 Idiots,Comedy,Kannada,2015,3.5,2026-05-12
+319,RRR,Thriller,Telugu,2024,3.5,2026-05-13
+360,Andhadhun,Thriller,Hindi,2010,4.5,2026-05-13
+201,Baahubali,Action,Kannada,2022,4.0,2026-05-13
+465,Pink,Drama,Telugu,2023,2.5,2026-05-14
+162,RRR,Comedy,Kannada,2012,4.0,2026-05-14
+103,Pink,Drama,Kannada,2012,4.0,2026-05-14
+190,KGF,Romance,Kannada,2012,5.0,2026-05-14
+264,Pink,Romance,Tamil,2018,2.0,2026-05-14
+334,Drishyam,Thriller,Tamil,2011,4.0,2026-05-14
+415,Andhadhun,Drama,Kannada,2024,4.5,2026-05-15
+113,KGF,Comedy,Kannada,2018,3.0,2026-05-15
+152,RRR,Sci-Fi,Hindi,2014,3.0,2026-05-15
+220,Drishyam,Sci-Fi,Tamil,2024,4.0,2026-05-15
+122,Dangal,Thriller,Kannada,2019,3.0,2026-05-16
+491,Pink,Thriller,Kannada,2010,4.5,2026-05-16
+225,Dangal,Comedy,Telugu,2011,2.5,2026-05-16
+491,Baahubali,Drama,Hindi,2014,3.5,2026-05-16
+458,Baahubali,Drama,Tamil,2021,4.0,2026-05-16
+452,Baahubali,Action,Kannada,2014,2.0,2026-05-16
+291,Andhadhun,Comedy,Tamil,2016,4.0,2026-05-17
+398,KGF,Romance,Hindi,2022,2.5,2026-05-17
+479,Dangal,Romance,Tamil,2019,4.0,2026-05-17
+135,3 Idiots,Drama,Kannada,2021,3.0,2026-05-17
+20,KGF,Action,Tamil,2012,3.5,2026-05-17
+161,Andhadhun,Action,Hindi,2020,2.5,2026-05-17
+318,RRR,Drama,Tamil,2014,4.0,2026-05-18
+273,Baahubali,Romance,Kannada,2020,3.0,2026-05-18
+42,Baahubali,Romance,Tamil,2013,5.0,2026-05-18
+280,Baahubali,Action,Tamil,2018,3.5,2026-05-18
+88,RRR,Sci-Fi,Hindi,2014,2.5,2026-05-18
+288,KGF,Romance,Kannada,2021,3.5,2026-05-18
+318,Dangal,Sci-Fi,Kannada,2023,4.5,2026-05-19
+204,KGF,Romance,Kannada,2020,4.0,2026-05-19
+374,Baahubali,Drama,Kannada,2012,4.0,2026-05-19
+167,Drishyam,Thriller,Tamil,2011,4.0,2026-05-20
+212,Drishyam,Thriller,Kannada,2021,3.5,2026-05-20
+166,Drishyam,Action,Kannada,2021,2.5,2026-05-20
+264,KGF,Romance,Telugu,2018,3.0,2026-05-20
+65,Baahubali,Sci-Fi,Telugu,2019,5.0,2026-05-20
+215,Baahubali,Thriller,Kannada,2024,3.5,2026-05-20
+95,Baahubali,Sci-Fi,Telugu,2024,5.0,2026-05-20
+266,3 Idiots,Thriller,Hindi,2013,4.0,2026-05-20
+424,KGF,Drama,Tamil,2020,3.5,2026-05-21
+223,3 Idiots,Sci-Fi,Telugu,2024,3.0,2026-05-21
+29,Pink,Drama,Kannada,2014,5.0,2026-05-21
+115,Andhadhun,Romance,Tamil,2010,3.0,2026-05-21
+54,KGF,Comedy,Hindi,2010,4.0,2026-05-21
+277,Baahubali,Comedy,Hindi,2019,2.5,2026-05-23
+89,Drishyam,Drama,Kannada,2011,2.5,2026-05-23
+12,Pink,Action,Hindi,2024,3.5,2026-05-23
+487,3 Idiots,Sci-Fi,Tamil,2018,3.0,2026-05-23
+159,Andhadhun,Thriller,Kannada,2021,3.5,2026-05-23
+89,KGF,Sci-Fi,Kannada,2010,3.5,2026-05-24
+128,Baahubali,Romance,Hindi,2019,3.5,2026-05-24
+445,Dangal,Comedy,Telugu,2019,3.0,2026-05-25
+138,Pink,Action,Kannada,2017,4.0,2026-05-25
+343,Pink,Drama,Hindi,2010,3.5,2026-05-25
+34,KGF,Sci-Fi,Tamil,2015,4.0,2026-05-25
+29,Andhadhun,Sci-Fi,Kannada,2015,4.0,2026-05-25
+291,Dangal,Comedy,Kannada,2020,4.0,2026-05-26
+402,Baahubali,Thriller,Tamil,2011,4.0,2026-05-26
+12,3 Idiots,Romance,Telugu,2012,2.0,2026-05-26
+13,KGF,Action,Kannada,2023,3.5,2026-05-26
+423,KGF,Thriller,Kannada,2019,3.0,2026-05-26
+79,Dangal,Romance,Kannada,2022,4.0,2026-05-26
+303,Drishyam,Action,Hindi,2013,3.5,2026-05-27
+115,Dangal,Comedy,Tamil,2011,2.0,2026-05-27
+222,Andhadhun,Comedy,Hindi,2022,5.0,2026-05-27
+192,Pink,Drama,Tamil,2011,4.0,2026-05-28
+37,Baahubali,Sci-Fi,Telugu,2017,4.0,2026-05-29
+400,3 Idiots,Action,Kannada,2020,2.5,2026-05-30
+313,Pink,Comedy,Hindi,2015,3.5,2026-05-30
+445,3 Idiots,Thriller,Tamil,2017,3.0,2026-05-31
+64,Drishyam,Drama,Hindi,2013,3.0,2026-05-31
+7,KGF,Sci-Fi,Kannada,2024,3.5,2026-06-01
+274,KGF,Sci-Fi,Hindi,2011,5.0,2026-06-01
+90,3 Idiots,Sci-Fi,Telugu,2013,3.0,2026-06-01
+297,Baahubali,Action,Telugu,2022,3.0,2026-06-01
+451,Dangal,Drama,Telugu,2015,3.5,2026-06-01
+169,Dangal,Action,Telugu,2014,4.0,2026-06-01
+340,KGF,Comedy,Telugu,2014,3.0,2026-06-02
+76,Baahubali,Romance,Hindi,2022,5.0,2026-06-02
+447,3 Idiots,Action,Tamil,2022,5.0,2026-06-02
+102,KGF,Sci-Fi,Telugu,2011,3.5,2026-06-02
+403,Dangal,Sci-Fi,Tamil,2020,3.0,2026-06-02
+330,KGF,Sci-Fi,Kannada,2015,2.0,2026-06-02
+72,KGF,Sci-Fi,Tamil,2022,3.5,2026-06-02
+99,Andhadhun,Drama,Hindi,2021,4.5,2026-06-02
+478,Pink,Romance,Hindi,2024,4.5,2026-06-04
+435,KGF,Romance,Tamil,2017,3.5,2026-06-04
+247,KGF,Action,Telugu,2012,4.0,2026-06-04
+280,Dangal,Drama,Hindi,2016,4.0,2026-06-04
+151,Dangal,Sci-Fi,Kannada,2011,4.0,2026-06-05
+459,Drishyam,Action,Telugu,2012,4.0,2026-06-05
+239,Pink,Sci-Fi,Kannada,2015,2.5,2026-06-05
+180,Dangal,Sci-Fi,Telugu,2019,3.5,2026-06-05
+369,Dangal,Romance,Kannada,2014,4.5,2026-06-06
+113,3 Idiots,Thriller,Hindi,2022,4.0,2026-06-06
+366,Dangal,Action,Telugu,2011,3.0,2026-06-06
+54,Baahubali,Thriller,Telugu,2024,3.5,2026-06-06
+241,Andhadhun,Sci-Fi,Tamil,2021,2.5,2026-06-06
+355,Drishyam,Romance,Telugu,2014,3.5,2026-06-06
+180,Drishyam,Comedy,Tamil,2016,3.0,2026-06-07
+11,KGF,Thriller,Hindi,2015,3.5,2026-06-07
+163,Pink,Thriller,Tamil,2024,3.0,2026-06-07
+220,Dangal,Action,Kannada,2011,2.5,2026-06-07
+322,Pink,Comedy,Tamil,2016,3.0,2026-06-08
+125,3 Idiots,Thriller,Kannada,2015,3.5,2026-06-08
+305,Drishyam,Romance,Kannada,2014,4.5,2026-06-08
+315,Andhadhun,Drama,Hindi,2010,3.0,2026-06-08
+387,Baahubali,Comedy,Telugu,2011,3.5,2026-06-09
+404,KGF,Drama,Kannada,2020,4.5,2026-06-09
+112,Baahubali,Thriller,Tamil,2016,3.5,2026-06-09
+355,KGF,Action,Tamil,2013,5.0,2026-06-10
+24,KGF,Sci-Fi,Tamil,2018,5.0,2026-06-10
+431,RRR,Thriller,Hindi,2010,5.0,2026-06-10
+310,KGF,Sci-Fi,Tamil,2022,3.0,2026-06-11
+301,Pink,Drama,Telugu,2012,2.5,2026-06-11
+347,3 Idiots,Comedy,Kannada,2016,3.5,2026-06-11
+124,KGF,Romance,Hindi,2014,4.0,2026-06-11
+90,Dangal,Action,Hindi,2011,3.5,2026-06-11
+23,KGF,Drama,Tamil,2014,3.0,2026-06-12
+431,Pink,Romance,Kannada,2015,4.5,2026-06-12
+113,RRR,Comedy,Hindi,2010,4.5,2026-06-12
+287,RRR,Thriller,Kannada,2022,2.5,2026-06-12
+228,3 Idiots,Drama,Tamil,2018,5.0,2026-06-12
+82,Pink,Drama,Telugu,2014,4.0,2026-06-12
+43,Drishyam,Thriller,Hindi,2021,3.5,2026-06-13
+89,3 Idiots,Thriller,Hindi,2011,3.0,2026-06-13
+71,3 Idiots,Sci-Fi,Telugu,2019,4.0,2026-06-13
+411,Andhadhun,Comedy,Tamil,2017,4.5,2026-06-14
+284,3 Idiots,Drama,Telugu,2016,5.0,2026-06-14
+218,KGF,Action,Hindi,2014,3.0,2026-06-15
+102,RRR,Thriller,Tamil,2015,4.0,2026-06-15
+304,Dangal,Drama,Tamil,2010,4.0,2026-06-15
+266,Baahubali,Sci-Fi,Kannada,2014,4.0,2026-06-15
+10,Pink,Action,Kannada,2012,4.0,2026-06-15
+152,Drishyam,Comedy,Tamil,2023,3.5,2026-06-15
+461,RRR,Comedy,Kannada,2019,3.5,2026-06-16
+259,Baahubali,Action,Hindi,2014,3.0,2026-06-16
+255,Pink,Action,Kannada,2020,4.0,2026-06-16
+7,Pink,Romance,Hindi,2012,5.0,2026-06-16
+435,Andhadhun,Comedy,Telugu,2015,3.5,2026-06-16
+381,KGF,Comedy,Kannada,2013,3.5,2026-06-17
+357,Andhadhun,Drama,Tamil,2021,2.5,2026-06-17
+484,KGF,Action,Tamil,2021,4.5,2026-06-17
+99,KGF,Sci-Fi,Telugu,2017,4.0,2026-06-18
+452,Drishyam,Sci-Fi,Hindi,2014,4.5,2026-06-18
+117,RRR,Romance,Hindi,2017,3.0,2026-06-18
+484,Dangal,Drama,Hindi,2021,3.0,2026-06-19
+97,Pink,Thriller,Telugu,2010,3.5,2026-06-19
+275,Dangal,Action,Tamil,2010,3.0,2026-06-19
+394,Drishyam,Comedy,Tamil,2019,3.0,2026-06-19
+40,RRR,Drama,Hindi,2011,4.0,2026-06-19
+35,Dangal,Comedy,Hindi,2018,3.0,2026-06-20
+32,Pink,Romance,Hindi,2017,3.0,2026-06-20
+307,RRR,Romance,Telugu,2012,4.0,2026-06-21
+468,Drishyam,Comedy,Tamil,2019,2.5,2026-06-21
+307,Andhadhun,Action,Telugu,2022,3.0,2026-06-21
+241,Pink,Comedy,Tamil,2013,2.0,2026-06-21
+209,Andhadhun,Action,Kannada,2012,2.5,2026-06-22
+319,Andhadhun,Thriller,Hindi,2015,4.0,2026-06-22
+286,Drishyam,Drama,Kannada,2013,2.0,2026-06-22
+78,Pink,Action,Hindi,2023,3.0,2026-06-22
+369,Andhadhun,Sci-Fi,Hindi,2010,4.5,2026-06-22
+354,KGF,Sci-Fi,Tamil,2023,3.5,2026-06-23
+39,Dangal,Action,Kannada,2022,5.0,2026-06-23
+351,Baahubali,Action,Kannada,2011,4.5,2026-06-23
+93,3 Idiots,Drama,Kannada,2023,3.5,2026-06-23
+423,RRR,Sci-Fi,Tamil,2018,5.0,2026-06-23
+262,RRR,Action,Hindi,2020,2.0,2026-06-23
+236,3 Idiots,Thriller,Kannada,2011,4.0,2026-06-23
+361,Dangal,Sci-Fi,Hindi,2020,3.0,2026-06-23
+255,Dangal,Thriller,Hindi,2021,3.0,2026-06-23
+272,Baahubali,Thriller,Hindi,2018,3.5,2026-06-23
+157,3 Idiots,Sci-Fi,Tamil,2011,2.5,2026-06-24
+483,Andhadhun,Comedy,Tamil,2023,3.0,2026-06-24
+66,KGF,Action,Telugu,2018,2.5,2026-06-24
+13,Baahubali,Sci-Fi,Kannada,2023,4.5,2026-06-24
+185,3 Idiots,Drama,Hindi,2017,2.5,2026-06-24
+88,Drishyam,Action,Telugu,2012,2.5,2026-06-24
+189,Andhadhun,Action,Hindi,2019,3.0,2026-06-25
+111,Andhadhun,Sci-Fi,Tamil,2022,3.5,2026-06-25
+363,Dangal,Romance,Telugu,2010,3.5,2026-06-26
+232,3 Idiots,Drama,Kannada,2015,3.0,2026-06-26
+296,3 Idiots,Romance,Hindi,2017,4.0,2026-06-27
+470,RRR,Drama,Telugu,2019,4.0,2026-06-27
+366,Pink,Sci-Fi,Kannada,2021,3.5,2026-06-28
+50,KGF,Drama,Tamil,2015,3.5,2026-06-28
+108,Baahubali,Drama,Telugu,2010,3.0,2026-06-28
+472,KGF,Action,Telugu,2013,2.0,2026-06-28
+328,Pink,Sci-Fi,Telugu,2012,3.0,2026-06-28
+189,Dangal,Romance,Telugu,2014,2.5,2026-06-29
+101,3 Idiots,Drama,Tamil,2016,2.5,2026-06-29
+425,3 Idiots,Comedy,Tamil,2011,5.0,2026-06-29
+392,Dangal,Sci-Fi,Tamil,2016,3.5,2026-06-29
+122,RRR,Action,Kannada,2021,1.5,2026-06-29
+309,Andhadhun,Drama,Tamil,2013,4.0,2026-06-29
+239,Andhadhun,Romance,Hindi,2013,3.0,2026-06-29
+63,Dangal,Romance,Telugu,2016,3.0,2026-06-30
+130,3 Idiots,Romance,Tamil,2022,3.0,2026-07-01
+49,Andhadhun,Thriller,Telugu,2018,2.5,2026-07-01
+346,KGF,Thriller,Tamil,2023,5.0,2026-07-01
+322,Andhadhun,Action,Tamil,2020,5.0,2026-07-01
+492,Pink,Drama,Telugu,2012,5.0,2026-07-01
+271,Andhadhun,Action,Hindi,2013,3.0,2026-07-01
+76,Andhadhun,Thriller,Kannada,2010,3.0,2026-07-01
+226,Drishyam,Sci-Fi,Telugu,2023,5.0,2026-07-02
+45,Andhadhun,Romance,Kannada,2020,4.5,2026-07-02
+335,Baahubali,Drama,Hindi,2019,4.0,2026-07-02
+337,3 Idiots,Thriller,Tamil,2022,5.0,2026-07-03
+428,Pink,Comedy,Hindi,2024,3.0,2026-07-03
+170,KGF,Sci-Fi,Kannada,2012,3.0,2026-07-03
+156,Andhadhun,Comedy,Telugu,2011,3.5,2026-07-03
+37,RRR,Sci-Fi,Telugu,2020,3.5,2026-07-03
+208,Baahubali,Action,Telugu,2010,3.0,2026-07-03
+238,Dangal,Comedy,Tamil,2011,5.0,2026-07-04
+376,RRR,Thriller,Telugu,2017,3.5,2026-07-04
+376,3 Idiots,Action,Kannada,2014,4.0,2026-07-04
+71,KGF,Romance,Hindi,2014,3.0,2026-07-04
+143,Baahubali,Action,Kannada,2016,4.0,2026-07-04
+256,3 Idiots,Action,Kannada,2016,3.5,2026-07-05
+168,KGF,Sci-Fi,Kannada,2014,4.5,2026-07-05
+14,Drishyam,Sci-Fi,Kannada,2017,3.5,2026-07-05
+422,Drishyam,Action,Tamil,2010,5.0,2026-07-05
+365,Dangal,Sci-Fi,Telugu,2019,3.5,2026-07-05
+260,Pink,Romance,Hindi,2021,3.0,2026-07-06
+159,Baahubali,Comedy,Telugu,2010,2.5,2026-07-06
+420,3 Idiots,Comedy,Hindi,2023,4.5,2026-07-06
+19,Andhadhun,Drama,Kannada,2010,3.5,2026-07-07
+223,Pink,Romance,Hindi,2015,3.0,2026-07-07
+400,Drishyam,Drama,Hindi,2023,4.5,2026-07-07
+475,Drishyam,Sci-Fi,Hindi,2019,4.5,2026-07-07
+126,RRR,Action,Telugu,2024,2.5,2026-07-08
+325,KGF,Sci-Fi,Hindi,2013,4.0,2026-07-08
+96,Andhadhun,Thriller,Hindi,2011,4.5,2026-07-08
+59,3 Idiots,Thriller,Hindi,2019,3.5,2026-07-08
+177,Drishyam,Romance,Tamil,2015,1.0,2026-07-09
+441,3 Idiots,Drama,Kannada,2011,1.5,2026-07-09
+344,KGF,Comedy,Tamil,2010,4.5,2026-07-09
+245,RRR,Action,Hindi,2013,2.5,2026-07-10
+142,Andhadhun,Drama,Hindi,2019,4.0,2026-07-10
+136,KGF,Comedy,Tamil,2020,3.0,2026-07-10
+77,Baahubali,Sci-Fi,Hindi,2016,3.5,2026-07-10
+94,KGF,Action,Hindi,2020,4.0,2026-07-11
+343,KGF,Action,Hindi,2020,3.0,2026-07-11
+67,Andhadhun,Romance,Tamil,2019,3.0,2026-07-11
+25,3 Idiots,Comedy,Telugu,2020,2.5,2026-07-11
+271,Dangal,Sci-Fi,Hindi,2022,2.5,2026-07-11
+144,KGF,Drama,Telugu,2011,5.0,2026-07-11
+227,KGF,Romance,Telugu,2017,4.0,2026-07-12
+71,RRR,Comedy,Kannada,2013,5.0,2026-07-12
+106,3 Idiots,Thriller,Hindi,2019,4.5,2026-07-13
+221,RRR,Sci-Fi,Kannada,2012,4.5,2026-07-13
+344,RRR,Action,Kannada,2014,5.0,2026-07-13
+271,Baahubali,Sci-Fi,Kannada,2012,4.0,2026-07-13
+261,Pink,Drama,Hindi,2023,4.5,2026-07-14
+135,Pink,Comedy,Kannada,2021,3.5,2026-07-14
+213,Baahubali,Thriller,Hindi,2019,4.0,2026-07-14
+17,Dangal,Thriller,Hindi,2018,3.5,2026-07-14
+342,Andhadhun,Action,Kannada,2015,3.5,2026-07-15
+307,Drishyam,Romance,Hindi,2023,4.0,2026-07-15
+187,Drishyam,Romance,Tamil,2016,5.0,2026-07-15
+165,RRR,Thriller,Telugu,2014,3.0,2026-07-15
+325,Drishyam,Action,Hindi,2016,3.0,2026-07-16
+379,Drishyam,Sci-Fi,Telugu,2019,3.0,2026-07-16
+56,Drishyam,Thriller,Tamil,2012,4.0,2026-07-16
+207,KGF,Romance,Kannada,2010,3.5,2026-07-17
+8,Baahubali,Drama,Hindi,2020,3.5,2026-07-17
+125,RRR,Comedy,Hindi,2014,1.0,2026-07-18
+168,Pink,Thriller,Hindi,2014,3.0,2026-07-19
+228,Drishyam,Thriller,Kannada,2014,4.0,2026-07-19
+162,3 Idiots,Romance,Hindi,2019,4.0,2026-07-19
+197,Andhadhun,Comedy,Hindi,2013,3.5,2026-07-19
+382,Dangal,Drama,Kannada,2017,4.0,2026-07-19
+404,3 Idiots,Romance,Hindi,2014,5.0,2026-07-19
+4,RRR,Sci-Fi,Hindi,2011,4.0,2026-07-19
+189,KGF,Drama,Telugu,2023,3.5,2026-07-20
+422,RRR,Comedy,Tamil,2010,4.5,2026-07-20
+265,Baahubali,Comedy,Kannada,2021,4.5,2026-07-20
+104,Pink,Comedy,Telugu,2010,3.5,2026-07-20
+296,RRR,Thriller,Tamil,2010,4.0,2026-07-21
+74,3 Idiots,Sci-Fi,Telugu,2023,4.0,2026-07-21
+12,Baahubali,Drama,Kannada,2022,2.5,2026-07-21
+316,Drishyam,Comedy,Tamil,2014,2.5,2026-07-21
+258,3 Idiots,Drama,Telugu,2020,4.5,2026-07-21
+377,RRR,Romance,Tamil,2014,3.0,2026-07-21
+173,Andhadhun,Romance,Telugu,2020,4.0,2026-07-21
+426,Dangal,Action,Telugu,2016,4.0,2026-07-21
+211,RRR,Action,Hindi,2022,4.0,2026-07-21
+51,Dangal,Comedy,Hindi,2011,4.5,2026-07-22
+50,3 Idiots,Thriller,Telugu,2022,3.5,2026-07-22
+391,Pink,Romance,Telugu,2018,5.0,2026-07-22
+416,Baahubali,Romance,Tamil,2012,3.5,2026-07-22
+470,KGF,Sci-Fi,Hindi,2012,3.5,2026-07-22
+163,Dangal,Comedy,Kannada,2012,3.0,2026-07-22
+13,3 Idiots,Drama,Tamil,2010,3.0,2026-07-23
+489,Baahubali,Drama,Tamil,2017,4.5,2026-07-23
+300,Dangal,Sci-Fi,Hindi,2011,5.0,2026-07-23
+124,Andhadhun,Drama,Telugu,2014,3.0,2026-07-23
+381,3 Idiots,Sci-Fi,Tamil,2010,2.0,2026-07-23
+451,Andhadhun,Action,Kannada,2014,4.0,2026-07-24
+143,Drishyam,Romance,Telugu,2014,2.5,2026-07-24
+384,Andhadhun,Comedy,Hindi,2023,4.0,2026-07-24
+393,Andhadhun,Drama,Telugu,2019,3.5,2026-07-25
+316,Pink,Romance,Hindi,2018,3.0,2026-07-25
+135,Andhadhun,Comedy,Telugu,2014,4.5,2026-07-26
+463,Pink,Action,Hindi,2019,3.5,2026-07-26
+490,3 Idiots,Romance,Kannada,2014,4.5,2026-07-26
+489,RRR,Action,Telugu,2018,5.0,2026-07-26
+368,Baahubali,Action,Hindi,2013,3.0,2026-07-27
+184,Baahubali,Comedy,Telugu,2018,4.0,2026-07-27
+223,Andhadhun,Action,Hindi,2018,3.0,2026-07-27
+479,Pink,Comedy,Tamil,2019,3.0,2026-07-28
+273,Dangal,Thriller,Kannada,2023,3.0,2026-07-28
+268,Drishyam,Drama,Tamil,2019,4.5,2026-07-28
+74,RRR,Romance,Tamil,2020,3.0,2026-07-28
+396,Andhadhun,Action,Tamil,2010,5.0,2026-07-28
+169,RRR,Sci-Fi,Tamil,2014,4.5,2026-07-29
+492,Drishyam,Sci-Fi,Telugu,2014,4.0,2026-07-30
+96,Baahubali,Drama,Kannada,2012,3.0,2026-07-31
+10,Andhadhun,Action,Telugu,2021,4.5,2026-07-31
+40,Pink,Thriller,Hindi,2010,5.0,2026-07-31
+226,Andhadhun,Comedy,Tamil,2011,5.0,2026-07-31
+53,Pink,Drama,Hindi,2011,4.0,2026-08-01
+420,Drishyam,Drama,Tamil,2020,4.5,2026-08-01
+256,Andhadhun,Drama,Telugu,2024,4.5,2026-08-01
+3,Pink,Sci-Fi,Kannada,2010,4.0,2026-08-01
+240,Dangal,Action,Tamil,2011,2.0,2026-08-02
+77,Dangal,Comedy,Telugu,2018,3.5,2026-08-02
+488,KGF,Comedy,Kannada,2015,3.5,2026-08-02
+146,Baahubali,Sci-Fi,Telugu,2018,3.5,2026-08-02
+238,Pink,Comedy,Kannada,2017,2.0,2026-08-02
+11,Andhadhun,Romance,Kannada,2019,3.0,2026-08-02
+67,3 Idiots,Romance,Telugu,2022,3.0,2026-08-03
+105,Dangal,Drama,Tamil,2017,5.0,2026-08-03
+27,RRR,Thriller,Tamil,2016,5.0,2026-08-03
+362,Baahubali,Sci-Fi,Kannada,2024,4.5,2026-08-03
+471,KGF,Romance,Hindi,2011,5.0,2026-08-04
+491,Drishyam,Action,Kannada,2010,5.0,2026-08-04
+134,RRR,Comedy,Tamil,2019,3.0,2026-08-04
+394,Pink,Thriller,Telugu,2016,3.0,2026-08-04
+24,Pink,Comedy,Kannada,2013,3.0,2026-08-05
+47,Baahubali,Sci-Fi,Hindi,2012,4.5,2026-08-05
+274,Pink,Comedy,Tamil,2024,4.0,2026-08-05
+212,Andhadhun,Action,Kannada,2011,4.0,2026-08-05
+6,RRR,Romance,Tamil,2020,4.5,2026-08-05
+464,Baahubali,Thriller,Tamil,2014,4.0,2026-08-05
+364,RRR,Action,Kannada,2010,3.5,2026-08-06
+251,RRR,Thriller,Kannada,2010,4.5,2026-08-06
+492,3 Idiots,Thriller,Hindi,2018,4.5,2026-08-06
+484,Baahubali,Comedy,Telugu,2014,3.5,2026-08-07
+486,Pink,Sci-Fi,Hindi,2011,3.5,2026-08-07
+252,3 Idiots,Romance,Hindi,2017,4.0,2026-08-07
+362,3 Idiots,Comedy,Tamil,2024,3.0,2026-08-07
+429,Dangal,Comedy,Hindi,2021,4.0,2026-08-08
+83,Pink,Thriller,Kannada,2020,3.0,2026-08-08
+224,KGF,Sci-Fi,Telugu,2014,4.5,2026-08-08
+66,Dangal,Drama,Hindi,2013,4.5,2026-08-08
+140,RRR,Thriller,Kannada,2022,4.0,2026-08-08
+207,Baahubali,Comedy,Kannada,2023,4.5,2026-08-09
+427,3 Idiots,Action,Tamil,2016,4.0,2026-08-09
+430,Dangal,Romance,Kannada,2015,4.5,2026-08-10
+195,Baahubali,Romance,Tamil,2019,2.5,2026-08-10
+165,3 Idiots,Romance,Tamil,2015,3.0,2026-08-11
+265,3 Idiots,Comedy,Tamil,2016,4.0,2026-08-11
+455,KGF,Sci-Fi,Hindi,2022,5.0,2026-08-11
+487,Dangal,Sci-Fi,Telugu,2011,4.5,2026-08-11
+114,3 Idiots,Comedy,Telugu,2013,4.0,2026-08-11
+94,RRR,Romance,Kannada,2017,5.0,2026-08-11
+353,Drishyam,Drama,Hindi,2015,3.5,2026-08-11
+151,3 Idiots,Romance,Hindi,2022,4.0,2026-08-12
+101,RRR,Action,Tamil,2011,3.5,2026-08-12
+17,3 Idiots,Thriller,Hindi,2024,3.0,2026-08-12
+202,KGF,Action,Kannada,2013,4.0,2026-08-12
+196,RRR,Drama,Telugu,2018,3.0,2026-08-12
+281,Andhadhun,Drama,Kannada,2017,4.5,2026-08-12
+101,Drishyam,Drama,Telugu,2019,2.5,2026-08-12
+357,Dangal,Thriller,Hindi,2019,3.5,2026-08-13
+339,3 Idiots,Thriller,Hindi,2019,4.0,2026-08-13
+231,Andhadhun,Sci-Fi,Tamil,2013,2.0,2026-08-13
+92,3 Idiots,Drama,Kannada,2019,4.5,2026-08-13
+253,Baahubali,Action,Tamil,2021,4.5,2026-08-13
+337,RRR,Romance,Hindi,2020,5.0,2026-08-14
+187,Pink,Sci-Fi,Telugu,2021,3.0,2026-08-14
+253,RRR,Action,Telugu,2022,3.5,2026-08-14
+178,Baahubali,Comedy,Hindi,2018,2.5,2026-08-15
+201,KGF,Comedy,Tamil,2014,3.0,2026-08-15
+175,KGF,Romance,Tamil,2013,2.5,2026-08-15
+358,Andhadhun,Thriller,Telugu,2011,3.0,2026-08-15
+230,Andhadhun,Thriller,Hindi,2013,4.5,2026-08-16
+233,3 Idiots,Comedy,Kannada,2012,4.0,2026-08-16
+326,Andhadhun,Comedy,Kannada,2024,4.5,2026-08-16
+181,Andhadhun,Action,Telugu,2018,3.0,2026-08-16
+52,KGF,Action,Kannada,2022,4.5,2026-08-16
+425,Drishyam,Sci-Fi,Kannada,2011,3.5,2026-08-16
+29,Dangal,Sci-Fi,Hindi,2010,2.0,2026-08-16
+286,Pink,Romance,Tamil,2010,4.0,2026-08-16
+134,Andhadhun,Action,Tamil,2015,4.0,2026-08-16
+108,Pink,Drama,Tamil,2010,1.0,2026-08-16
+22,Baahubali,Comedy,Kannada,2013,3.5,2026-08-17
+449,Dangal,Thriller,Telugu,2010,3.0,2026-08-17
+215,Andhadhun,Drama,Tamil,2017,5.0,2026-08-17
+172,Drishyam,Thriller,Kannada,2013,5.0,2026-08-18
+370,Baahubali,Sci-Fi,Telugu,2015,3.5,2026-08-18
+21,Baahubali,Sci-Fi,Tamil,2016,4.5,2026-08-18
+282,3 Idiots,Thriller,Kannada,2016,4.0,2026-08-19
+247,3 Idiots,Thriller,Tamil,2019,3.5,2026-08-19
+277,RRR,Thriller,Tamil,2024,4.5,2026-08-19
+63,Andhadhun,Action,Tamil,2013,3.5,2026-08-19
+475,RRR,Sci-Fi,Kannada,2020,4.0,2026-08-19
+120,RRR,Comedy,Tamil,2017,3.0,2026-08-19
+339,Pink,Comedy,Tamil,2010,3.0,2026-08-19
+373,Pink,Thriller,Telugu,2016,4.5,2026-08-19
+172,Andhadhun,Comedy,Kannada,2018,4.5,2026-08-20
+66,Pink,Action,Hindi,2019,3.0,2026-08-20
+149,RRR,Thriller,Hindi,2021,5.0,2026-08-20
+403,RRR,Thriller,Kannada,2014,4.0,2026-08-20
+452,Andhadhun,Thriller,Kannada,2010,4.0,2026-08-20
+467,RRR,Sci-Fi,Tamil,2017,4.0,2026-08-20
+114,Andhadhun,Sci-Fi,Tamil,2017,3.5,2026-08-20
+303,RRR,Thriller,Tamil,2010,3.5,2026-08-21
+77,3 Idiots,Comedy,Telugu,2024,3.5,2026-08-21
+355,RRR,Romance,Telugu,2018,4.5,2026-08-21
+208,RRR,Thriller,Kannada,2021,4.0,2026-08-22
+356,Pink,Drama,Hindi,2012,4.5,2026-08-22
+342,Dangal,Sci-Fi,Kannada,2017,4.0,2026-08-23
+495,Baahubali,Romance,Hindi,2018,5.0,2026-08-23
+244,3 Idiots,Sci-Fi,Kannada,2013,4.0,2026-08-23
+171,RRR,Thriller,Hindi,2016,5.0,2026-08-23
+263,Drishyam,Drama,Hindi,2013,4.5,2026-08-24
+82,Baahubali,Sci-Fi,Hindi,2015,4.5,2026-08-24
+57,Andhadhun,Sci-Fi,Hindi,2023,4.5,2026-08-24
+260,Dangal,Thriller,Tamil,2019,3.0,2026-08-24
+412,Drishyam,Thriller,Telugu,2022,4.5,2026-08-24
+267,Dangal,Sci-Fi,Kannada,2014,3.0,2026-08-24
+390,KGF,Drama,Telugu,2020,5.0,2026-08-24
+90,KGF,Comedy,Telugu,2012,4.0,2026-08-25
+225,Baahubali,Sci-Fi,Tamil,2017,3.5,2026-08-25
+174,3 Idiots,Sci-Fi,Hindi,2016,4.0,2026-08-25
+9,Pink,Drama,Tamil,2013,5.0,2026-08-25
+38,RRR,Comedy,Hindi,2019,4.5,2026-08-25
+463,Andhadhun,Comedy,Hindi,2020,2.5,2026-08-26
+302,Baahubali,Romance,Telugu,2023,3.5,2026-08-26
+133,RRR,Romance,Hindi,2018,5.0,2026-08-26
+130,Drishyam,Action,Hindi,2010,4.0,2026-08-26
+21,Drishyam,Comedy,Kannada,2019,4.0,2026-08-26
+471,3 Idiots,Romance,Hindi,2022,5.0,2026-08-27
+55,RRR,Thriller,Telugu,2018,4.0,2026-08-27
+379,KGF,Comedy,Tamil,2019,3.0,2026-08-27
+121,Drishyam,Thriller,Kannada,2022,3.5,2026-08-27
+168,3 Idiots,Drama,Telugu,2019,3.0,2026-08-28
+138,RRR,Action,Hindi,2013,4.0,2026-08-28
+411,Baahubali,Drama,Kannada,2023,4.5,2026-08-29
+18,3 Idiots,Romance,Tamil,2021,4.0,2026-08-29
+140,KGF,Action,Telugu,2018,2.5,2026-08-29
+137,Andhadhun,Comedy,Telugu,2022,3.0,2026-08-29
+97,Andhadhun,Action,Tamil,2019,5.0,2026-08-29
+455,Pink,Sci-Fi,Tamil,2021,3.5,2026-08-30
+190,Dangal,Thriller,Hindi,2018,2.5,2026-08-30
+209,Drishyam,Action,Telugu,2020,3.5,2026-08-30
+489,Dangal,Thriller,Tamil,2018,4.0,2026-08-30
+171,Baahubali,Action,Hindi,2016,5.0,2026-08-30
+164,KGF,Romance,Kannada,2019,4.5,2026-08-31
+46,KGF,Drama,Telugu,2015,4.5,2026-08-31
+302,Dangal,Comedy,Hindi,2010,3.5,2026-09-01
+14,Dangal,Thriller,Tamil,2024,2.0,2026-09-01
+114,Baahubali,Drama,Hindi,2011,3.5,2026-09-01
+102,3 Idiots,Action,Telugu,2015,3.0,2026-09-01
+146,3 Idiots,Drama,Kannada,2010,3.5,2026-09-01
+378,RRR,Comedy,Tamil,2018,3.5,2026-09-01
+299,3 Idiots,Thriller,Hindi,2023,4.0,2026-09-01
+494,Andhadhun,Drama,Tamil,2019,2.5,2026-09-01
+176,RRR,Sci-Fi,Telugu,2014,5.0,2026-09-01
+463,RRR,Sci-Fi,Telugu,2020,5.0,2026-09-02
+24,3 Idiots,Romance,Hindi,2013,4.5,2026-09-02
+252,Pink,Drama,Telugu,2021,4.0,2026-09-03
+399,Drishyam,Sci-Fi,Hindi,2017,4.5,2026-09-03
+266,Andhadhun,Thriller,Telugu,2019,4.5,2026-09-03
+465,KGF,Thriller,Tamil,2010,4.0,2026-09-03
+158,3 Idiots,Action,Hindi,2021,3.0,2026-09-03
+18,Pink,Comedy,Telugu,2012,2.5,2026-09-03
+386,Drishyam,Action,Telugu,2011,4.0,2026-09-04
+382,KGF,Action,Kannada,2016,3.0,2026-09-05
+366,Andhadhun,Sci-Fi,Tamil,2015,2.5,2026-09-05
+421,KGF,Thriller,Tamil,2019,3.0,2026-09-05
+240,Pink,Comedy,Kannada,2016,5.0,2026-09-05
+447,Drishyam,Comedy,Kannada,2013,5.0,2026-09-05
+86,RRR,Thriller,Hindi,2016,3.5,2026-09-06
+217,KGF,Sci-Fi,Kannada,2024,3.0,2026-09-06
+62,Andhadhun,Thriller,Kannada,2014,3.5,2026-09-06
+383,3 Idiots,Thriller,Hindi,2015,3.5,2026-09-06
+356,KGF,Sci-Fi,Telugu,2018,3.0,2026-09-06
+402,Dangal,Sci-Fi,Hindi,2015,3.0,2026-09-06
+155,RRR,Action,Kannada,2024,3.0,2026-09-07
+35,Drishyam,Thriller,Tamil,2020,4.5,2026-09-07
+463,3 Idiots,Comedy,Tamil,2020,3.0,2026-09-07
+246,Drishyam,Action,Hindi,2022,3.0,2026-09-07
+48,Andhadhun,Comedy,Telugu,2018,2.5,2026-09-08
+496,Baahubali,Action,Hindi,2019,4.5,2026-09-08
+223,KGF,Thriller,Telugu,2016,3.0,2026-09-09
+384,Dangal,Sci-Fi,Tamil,2011,4.5,2026-09-09
+20,RRR,Comedy,Telugu,2020,3.5,2026-09-09
+48,Pink,Comedy,Telugu,2012,4.5,2026-09-09
+139,Baahubali,Romance,Telugu,2010,5.0,2026-09-09
+328,3 Idiots,Comedy,Tamil,2011,4.5,2026-09-09
+68,Baahubali,Thriller,Telugu,2012,5.0,2026-09-09
+18,KGF,Sci-Fi,Telugu,2010,3.5,2026-09-10
+334,3 Idiots,Comedy,Telugu,2024,3.0,2026-09-10
+384,Pink,Action,Telugu,2017,5.0,2026-09-10
+399,3 Idiots,Comedy,Hindi,2016,4.5,2026-09-10
+401,Baahubali,Thriller,Hindi,2014,4.5,2026-09-11
+301,3 Idiots,Romance,Kannada,2013,4.5,2026-09-11
+260,Andhadhun,Sci-Fi,Hindi,2012,4.5,2026-09-12
+427,Pink,Drama,Kannada,2010,2.5,2026-09-12
+174,KGF,Comedy,Telugu,2024,4.5,2026-09-13
+50,Drishyam,Comedy,Kannada,2020,3.5,2026-09-13
+375,Andhadhun,Comedy,Telugu,2011,1.5,2026-09-13
+139,RRR,Comedy,Kannada,2021,2.5,2026-09-13
+488,Dangal,Thriller,Telugu,2019,2.5,2026-09-14
+207,Andhadhun,Sci-Fi,Telugu,2012,3.5,2026-09-14
+425,Dangal,Sci-Fi,Tamil,2014,4.0,2026-09-14
+23,Drishyam,Sci-Fi,Hindi,2021,4.0,2026-09-14
+329,RRR,Thriller,Hindi,2023,5.0,2026-09-15
+224,Dangal,Romance,Kannada,2012,4.0,2026-09-15
+231,RRR,Thriller,Tamil,2018,3.5,2026-09-15
+133,Dangal,Comedy,Telugu,2024,4.0,2026-09-15
+484,Andhadhun,Thriller,Tamil,2021,2.0,2026-09-15
+197,Dangal,Comedy,Tamil,2013,1.5,2026-09-15
+213,RRR,Sci-Fi,Hindi,2011,2.5,2026-09-16
+25,Drishyam,Comedy,Telugu,2019,3.0,2026-09-16
+439,Drishyam,Action,Tamil,2016,3.5,2026-09-17
+93,Baahubali,Drama,Hindi,2010,3.0,2026-09-17
+136,Dangal,Drama,Hindi,2013,4.0,2026-09-17
+429,RRR,Comedy,Telugu,2014,4.0,2026-09-17
+446,3 Idiots,Drama,Hindi,2022,4.0,2026-09-18
+457,Andhadhun,Comedy,Kannada,2011,5.0,2026-09-18
+213,3 Idiots,Thriller,Telugu,2011,2.5,2026-09-18
+378,KGF,Action,Hindi,2012,3.5,2026-09-18
+164,Drishyam,Drama,Tamil,2011,3.0,2026-09-18
+369,Baahubali,Thriller,Hindi,2010,4.5,2026-09-19
+251,Andhadhun,Drama,Kannada,2024,3.0,2026-09-19
+27,3 Idiots,Sci-Fi,Telugu,2017,3.5,2026-09-19
+209,RRR,Comedy,Hindi,2011,4.0,2026-09-20
+234,Andhadhun,Drama,Telugu,2021,2.5,2026-09-20
+129,Baahubali,Comedy,Tamil,2019,4.0,2026-09-20
+188,Drishyam,Romance,Telugu,2013,3.0,2026-09-20
+251,Pink,Action,Hindi,2019,3.5,2026-09-20
+26,3 Idiots,Romance,Hindi,2023,3.5,2026-09-20
+77,Pink,Drama,Tamil,2020,4.0,2026-09-21
+383,KGF,Romance,Telugu,2024,4.5,2026-09-21
+176,Andhadhun,Sci-Fi,Telugu,2015,5.0,2026-09-21
+304,KGF,Thriller,Tamil,2016,4.5,2026-09-21
+283,KGF,Romance,Hindi,2014,4.5,2026-09-22
+275,Pink,Drama,Telugu,2015,2.5,2026-09-22
+207,3 Idiots,Drama,Hindi,2015,4.0,2026-09-22
+242,RRR,Thriller,Telugu,2011,4.0,2026-09-22
+411,KGF,Romance,Tamil,2016,5.0,2026-09-22
+481,Baahubali,Action,Hindi,2021,2.5,2026-09-22
+129,3 Idiots,Sci-Fi,Telugu,2015,3.5,2026-09-22
+334,KGF,Sci-Fi,Hindi,2011,4.0,2026-09-22
+483,KGF,Comedy,Telugu,2020,5.0,2026-09-23
+5,RRR,Sci-Fi,Hindi,2024,4.0,2026-09-23
+392,3 Idiots,Sci-Fi,Tamil,2021,4.5,2026-09-23
+248,Andhadhun,Romance,Tamil,2020,2.0,2026-09-23
+482,KGF,Sci-Fi,Hindi,2011,4.0,2026-09-23
+289,Drishyam,Drama,Telugu,2014,3.5,2026-09-24
+418,KGF,Sci-Fi,Telugu,2016,3.0,2026-09-24
+84,Andhadhun,Romance,Kannada,2012,3.5,2026-09-24
+72,Baahubali,Comedy,Hindi,2022,2.5,2026-09-24
+462,3 Idiots,Sci-Fi,Hindi,2013,3.5,2026-09-24
+263,Pink,Drama,Tamil,2017,3.5,2026-09-25
+279,Baahubali,Thriller,Kannada,2013,4.0,2026-09-25
+86,Pink,Sci-Fi,Tamil,2021,2.5,2026-09-25
+114,KGF,Drama,Tamil,2013,3.5,2026-09-26
+408,Andhadhun,Romance,Telugu,2013,2.5,2026-09-26
+152,KGF,Thriller,Hindi,2015,4.0,2026-09-26
+292,Drishyam,Comedy,Telugu,2016,4.5,2026-09-26
+159,RRR,Comedy,Tamil,2016,3.0,2026-09-27
+132,Dangal,Comedy,Telugu,2012,3.5,2026-09-28
+84,3 Idiots,Romance,Telugu,2017,3.0,2026-09-28
+464,RRR,Action,Tamil,2012,3.5,2026-09-29
+469,RRR,Comedy,Telugu,2019,3.0,2026-09-29
+59,KGF,Comedy,Telugu,2017,4.5,2026-09-29
+177,Baahubali,Romance,Hindi,2017,2.5,2026-09-29
+282,Dangal,Thriller,Kannada,2014,3.5,2026-09-30
+192,Baahubali,Action,Telugu,2018,5.0,2026-09-30
+360,3 Idiots,Thriller,Kannada,2015,2.5,2026-10-01
+131,KGF,Thriller,Telugu,2011,4.0,2026-10-01
+31,RRR,Thriller,Hindi,2022,5.0,2026-10-02
+169,Baahubali,Sci-Fi,Tamil,2017,3.5,2026-10-02
+299,Pink,Romance,Tamil,2018,5.0,2026-10-02
+91,KGF,Comedy,Hindi,2010,4.0,2026-10-02
+407,Baahubali,Comedy,Tamil,2017,5.0,2026-10-02
+8,3 Idiots,Action,Tamil,2024,2.5,2026-10-02
+35,Pink,Romance,Hindi,2015,3.5,2026-10-03
+254,Dangal,Romance,Kannada,2022,5.0,2026-10-03
+256,KGF,Drama,Hindi,2011,3.0,2026-10-03
+148,KGF,Romance,Tamil,2010,3.0,2026-10-03
+130,KGF,Romance,Kannada,2013,3.0,2026-10-03
+36,Drishyam,Romance,Telugu,2011,4.5,2026-10-04
+331,Pink,Drama,Hindi,2011,4.5,2026-10-04
+190,RRR,Romance,Telugu,2010,3.5,2026-10-04
+60,Drishyam,Romance,Telugu,2012,5.0,2026-10-04
+200,RRR,Comedy,Kannada,2011,4.5,2026-10-05
+467,Dangal,Action,Tamil,2012,3.0,2026-10-05
+131,Dangal,Comedy,Hindi,2021,3.0,2026-10-05
+446,Pink,Romance,Telugu,2019,4.5,2026-10-06
+130,Dangal,Thriller,Hindi,2011,4.0,2026-10-06
+94,Drishyam,Thriller,Kannada,2016,2.5,2026-10-06
+131,Baahubali,Romance,Telugu,2024,5.0,2026-10-06
+162,Andhadhun,Comedy,Kannada,2021,5.0,2026-10-06
+61,Pink,Romance,Kannada,2017,3.0,2026-10-06
+294,Drishyam,Action,Telugu,2014,3.5,2026-10-06
+167,KGF,Comedy,Kannada,2018,4.0,2026-10-06
+358,Baahubali,Thriller,Telugu,2011,2.5,2026-10-06
+246,3 Idiots,Action,Hindi,2010,2.5,2026-10-07
+222,RRR,Drama,Kannada,2018,3.5,2026-10-07
+236,Baahubali,Romance,Telugu,2016,4.0,2026-10-08
+79,Andhadhun,Thriller,Kannada,2013,4.0,2026-10-08
+356,3 Idiots,Action,Hindi,2014,3.5,2026-10-08
+53,Baahubali,Action,Tamil,2023,5.0,2026-10-08
+360,Pink,Romance,Kannada,2012,3.0,2026-10-09
+498,Pink,Drama,Hindi,2010,4.0,2026-10-09
+381,Andhadhun,Action,Telugu,2015,3.5,2026-10-09
+228,Andhadhun,Thriller,Telugu,2016,2.0,2026-10-09
+158,RRR,Drama,Hindi,2023,5.0,2026-10-09
+435,3 Idiots,Sci-Fi,Hindi,2011,3.0,2026-10-10
+129,Andhadhun,Sci-Fi,Kannada,2021,5.0,2026-10-10
+241,Drishyam,Drama,Hindi,2012,4.5,2026-10-10
+385,KGF,Thriller,Telugu,2013,5.0,2026-10-10
+460,Andhadhun,Drama,Telugu,2023,4.5,2026-10-10
+459,RRR,Comedy,Telugu,2018,3.0,2026-10-11
+45,Drishyam,Romance,Tamil,2011,4.5,2026-10-11
+58,Baahubali,Thriller,Kannada,2024,4.0,2026-10-11
+292,3 Idiots,Romance,Hindi,2017,4.5,2026-10-12
+464,Pink,Sci-Fi,Tamil,2016,5.0,2026-10-12
+327,Drishyam,Thriller,Kannada,2020,3.5,2026-10-12
+472,Drishyam,Sci-Fi,Tamil,2019,4.5,2026-10-12
+173,Dangal,Comedy,Hindi,2012,3.5,2026-10-12
+158,Andhadhun,Comedy,Kannada,2022,5.0,2026-10-12
+164,Andhadhun,Sci-Fi,Hindi,2015,3.5,2026-10-12
+178,KGF,Romance,Hindi,2018,3.5,2026-10-12
+341,Drishyam,Drama,Tamil,2015,3.5,2026-10-13
+226,Baahubali,Drama,Kannada,2016,3.0,2026-10-13
+368,Andhadhun,Drama,Kannada,2016,3.5,2026-10-13
+208,Pink,Drama,Telugu,2021,3.5,2026-10-13
+154,Pink,Romance,Kannada,2010,2.0,2026-10-13
+96,KGF,Romance,Hindi,2019,4.0,2026-10-13
+275,RRR,Romance,Telugu,2023,4.0,2026-10-14
+448,Dangal,Romance,Hindi,2016,2.5,2026-10-14
+428,3 Idiots,Action,Kannada,2020,5.0,2026-10-14
+127,Dangal,Romance,Kannada,2024,2.5,2026-10-14
+239,Drishyam,Drama,Tamil,2017,3.5,2026-10-14
+352,KGF,Romance,Kannada,2016,3.0,2026-10-14
+306,Andhadhun,Romance,Telugu,2015,5.0,2026-10-15
+35,Andhadhun,Romance,Hindi,2013,3.0,2026-10-15
+295,3 Idiots,Sci-Fi,Telugu,2017,4.0,2026-10-15
+21,Dangal,Drama,Kannada,2019,3.5,2026-10-15
+59,Dangal,Action,Tamil,2011,3.0,2026-10-15
+326,3 Idiots,Romance,Hindi,2020,3.5,2026-10-15
+52,3 Idiots,Drama,Kannada,2018,3.0,2026-10-16
+170,Baahubali,Action,Tamil,2020,3.0,2026-10-16
+294,Pink,Comedy,Tamil,2011,4.0,2026-10-16
+327,Dangal,Romance,Telugu,2011,2.5,2026-10-16
+223,Dangal,Romance,Telugu,2019,5.0,2026-10-16
+48,Baahubali,Romance,Tamil,2016,5.0,2026-10-16
+399,RRR,Thriller,Hindi,2024,4.5,2026-10-17
+474,Baahubali,Comedy,Kannada,2014,3.5,2026-10-17
+443,Dangal,Sci-Fi,Tamil,2023,4.0,2026-10-17
+374,Andhadhun,Action,Telugu,2016,5.0,2026-10-17
+201,Pink,Comedy,Kannada,2012,5.0,2026-10-18
+437,Pink,Drama,Hindi,2017,4.0,2026-10-18
+244,Andhadhun,Romance,Kannada,2021,4.5,2026-10-18
+69,KGF,Sci-Fi,Telugu,2020,2.0,2026-10-19
+424,Andhadhun,Romance,Kannada,2010,2.5,2026-10-20
+161,Pink,Comedy,Hindi,2024,3.0,2026-10-20
+468,KGF,Comedy,Tamil,2022,4.0,2026-10-20
+185,Pink,Action,Telugu,2018,2.5,2026-10-21
+434,RRR,Drama,Kannada,2012,3.0,2026-10-21
+268,Dangal,Action,Kannada,2021,3.5,2026-10-21
+234,Baahubali,Romance,Tamil,2022,3.0,2026-10-21
+149,Dangal,Thriller,Telugu,2020,4.5,2026-10-21
+417,Baahubali,Romance,Hindi,2014,4.0,2026-10-22
+32,Baahubali,Action,Telugu,2015,2.5,2026-10-22
+235,KGF,Action,Kannada,2013,4.0,2026-10-22
+185,Drishyam,Drama,Kannada,2015,2.0,2026-10-22
+272,KGF,Sci-Fi,Tamil,2020,3.5,2026-10-22
+128,Dangal,Action,Kannada,2010,3.5,2026-10-22
+332,Baahubali,Action,Hindi,2015,3.5,2026-10-22
+193,Pink,Romance,Tamil,2013,4.5,2026-10-23
+95,Dangal,Action,Telugu,2020,4.0,2026-10-23
+99,Pink,Romance,Telugu,2024,4.5,2026-10-23
+348,KGF,Sci-Fi,Telugu,2012,3.0,2026-10-23
+132,KGF,Drama,Telugu,2013,3.5,2026-10-24
+154,KGF,Action,Hindi,2014,3.0,2026-10-24
+313,KGF,Sci-Fi,Hindi,2010,3.0,2026-10-24
+165,Dangal,Comedy,Telugu,2020,2.5,2026-10-24
+194,Dangal,Sci-Fi,Telugu,2020,4.0,2026-10-24
+123,Andhadhun,Comedy,Tamil,2023,4.0,2026-10-24
+173,RRR,Sci-Fi,Tamil,2020,3.0,2026-10-24

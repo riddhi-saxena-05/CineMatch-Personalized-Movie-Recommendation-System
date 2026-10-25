@@ -1,0 +1,8 @@
+1–2 minute demo outline
+0:00–0:10 — Introduce CineMatch and the goal: personalized movie suggestions from ratings.
+0:10–0:25 — Show the dataset summary cards (clean ratings, users, movies, average rating).
+0:25–0:50 — Select a user and choose Hybrid. Explain that the system uses rating patterns to estimate likely preferences.
+0:50–1:10 — Switch between User-based CF, Item-based CF, and SVD. Point out that predictions can differ by method.
+1:10–1:25 — Show popular movies and recent rating history; briefly show the JSON endpoint if appropriate.
+1:25–1:40 — Explain evaluation: RMSE measures rating prediction error; Precision@5 measures the fraction of top-five suggestions that were relevant (held-out rating >= 4).
+1:40–1:55 — Mention the ethical consideration: avoid filter bubbles and measure catalogue diversity. Disclose the current dataset limitation of only eight unique movie titles.

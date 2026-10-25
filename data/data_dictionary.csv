@@ -1,0 +1,8 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description
+user_id,integer,496,42,80,No,Unique identifier for the user who submitted a movie rating.
+movie_title,string,Pink,KGF,Pink,No,Title of the rated movie; used as the item identifier in this dataset.
+genre,string,Thriller,Action,Action,No,Primary genre assigned to the movie.
+language,string,Tamil,Tamil,Hindi,No,Language associated with the movie.
+release_year,integer,2010,2020,2010,No,Year the movie was released.
+rating,float,3.5,4.0,5.0,No,User-provided rating on a 1.0–5.0 scale.
+timestamp,date,2025-09-06,2024-05-03,2025-06-11,No,Date on which the rating was recorded; normalized to YYYY-MM-DD.
