@@ -115,4 +115,7 @@ def api_recommendations(user_id):
     return {"user_id": user_id, "method": method, "recommendations": recommend(user_id, method, 5)}
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
+
